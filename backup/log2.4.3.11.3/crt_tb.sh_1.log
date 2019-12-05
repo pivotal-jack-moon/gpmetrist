@@ -1,0 +1,74 @@
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 14558.808 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 14444.067 ms
+crt_tb.sh|2019-11-29 17:48:30|2019-11-29 17:48:59|29
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 147800.100 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4561.724 ms
+crt_tb.sh|2019-11-29 17:48:59|2019-11-29 17:51:32|153
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6273.342 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4287.001 ms
+crt_tb.sh|2019-11-29 17:51:32|2019-11-29 17:51:42|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 57859.437 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 82045.771 ms
+crt_tb.sh|2019-11-29 17:51:42|2019-11-29 17:54:02|140
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5923.084 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3894.352 ms
+crt_tb.sh|2019-11-29 17:54:02|2019-11-29 17:54:12|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 32281.707 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 49194.976 ms
+crt_tb.sh|2019-11-29 17:54:12|2019-11-29 17:55:34|82
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 45875.472 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 6374.485 ms
+crt_tb.sh|2019-11-29 17:55:34|2019-11-29 17:56:26|52
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4429.046 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4970.581 ms
+crt_tb.sh|2019-11-29 17:56:26|2019-11-29 17:56:35|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 94949.333 ms
+drop table if exists tb_crt1;
+Cancel request sent
+WARNING:  canceling wait for synchronous replication due to user request
+DETAIL:  The transaction has already committed locally, but might not have been replicated to the standby.
+DROP TABLE
+Time: 83567.528 ms

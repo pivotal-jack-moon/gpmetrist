@@ -1,0 +1,1920 @@
+
+20191129 17:48:32                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:32|  1   2  96   0   0   0|   0   104k| 149k  479k| 390M  103M 3429M 3951M
+[smdw]  29-11 17:48:32|  4   2  95   0   0   0|   0   256k| 362k  135k| 436M 69.3M 5449M 1918M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:32|  2   1  97   0   0   0|   0   256k| 152k  220k| 306M 35.9M 3131M  360M
+[sdw2]  29-11 17:48:32|  2   1  97   0   0   0|   0   256k| 260k  167k| 301M 34.1M 3113M  384M
+[sdw3]  29-11 17:48:31|  2   2  97   0   0   0|   0   256k| 205k  128k| 301M 29.4M 3137M  365M
+[sdw4]  29-11 17:48:33|  2   2  51  46   0   0|   0   192k| 166k  161k| 301M 31.8M 3122M  378M
+[sdw5]  29-11 17:48:32|  3   3  49  46   0   0|   0   128k| 237k  371k| 300M 34.2M 3138M  360M
+[sdw6]  29-11 17:48:32|  3   3  95   0   0   0|   0   256k| 442k  293k| 303M 34.6M 3171M  324M
+
+20191129 17:48:37                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:37|  0   0 100   0   0   0|   0   140k|8512B 3808B| 399M  103M 3429M 3942M
+[smdw]  29-11 17:48:37|  0   0  94   5   0   0|   0  1718k| 144k 1902k| 473M 69.3M 5449M 1882M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:37|  0   0  99   1   0   0|   0  1364k|1894k  129k| 341M 35.9M 3132M  324M
+[sdw2]  29-11 17:48:37|  1   1  98   2   0   0|   0  1119k| 149k 1323k| 339M 34.1M 3113M  346M
+[sdw3]  29-11 17:48:36|  0   0  89  11   0   0|   0  1636k|1325k  764k| 339M 29.4M 3137M  327M
+[sdw4]  29-11 17:48:38|  0   1  94   6   0   0|   0  1830k| 769k  566k| 337M 31.8M 3120M  344M
+[sdw5]  29-11 17:48:37|  0   1  88  12   0   0|   0  1617k| 575k 1396k| 337M 34.2M 3134M  327M
+[sdw6]  29-11 17:48:37|  1   1  94   5   0   0|   0  1649k|1398k  163k| 338M 34.6M 3171M  289M
+
+20191129 17:48:42                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:42|  1   1  97   1   0   0|   0  1164k|  84k  287k| 401M  103M 3429M 3939M
+[smdw]  29-11 17:48:42|  4   3  83  10   0   0|   0  1259k|1104k 1504k| 497M 69.3M 5445M 1861M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:42|  4   3  86   8   0   0|   0  1151k|1318k 1180k| 380M 35.9M 3127M  290M
+[sdw2]  29-11 17:48:42|  3   3  87   7   0   0|   0  1552k|1211k  816k| 363M 34.1M 3111M  325M
+[sdw3]  29-11 17:48:42|  3   3  94   1   0   0|   0  1948k| 854k  285k| 370M 29.4M 3138M  295M
+[sdw4]  29-11 17:48:43|  4   3  90   3   0   0|   0  1840k| 323k  881k| 362M 31.8M 3118M  321M
+[sdw5]  29-11 17:48:42|  4   4  85   8   0   0|   0  2008k| 922k 1045k| 362M 34.2M 3135M  302M
+[sdw6]  29-11 17:48:42|  4   3  92   2   0   0|   0  1704k|1072k 1061k| 363M 34.6M 3167M  267M
+
+20191129 17:48:47                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:47|  0   0 100   0   0   0|   0    82k|  18k 7268B| 400M  103M 3429M 3941M
+[smdw]  29-11 17:48:47|  1   1  99   1   0   0|   0  1270k| 654k  662k| 565M 69.3M 5443M 1796M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:47|  0   1  98   1   0   1|   0  1132k| 654k  796k| 434M 35.9M 3126M  237M
+[sdw2]  29-11 17:48:47|  0   1  96   3   0   0|   0  1101k| 801k  710k| 430M 34.1M 3107M  261M
+[sdw3]  29-11 17:48:47|  1   1  99   0   0   0|   0  1129k| 714k  669k| 430M 29.4M 3131M  242M
+[sdw4]  29-11 17:48:48|  1   1  99   1   0   0|   0  1131k| 638k  507k| 429M 31.8M 3116M  255M
+[sdw5]  29-11 17:48:47|  0   1  99   1   0   0|   0  1131k| 552k  538k| 428M 34.3M 3133M  237M
+[sdw6]  29-11 17:48:47|  0   0  99   1   0   0|   0  1173k| 545k  637k| 431M 34.6M 3165M  202M
+
+20191129 17:48:52                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:52|  0   0 100   0   0   0|   0    16k|5933B 2790B| 386M  103M 3429M 3955M
+[smdw]  29-11 17:48:52|  1   1  99   0   0   0|   0   732k| 521k   10k| 488M 69.3M 5443M 1871M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:52|  0   0  90  10   0   0|   0   597k|  10k  619k| 359M 35.9M 3128M  310M
+[sdw2]  29-11 17:48:52|  0   0  84  16   0   0|   0   741k| 654k   97k| 354M 34.1M 3109M  335M
+[sdw3]  29-11 17:48:52|  1   0  83  17   0   0|   0   259k| 104k  501k| 354M 29.4M 3134M  315M
+[sdw4]  29-11 17:48:53|  0   1  91   9   0   0|   0   582k| 537k  366k| 354M 31.9M 3118M  329M
+[sdw5]  29-11 17:48:52|  0   0  99   2   0   0|   0  1414k| 373k  695k| 353M 34.3M 3136M  309M
+[sdw6]  29-11 17:48:53|  0   0  89  11   0   0|   0  1282k| 688k  531k| 355M 34.7M 3167M  275M
+
+20191129 17:48:57                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:48:57|  0   1  99   0   0   0|   0    98k|7164B 6880B| 382M  103M 3429M 3958M
+[smdw]  29-11 17:48:58|  0   1  89  10   0   0|   0   105k|6287k   13k| 451M 69.3M 5449M 1903M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:48:58|  1   1  99   0   0   0|   0     0 |1258B  770B| 322M 35.9M 3137M  338M
+[sdw2]  29-11 17:48:57|  0   0  99   0   0   0|   0  6144B|1258B  770B| 318M 34.1M 3117M  364M
+[sdw3]  29-11 17:48:57|  0   1 100   0   0   0|   0   600k|1258B  770B| 318M 29.4M 3145M  340M
+[sdw4]  29-11 17:48:58|  0   1  99   0   0   0|   0     0 |1258B  858B| 317M 31.9M 3123M  360M
+[sdw5]  29-11 17:48:58|  0   0  99   0   0   0|   0     0 |1258B  770B| 316M 34.3M 3143M  339M
+[sdw6]  29-11 17:48:58|  2   1  94   4   0   0|   0  7462k|  13k 6243k| 319M 34.7M 3179M  300M
+
+20191129 17:49:03                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:03|  0   0 100   0   0   0|   0     0 |3014B  498B| 383M  103M 3429M 3958M
+[smdw]  29-11 17:49:03|  0   1 100   0   0   0|   0    48k|  66B   66B| 451M 69.3M 5449M 1904M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:03|  0   0 100   0   0   0|   0     0 |7639B  440B| 320M 36.0M 3140M  337M
+[sdw2]  29-11 17:49:03|  0   0 100   0   0   0|   0     0 | 198B  440B| 315M 34.1M 3118M  365M
+[sdw3]  29-11 17:49:02|  0   0 100   0   0   0|   0     0 |  66B   66B| 316M 29.4M 3145M  341M
+[sdw4]  29-11 17:49:04|  0   0 100   0   0   0|   0     0 |  66B   66B| 316M 31.9M 3123M  361M
+[sdw5]  29-11 17:49:03|  0   1 100   0   0   0|   0     0 | 792B  134k| 315M 34.3M 3143M  340M
+[sdw6]  29-11 17:49:03|  0   0 100   0   0   0|   0     0 | 140k 1034B| 318M 34.7M 3179M  300M
+
+20191129 17:49:08                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:08|  0   0 100   0   0   0|   0    80k|4603B 3592B| 378M  103M 3429M 3963M
+[smdw]  29-11 17:49:08|  0   0 100   0   0   0|   0     0 | 634k 9456B| 451M 69.4M 5449M 1904M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:08|  0   0 100   0   0   0|   0    64k|  10k  636k| 321M 36.0M 3140M  336M
+[sdw2]  29-11 17:49:08|  0   0 100   0   0   0|   0   112k| 675k 2816B| 316M 34.1M 3118M  364M
+[sdw3]  29-11 17:49:07|  0   0 100   0   0   0|   0     0 |1616B  728k| 316M 29.4M 3145M  341M
+[sdw4]  29-11 17:49:09|  0   0  99   1   0   0|   0    69k| 777k 1694B| 316M 31.9M 3123M  361M
+[sdw5]  29-11 17:49:08|  0   0 100   0   0   0|   0    30k| 230B   66B| 315M 34.3M 3143M  340M
+[sdw6]  29-11 17:49:08|  0   0 100   0   0   0|   0     0 |1154B  528k| 318M 34.7M 3179M  300M
+
+20191129 17:49:13                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:13|  0   0 100   0   0   0|   0  8192B|3829B 2196B| 380M  103M 3429M 3961M
+[smdw]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 | 118B   66B| 451M 69.4M 5449M 1903M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 | 118B   66B| 320M 36.0M 3140M  336M
+[sdw2]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 |9605B  158k| 316M 34.1M 3118M  364M
+[sdw3]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 | 188k 9795B| 317M 29.4M 3145M  341M
+[sdw4]  29-11 17:49:14|  0   0 100   0   0   0|   0     0 | 118B   66B| 316M 31.9M 3123M  361M
+[sdw5]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 | 118B   66B| 315M 34.3M 3143M  340M
+[sdw6]  29-11 17:49:13|  0   0 100   0   0   0|   0     0 | 118B   66B| 318M 34.7M 3179M  300M
+
+20191129 17:49:18                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:18|  0   0 100   0   0   0|   0    16k|4816B 2696B| 379M  103M 3429M 3962M
+[smdw]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1088B   66B| 451M 69.4M 5449M 1903M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1088B   66B| 320M 36.0M 3140M  336M
+[sdw2]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1088B   66B| 316M 34.1M 3118M  363M
+[sdw3]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1088B   66B| 316M 29.4M 3145M  341M
+[sdw4]  29-11 17:49:19|  0   0 100   0   0   0|   0     0 |1088B   66B| 316M 31.9M 3123M  361M
+[sdw5]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1046B  108B| 316M 34.3M 3143M  339M
+[sdw6]  29-11 17:49:18|  0   0 100   0   0   0|   0     0 |1088B   66B| 318M 34.7M 3180M  300M
+
+20191129 17:49:23                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:23|  0   1 100   0   0   0|   0    84k|6461B 6068B| 398M  103M 3429M 3943M
+[smdw]  29-11 17:49:23|  0   0 100   0   0   0|   0     0 |2217B  440B| 441M 69.4M 5449M 1913M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:23|  0   0  99   0   0   0|   0   128k|  34k  319k| 310M 36.0M 3140M  347M
+[sdw2]  29-11 17:49:23|  0   0 100   1   0   0|   0   640k| 330k  466k| 306M 34.1M 3119M  373M
+[sdw3]  29-11 17:49:23|  0   0  99   0   0   0|   0   512k| 437k   10k| 307M 29.5M 3146M  350M
+[sdw4]  29-11 17:49:24|  0   0 100   0   0   0|   0     0 |2217B  440B| 305M 31.9M 3123M  372M
+[sdw5]  29-11 17:49:23|  0   0 100   0   0   0|   0     0 |2217B  440B| 304M 34.3M 3143M  351M
+[sdw6]  29-11 17:49:24|  0   0 100   0   0   0|   0     0 |2217B  440B| 308M 34.7M 3180M  310M
+
+20191129 17:49:28                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:28|  0   0 100   0   0   0|   0    40k|4276B 3960B| 393M  103M 3429M 3948M
+[smdw]  29-11 17:49:29|  0   0 100   0   0   0|   0     0 | 136B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:29|  0   0 100   0   0   0|   0     0 | 136B   66B| 311M 36.0M 3140M  345M
+[sdw2]  29-11 17:49:28|  0   1 100   0   0   0|   0    26k| 136B   66B| 307M 34.1M 3119M  372M
+[sdw3]  29-11 17:49:28|  0   0 100   0   0   0|   0     0 | 136B   66B| 308M 29.5M 3146M  350M
+[sdw4]  29-11 17:49:29|  1   0 100   0   0   0|   0     0 | 136B   66B| 307M 31.9M 3123M  370M
+[sdw5]  29-11 17:49:28|  1   0 100   0   0   0|   0    28k| 136B   66B| 306M 34.3M 3143M  349M
+[sdw6]  29-11 17:49:29|  0   0 100   0   0   0|   0     0 | 136B   66B| 309M 34.7M 3180M  309M
+
+20191129 17:49:34                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:34|  0   0 100   0   0   0|   0    24k|3765B 2394B| 396M  103M 3429M 3945M
+[smdw]  29-11 17:49:34|  0   0 100   0   0   0|   0     0 | 230B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:34|  0   0 100   0   0   0|   0     0 | 230B  154B| 311M 36.0M 3140M  345M
+[sdw2]  29-11 17:49:34|  0   0 100   0   0   0|   0     0 |7803B  440B| 308M 34.1M 3119M  372M
+[sdw3]  29-11 17:49:33|  0   0 100   0   0   0|   0    81k|  16k  106k| 308M 29.5M 3146M  349M
+[sdw4]  29-11 17:49:35|  0   0 100   0   0   0|   0    64k|  99k   16k| 307M 31.9M 3123M  370M
+[sdw5]  29-11 17:49:34|  0   0 100   0   0   0|   0     0 | 230B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:49:34|  0   0 100   0   0   0|   0     0 | 230B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:49:39                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:39|  0   0 100   0   0   0|   0    24k|3200B 2894B| 395M  103M 3429M 3946M
+[smdw]  29-11 17:49:39|  0   0 100   0   0   0|   0     0 |  66B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:39|  0   0 100   0   0   0|   0     0 |  66B   66B| 311M 36.0M 3140M  345M
+[sdw2]  29-11 17:49:39|  0   0 100   0   0   0|   0    72k|  66B   66B| 307M 34.2M 3119M  372M
+[sdw3]  29-11 17:49:38|  0   0 100   0   0   0|   0     0 |  66B   66B| 307M 29.5M 3146M  350M
+[sdw4]  29-11 17:49:40|  0   1 100   0   0   0|   0    64k|  66B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:49:39|  0   0 100   0   0   0|   0    64k|  66B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:49:39|  0   0 100   0   0   0|   0     0 |  66B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:49:44                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:44|  1   1  99   0   0   0|   0     0 |3274B 1064B| 398M  103M 3429M 3943M
+[smdw]  29-11 17:49:44|  0   0 100   0   0   0|   0     0 | 230B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:44|  0   0 100   0   0   0|   0     0 | 230B   66B| 311M 36.1M 3140M  345M
+[sdw2]  29-11 17:49:44|  0   0 100   0   0   0|   0     0 | 230B   66B| 308M 34.2M 3119M  372M
+[sdw3]  29-11 17:49:44|  0   0 100   0   0   0|   0     0 | 230B  154B| 307M 29.5M 3146M  350M
+[sdw4]  29-11 17:49:45|  0   0 100   0   0   0|   0     0 | 230B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:49:44|  0   0 100   0   0   0|   0  8192B| 230B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:49:44|  0   0 100   0   0   0|   0     0 | 230B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:49:49                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:49|  1   1  99   0   0   0|   0    24k|3898B 2762B| 395M  103M 3429M 3946M
+[smdw]  29-11 17:49:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 311M 36.1M 3140M  345M
+[sdw2]  29-11 17:49:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 307M 34.2M 3119M  372M
+[sdw3]  29-11 17:49:49|  0   0 100   0   0   0|   0    48k| 170B   66B| 308M 29.5M 3146M  349M
+[sdw4]  29-11 17:49:50|  0   0 100   0   0   0|   0     0 | 170B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:49:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:49:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:49:54                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:54|  0   1  99   0   0   0|   0   152k|4054B 2526B| 396M  103M 3429M 3944M
+[smdw]  29-11 17:49:54|  0   0 100   0   0   0|   0     0 |7639B  440B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:54|  0   0 100   0   0   0|   0   128k|  17k  198k| 311M 36.1M 3140M  345M
+[sdw2]  29-11 17:49:54|  0   0 100   0   0   0|   0   128k| 190k   17k| 308M 34.2M 3119M  372M
+[sdw3]  29-11 17:49:54|  0   0 100   0   0   0|   0     0 |  66B   66B| 308M 29.5M 3146M  349M
+[sdw4]  29-11 17:49:55|  0   0 100   0   0   0|   0     0 |  66B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:49:54|  0   0 100   0   0   0|   0     0 |  66B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:49:55|  0   0 100   0   0   0|   0     0 |  66B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:49:59                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:49:59|  0   1 100   0   0   0|   0     0 |2980B  564B| 399M  103M 3429M 3941M
+[smdw]  29-11 17:50:00|  0   0 100   0   0   0|   0     0 | 230B   66B| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:49:59|  0   0 100   0   0   0|   0     0 | 230B   66B| 311M 36.1M 3140M  345M
+[sdw2]  29-11 17:49:59|  0   0 100   0   0   0|   0     0 | 230B   66B| 308M 34.2M 3119M  372M
+[sdw3]  29-11 17:49:59|  0   1 100   0   0   0|   0  3072B| 428B   29k| 308M 29.5M 3146M  349M
+[sdw4]  29-11 17:50:00|  0   0 100   0   0   0|   0     0 |  37k  506B| 306M 32.0M 3123M  371M
+[sdw5]  29-11 17:49:59|  0   0 100   0   0   0|   0     0 | 230B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:50:00|  0   0 100   0   0   0|   0     0 | 230B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:50:04                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:04|  0   1  99   0   0   0|   0     0 |3806B 1564B| 398M  103M 3429M 3943M
+[smdw]  29-11 17:50:05|  0   0 100   0   0   0|   0     0 |1128B  103k| 442M 69.4M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:05|  0   0 100   0   0   0|   0     0 | 123k  836B| 312M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:05|  0   0 100   0   0   0|   0     0 | 600B   66B| 308M 34.2M 3119M  371M
+[sdw3]  29-11 17:50:04|  0   0 100   0   0   0|   0     0 | 600B   66B| 308M 29.5M 3146M  349M
+[sdw4]  29-11 17:50:05|  0   0 100   0   0   0|   0    68k| 600B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:50:05|  0   0 100   0   0   0|   0    64k| 600B   66B| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:50:05|  1   0 100   0   0   0|   0     0 | 600B   66B| 309M 34.8M 3180M  308M
+
+20191129 17:50:10                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:10|  0   1 100   0   0   0|   0     0 |3208B  998B| 398M  103M 3429M 3942M
+[smdw]  29-11 17:50:10|  0   0 100   0   0   0|   0     0 | 230B   66B| 442M 69.5M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:10|  1   0 100   0   0   0|   0     0 | 230B   66B| 311M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:10|  0   0 100   0   0   0|   0     0 | 230B  154B| 308M 34.2M 3119M  372M
+[sdw3]  29-11 17:50:09|  0   0 100   0   0   0|   0     0 | 230B   66B| 308M 29.6M 3146M  349M
+[sdw4]  29-11 17:50:11|  0   0 100   0   0   0|   0     0 | 230B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:50:10|  0   0 100   0   0   0|   0     0 | 230B   66B| 305M 34.4M 3143M  349M
+[sdw6]  29-11 17:50:10|  0   0 100   0   0   0|   0     0 | 230B   66B| 309M 34.8M 3180M  309M
+
+20191129 17:50:15                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:15|  0   1 100   0   0   0|   0    24k|3618B 2762B| 396M  103M 3429M 3945M
+[smdw]  29-11 17:50:15|  0   0 100   0   0   0|   0  8192B|  66B   66B| 442M 69.5M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:15|  0   0 100   0   0   0|   0  2048B|  66B   66B| 312M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:15|  0   0 100   0   0   0|   0     0 |  66B   66B| 308M 34.2M 3119M  371M
+[sdw3]  29-11 17:50:15|  0   0 100   0   0   0|   0     0 |7639B  440B| 308M 29.6M 3146M  349M
+[sdw4]  29-11 17:50:16|  0   0 100   1   0   0|   0    97k| 198B  440B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:50:15|  0   0 100   0   0   0|   0    89k|  39k  164k| 306M 34.4M 3143M  349M
+[sdw6]  29-11 17:50:15|  0   0 100   0   0   0|   0   110k| 164k   32k| 309M 34.8M 3180M  308M
+
+20191129 17:50:20                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:20|  0   0  99   0   0   0|   0    16k|3840B 3328B| 394M  103M 3429M 3946M
+[smdw]  29-11 17:50:20|  0   0 100   0   0   0|   0     0 | 126B   66B| 442M 69.5M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:20|  0   0 100   0   0   0|   0     0 | 126B   66B| 312M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:20|  0   0 100   0   0   0|   0    30k| 126B   66B| 308M 34.2M 3119M  371M
+[sdw3]  29-11 17:50:20|  0   0 100   0   0   0|   0    14k| 126B   66B| 308M 29.6M 3146M  349M
+[sdw4]  29-11 17:50:21|  0   0 100   0   0   0|   0     0 | 126B   66B| 307M 32.0M 3123M  370M
+[sdw5]  29-11 17:50:20|  0   0 100   0   0   0|   0     0 | 126B  154B| 306M 34.5M 3143M  349M
+[sdw6]  29-11 17:50:20|  0   0 100   0   0   0|   0     0 | 126B  154B| 310M 34.9M 3180M  308M
+
+20191129 17:50:25                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:25|  0   0 100   0   0   0|   0    16k|3194B 1696B| 397M  103M 3429M 3943M
+[smdw]  29-11 17:50:25|  0   0 100   0   0   0|   0     0 |  15k  572B| 442M 69.5M 5449M 1912M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:25|  0   0 100   0   0   0|   0     0 | 644B  440B| 312M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:25|  0   0 100   0   0   0|   0   169k| 230B   66B| 308M 34.2M 3119M  371M
+[sdw3]  29-11 17:50:25|  0   0 100   0   0   0|   0     0 | 290B   66B| 308M 29.6M 3146M  349M
+[sdw4]  29-11 17:50:26|  0   0 100   0   0   0|   0   144k| 380B   66B| 307M 32.1M 3123M  370M
+[sdw5]  29-11 17:50:25|  0   0 100   0   0   0|   0     0 | 230B   66B| 306M 34.5M 3143M  349M
+[sdw6]  29-11 17:50:26|  0   0 100   0   0   0|   0     0 | 380B   66B| 310M 34.9M 3180M  308M
+
+20191129 17:50:30                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:30|  0   0 100   0   0   0|   0  8192B|9013B   16k| 398M  103M 3429M 3942M
+[smdw]  29-11 17:50:30|  0   0 100   0   0   0|   0    64k| 103k 9319B| 443M 69.5M 5449M 1911M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:30|  0   0 100   0   0   0|   0    64k|2182B  954B| 312M 36.1M 3140M  345M
+[sdw2]  29-11 17:50:30|  0   0 100   0   0   0|   0     0 |2974B  129k| 308M 34.3M 3119M  371M
+[sdw3]  29-11 17:50:30|  0   0 100   0   0   0|   0     0 | 143k 1812B| 308M 29.6M 3146M  349M
+[sdw4]  29-11 17:50:31|  0   0 100   0   0   0|   0     0 |2182B  954B| 307M 32.1M 3123M  369M
+[sdw5]  29-11 17:50:30|  0   0 100   0   0   0|   0     0 |2182B  954B| 306M 34.5M 3143M  349M
+[sdw6]  29-11 17:50:31|  0   0 100   0   0   0|   0    64k|  10k  103k| 310M 34.9M 3180M  308M
+
+20191129 17:50:35                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:35|  1   1  99   0   0   0|   0    16k|3985B 2196B| 396M  103M 3429M 3944M
+[smdw]  29-11 17:50:36|  0   0 100   0   0   0|   0    80k| 112k  914k| 443M 69.5M 5449M 1911M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:36|  0   0 100   0   0   0|   0     0 | 911k 3608B| 312M 36.2M 3140M  344M
+[sdw2]  29-11 17:50:35|  0   0 100   0   0   0|   0  3072B|3002B  557k| 309M 34.3M 3119M  370M
+[sdw3]  29-11 17:50:35|  0   0 100   0   0   0|   0  5120B| 604k 3014B| 308M 29.6M 3146M  348M
+[sdw4]  29-11 17:50:36|  0   0 100   0   0   0|   0    23k| 230B   66B| 308M 32.1M 3123M  369M
+[sdw5]  29-11 17:50:36|  0   0 100   0   0   0|   0   137k|  24k  296k| 306M 34.5M 3143M  349M
+[sdw6]  29-11 17:50:36|  0   0 100   1   0   0|   0   254k| 312k  126k| 310M 34.9M 3180M  308M
+
+20191129 17:50:41                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:41|  0   0  99   0   0   0|   0    40k|6920B 6322B| 399M  103M 3429M 3941M
+[smdw]  29-11 17:50:41|  0   0 100   0   0   0| 128k  128k| 958B  958B| 443M 69.5M 5449M 1911M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:41|  0   1  99   0   0   0| 128k  136k| 958B  958B| 312M 36.2M 3140M  344M
+[sdw2]  29-11 17:50:41|  1   0 100   0   0   0| 128k  144k| 958B  958B| 309M 34.3M 3119M  370M
+[sdw3]  29-11 17:50:40|  0   0  99   0   0   0| 128k  136k| 958B  958B| 308M 29.6M 3146M  348M
+[sdw4]  29-11 17:50:42|  0   0  99   0   0   0| 128k  280k|  17k  196k| 308M 32.1M 3123M  369M
+[sdw5]  29-11 17:50:41|  0   0  99   0   0   0| 128k  312k| 196k 9741B| 306M 34.5M 3143M  349M
+[sdw6]  29-11 17:50:41|  0   0  99   0   0   0| 128k  321k| 892B 1024B| 310M 34.9M 3180M  308M
+
+20191129 17:50:46                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:46|  6   5  86   0   0   3|   0   160k| 767k 2285k| 402M  103M 3429M 3938M
+[smdw]  29-11 17:50:46| 51  16  27   2   0   4|   0   128k|3192k 3272k| 558M 69.5M 5450M 1794M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:46| 57  16  25   0   0   2|   0   256k|3356k 3426k| 440M 36.2M 3142M  215M
+[sdw2]  29-11 17:50:46| 56  17  24   0   0   3|   0   256k|3516k 3905k| 436M 34.3M 3124M  238M
+[sdw3]  29-11 17:50:46| 55  18  26   0   0   2|   0     0 |4010k 3415k| 435M 29.6M 3148M  220M
+[sdw4]  29-11 17:50:47| 56  16  26   0   0   2|   0     0 |3515k 5002k| 431M 32.1M 3124M  246M
+[sdw5]  29-11 17:50:46| 54  19  25   0   0   2|   0    13k|5008k 2960k| 434M 34.5M 3144M  220M
+[sdw6]  29-11 17:50:46| 54  18  27   0   0   1|   0  1216k|3187k 2961k| 434M 34.9M 3181M  183M
+
+20191129 17:50:51                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:51|  1   1  99   0   0   1|   0    24k|4692B 4752B| 402M  103M 3429M 3938M
+[smdw]  29-11 17:50:51|  0   0 100   0   0   0|   0    25k| 512B  440B| 571M 69.6M 5450M 1782M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:51|  0   0 100   0   0   0|   0     0 | 446B  440B| 440M 36.2M 3142M  214M
+[sdw2]  29-11 17:50:51|  0   0 100   0   0   0|   0   128k|8679B  102k| 437M 34.3M 3124M  237M
+[sdw3]  29-11 17:50:51|  0   0 100   0   0   0|   0   128k| 101k 1056B| 436M 29.6M 3148M  219M
+[sdw4]  29-11 17:50:52|  0   0 100   0   0   0|   0     0 | 446B  440B| 435M 32.1M 3124M  242M
+[sdw5]  29-11 17:50:51|  0   0 100   0   0   0|   0   307k|7887B  440B| 435M 34.5M 3144M  219M
+[sdw6]  29-11 17:50:52|  0   0 100   0   0   0|   0    24k|7953B  660B| 437M 34.9M 3181M  180M
+
+20191129 17:50:56                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:50:56|  1   0 100   0   0   0|   0    24k|4214B 4104B| 406M  103M 3429M 3935M
+[smdw]  29-11 17:50:57|  0   0 100   0   0   0|   0     0 | 648B  440B| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:50:57|  0   0 100   0   0   0|   0   256k| 450B   66B| 472M 36.2M 3142M  182M
+[sdw2]  29-11 17:50:56|  1   0 100   0   0   0|   0  2624k| 714B   47k| 469M 34.3M 3124M  205M
+[sdw3]  29-11 17:50:56|  0   0 100   0   0   0|   0   768k|  52k  572B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:50:57|  0   0 100   0   0   0|   0     0 | 450B   66B| 467M 32.1M 3124M  210M
+[sdw5]  29-11 17:50:57|  0   0 100   0   0   0|   0     0 | 450B   66B| 467M 34.5M 3144M  187M
+[sdw6]  29-11 17:50:57|  0   0  99   1   0   0|   0    88k|8089B  440B| 469M 34.9M 3181M  147M
+
+20191129 17:51:02                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:02|  1   1  99   0   0   0|   0    48k|3546B 4236B| 405M  103M 3429M 3935M
+[smdw]  29-11 17:51:02|  0   0 100   0   0   0|   0  2048k| 398B  154B| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:02|  0   0 100   0   0   0|   0  2080k| 398B   66B| 472M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:02|  0   0 100   0   0   0|   0   144k| 398B   66B| 469M 34.3M 3124M  205M
+[sdw3]  29-11 17:51:01|  0   0 100   0   0   0|   0  1920k| 398B   66B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:03|  0   0 100   0   0   0|   0  2048B| 398B   66B| 467M 32.1M 3124M  210M
+[sdw5]  29-11 17:51:02|  0   0  99   1   0   0|   0    40k| 398B   66B| 467M 34.6M 3144M  187M
+[sdw6]  29-11 17:51:02|  0   0 100   0   0   0|   0   896k| 398B   66B| 469M 34.9M 3181M  148M
+
+20191129 17:51:07                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:07|  0   0  99   0   0   0|   0   104k|3640B 5302B| 403M  103M 3429M 3937M
+[smdw]  29-11 17:51:07|  0   0 100   0   0   0|   0     0 | 234B   66B| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:07|  0   0 100   0   0   0|   0     0 | 234B   66B| 472M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:07|  0   0 100   0   0   0|   0     0 | 234B   66B| 469M 34.3M 3124M  205M
+[sdw3]  29-11 17:51:06|  0   1 100   0   0   0|   0  5120B| 234B  154B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:08|  0   0 100   0   0   0|   0     0 | 234B   66B| 467M 32.1M 3124M  210M
+[sdw5]  29-11 17:51:07|  0   0 100   0   0   0|   0     0 | 234B   66B| 467M 34.6M 3144M  187M
+[sdw6]  29-11 17:51:07|  0   0 100   0   0   0|   0     0 | 234B  154B| 469M 35.0M 3181M  148M
+
+20191129 17:51:12                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:12|  0   0 100   0   0   0|   0    35k|5244B 2960B| 404M  103M 3429M 3936M
+[smdw]  29-11 17:51:12|  0   0 100   0   0   0|   0   128k| 313k  120k| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:12|  0   0 100   0   0   0|   0   128k| 118k   39k| 472M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:12|  0   0 100   0   0   0|   0     0 | 828B   66B| 469M 34.3M 3124M  205M
+[sdw3]  29-11 17:51:12|  0   0 100   0   0   0|   0     0 | 828B   66B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:13|  0   0 100   0   0   0|   0     0 | 828B   66B| 467M 32.2M 3124M  209M
+[sdw5]  29-11 17:51:12|  0   0 100   0   0   0|   0  3072B| 932B  154B| 467M 34.6M 3144M  186M
+[sdw6]  29-11 17:51:12|  0   0 100   0   0   0|   0     0 |2544B  236k| 469M 35.0M 3181M  147M
+
+20191129 17:51:17                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:17|  0   0 100   0   0   0|   0    32k|3784B 1064B| 408M  103M 3429M 3932M
+[smdw]  29-11 17:51:17|  0   0 100   0   0   0|   0     0 | 806B   66B| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:17|  0   0 100   0   0   0|   0     0 | 806B  154B| 473M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:17|  0   0 100   0   0   0|   0     0 | 764B  108B| 471M 34.4M 3124M  203M
+[sdw3]  29-11 17:51:17|  0   0 100   0   0   0|   0     0 | 806B   66B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:18|  0   0 100   0   0   0|   0     0 | 806B  154B| 468M 32.2M 3124M  209M
+[sdw5]  29-11 17:51:17|  0   0 100   0   0   0|   0     0 | 806B   66B| 467M 34.6M 3144M  187M
+[sdw6]  29-11 17:51:17|  0   0 100   0   0   0|   0  4096B| 806B   66B| 469M 35.0M 3181M  147M
+
+20191129 17:51:22                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:22|  0   0 100   0   0   0|   0     0 |3008B  498B| 409M  103M 3429M 3931M
+[smdw]  29-11 17:51:22|  0   0 100   0   0   0|   0    13k| 126B   66B| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:22|  0   1 100   0   0   0|   0     0 | 126B   66B| 473M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:22|  0   0 100   0   0   0|   0     0 | 126B   66B| 470M 34.4M 3124M  205M
+[sdw3]  29-11 17:51:22|  0   0 100   0   0   0|   0  2048B| 126B   66B| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:23|  0   0 100   0   0   0|   0     0 | 126B   66B| 468M 32.2M 3124M  209M
+[sdw5]  29-11 17:51:22|  0   0 100   0   0   0|   0     0 | 126B   66B| 467M 34.6M 3144M  186M
+[sdw6]  29-11 17:51:23|  0   0 100   0   0   0|   0    19k| 126B   66B| 469M 35.0M 3181M  147M
+
+20191129 17:51:27                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:27|  1   0 100   0   0   0|   0   344k|  26k   15k| 407M  103M 3429M 3933M
+[smdw]  29-11 17:51:28|  0   1  98   1   0   0|   0  1340k| 611k  601k| 603M 69.6M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:28|  0   1  97   3   0   0|   0  1384k| 617k  626k| 473M 36.2M 3142M  182M
+[sdw2]  29-11 17:51:27|  0   1  95   5   0   0|   0  1394k| 625k  637k| 469M 34.4M 3124M  205M
+[sdw3]  29-11 17:51:27|  0   1  99   1   0   0|   0  1739k| 628k  626k| 468M 29.7M 3148M  187M
+[sdw4]  29-11 17:51:28|  1   0  98   0   0   0|   0  1508k| 655k  738k| 467M 32.2M 3124M  209M
+[sdw5]  29-11 17:51:28|  1   1  92   7   0   0|   0  3426k| 756k 2723k| 466M 34.6M 3144M  187M
+[sdw6]  29-11 17:51:28|  0   1  89  10   0   0|   0  3277k|2699k  613k| 469M 35.0M 3181M  147M
+
+20191129 17:51:33                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:33|  4   4  90   2   0   1|   0   688k| 522k 1725k| 409M  103M 3430M 3931M
+[smdw]  29-11 17:51:33| 28  14  55   4   0   0|   0  1504k|2383k 2101k| 507M 69.6M 5452M 1844M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:33| 30  12  56   1   0   1|   0  1490k|2280k 2341k| 385M 36.3M 3143M  268M
+[sdw2]  29-11 17:51:33| 27  12  56   4   0   1|   0  1562k|2527k 2374k| 376M 34.4M 3125M  297M
+[sdw3]  29-11 17:51:32| 29  13  52   4   0   1|   0  1816k|2885k 2541k| 387M 29.7M 3149M  266M
+[sdw4]  29-11 17:51:34| 28  14  52   5   0   1|   0  1765k|2691k 2225k| 371M 32.2M 3125M  304M
+[sdw5]  29-11 17:51:33| 28  14  55   1   0   1|   0  1805k|2696k 2430k| 386M 34.6M 3146M  266M
+[sdw6]  29-11 17:51:33| 28  13  55   2   0   2|   0  1552k|2550k 2179k| 389M 35.0M 3183M  226M
+
+20191129 17:51:38                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:38|  1   1  98   0   0   0|   0   243k|  28k   70k| 388M  103M 3430M 3952M
+[smdw]  29-11 17:51:38|  1   1  93   6   0   0|   0  1244k| 761k  643k| 526M 69.7M 5451M 1826M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:38|  2   1  88  10   0   0|   0  1206k| 611k  700k| 396M 36.3M 3143M  257M
+[sdw2]  29-11 17:51:38|  1   2  78  20   0   0|   0  1420k| 760k  878k| 392M 34.4M 3125M  282M
+[sdw3]  29-11 17:51:38|  1   1  93   5   0   0|   0  1472k| 909k  729k| 392M 29.7M 3148M  263M
+[sdw4]  29-11 17:51:39|  1   2  92   6   0   0|   0  1276k| 715k  718k| 391M 32.2M 3124M  285M
+[sdw5]  29-11 17:51:38|  1   1  94   4   0   1|   0  1301k| 710k  802k| 390M 34.6M 3145M  263M
+[sdw6]  29-11 17:51:38|  1   2  89   9   0   0|   0  1277k| 825k  738k| 393M 35.0M 3182M  223M
+
+20191129 17:51:43                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:43|  4   4  91   0   0   1|   0   210k| 400k 1273k| 402M  103M 3430M 3938M
+[smdw]  29-11 17:51:43| 20   9  65   4   0   1|   0  1138k|1874k 2803k| 487M 69.7M 5450M 1865M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:43| 23  10  62   4   0   1|   0  1070k|2919k 1666k| 365M 36.3M 3142M  289M
+[sdw2]  29-11 17:51:43| 23  11  65   1   0   1|   0   934k|1764k 2918k| 361M 34.4M 3123M  314M
+[sdw3]  29-11 17:51:43| 22  11  65   2   0   1|   0   864k|3038k 1918k| 361M 29.8M 3148M  294M
+[sdw4]  29-11 17:51:44| 22  11  67   0   0   1|   0   872k|2054k 2088k| 359M 32.2M 3123M  318M
+[sdw5]  29-11 17:51:43| 20  10  69   1   0   1|   0   872k|2243k 1672k| 359M 34.6M 3144M  295M
+[sdw6]  29-11 17:51:43| 22   9  63   6   0   0|   0   977k|1745k 1868k| 357M 35.0M 3180M  260M
+
+20191129 17:51:48                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:48|  1   0 100   0   0   0|   0   300k|  13k   41k| 404M  103M 3430M 3936M
+[smdw]  29-11 17:51:48|  1   1  77  22   0   0|   0  1684k|1740k  828k| 601M 69.7M 5448M 1753M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:48|  1   1  97   2   0   0|   0   684k| 850k  904k| 472M 36.3M 3140M  184M
+[sdw2]  29-11 17:51:48|  1   0  85  14   0   0|   0   735k| 909k 1121k| 468M 34.4M 3122M  208M
+[sdw3]  29-11 17:51:48|  1   1  99   0   0   0|   0  1056k|1159k 1013k| 467M 29.8M 3146M  190M
+[sdw4]  29-11 17:51:49|  1   0  99   0   0   0|   0   677k|1015k  977k| 466M 32.2M 3121M  214M
+[sdw5]  29-11 17:51:48|  1   1  87  12   0   0|   0  1251k|1009k 1341k| 465M 34.7M 3142M  190M
+[sdw6]  29-11 17:51:49|  1   1  79  20   0   0|   0  2212k|1358k 1743k| 468M 35.0M 3180M  149M
+
+20191129 17:51:53                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:53|  0   0 100   0   0   0|   0    32k|5988B 4092B| 403M  103M 3430M 3937M
+[smdw]  29-11 17:51:54|  0   0  99   1   0   0|   0   311k|  17k  294k| 603M 69.7M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:54|  0   0 100   1   0   0|   0   337k| 315k   71k| 474M 36.3M 3141M  182M
+[sdw2]  29-11 17:51:53|  0   0 100   0   0   0|   0   131k|  63k   70k| 469M 34.4M 3124M  206M
+[sdw3]  29-11 17:51:53|  0   0  85  15   0   0|   0   133k|  87k  350k| 468M 29.8M 3147M  188M
+[sdw4]  29-11 17:51:54|  0   0  85  15   0   0|   0   642k| 388k  381k| 467M 32.2M 3121M  212M
+[sdw5]  29-11 17:51:54|  1   0  98   2   0   0|   0  1123k| 358k  284k| 466M 34.7M 3143M  189M
+[sdw6]  29-11 17:51:54|  0   1  97   3   0   0|   0   419k| 260k 2024B| 469M 35.1M 3181M  147M
+
+20191129 17:51:59                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:51:59|  0   1 100   0   0   0|   0  8192B|6022B 3944B| 407M  103M 3430M 3933M
+[smdw]  29-11 17:51:59|  0   0  96   4   0   0|   0  1096k| 762k   20k| 603M 69.7M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:51:59|  0   0 100   0   0   0|   0    76k|  16k   44k| 473M 36.3M 3142M  181M
+[sdw2]  29-11 17:51:59|  1   0  92   8   0   0|   0   522k|  64k  325k| 469M 34.4M 3124M  205M
+[sdw3]  29-11 17:51:58|  0   0 100   0   0   0|   0   517k| 325k   64k| 468M 29.8M 3147M  188M
+[sdw4]  29-11 17:52:00|  0   0  80  20   0   0|   0   411k|  64k  260k| 467M 32.3M 3122M  211M
+[sdw5]  29-11 17:51:59|  0   1  90  10   0   0|   0  1019k| 271k  636k| 466M 34.7M 3144M  188M
+[sdw6]  29-11 17:51:59|  1   0  87  13   0   0|   0  1701k| 716k  781k| 469M 35.1M 3183M  146M
+
+20191129 17:52:04                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:04|  0   0 100   0   0   0|   0    16k|4559B 1828B| 400M  103M 3430M 3939M
+[smdw]  29-11 17:52:04|  0   1  98   2   0   0|   0   579k| 362B  440B| 566M 69.7M 5450M 1787M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:04|  0   0 100   0   0   0|   0   160k|  24k  101k| 436M 36.3M 3143M  217M
+[sdw2]  29-11 17:52:04|  0   0  99   1   0   0|   0   223k| 112k  365k| 432M 34.5M 3126M  240M
+[sdw3]  29-11 17:52:03|  0   0  77  23   0   0|   0  1536k| 357k   80k| 430M 29.8M 3148M  224M
+[sdw4]  29-11 17:52:05|  0   0  65  35   0   0|   0  1920k|  62k 8673B| 430M 32.3M 3123M  247M
+[sdw5]  29-11 17:52:04|  0   0  82  17   0   0|   0  1162k| 662k 3872B| 429M 34.7M 3146M  223M
+[sdw6]  29-11 17:52:04|  0   0  99   1   0   0|   0   586k|9981B  378k| 432M 35.1M 3186M  180M
+
+20191129 17:52:09                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:09|  0   0 100   0   0   0|   0  8192B|3096B 1064B| 401M  103M 3430M 3939M
+[smdw]  29-11 17:52:09|  1   0  52  48   0   0|   0   512k|1108B  440k| 565M 69.7M 5452M 1786M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:09|  0   0  53  47   0   0|   0   512k| 472k 1364B| 436M 36.3M 3144M  216M
+[sdw2]  29-11 17:52:09|  0   0  52  48   0   0|   0   512k| 118B  154B| 432M 34.5M 3128M  239M
+[sdw3]  29-11 17:52:09|  0   0   9  92   0   0|   0   832k| 118B   66B| 430M 29.8M 3150M  222M
+[sdw4]  29-11 17:52:10|  0   0  54  46   0   0|   0   256k| 118B   66B| 430M 32.3M 3123M  246M
+[sdw5]  29-11 17:52:09|  0   0 100   0   0   0|   0    41k| 118B   66B| 429M 34.7M 3147M  222M
+[sdw6]  29-11 17:52:09|  0   0 100   0   0   0|   0     0 | 118B   66B| 432M 35.1M 3190M  176M
+
+20191129 17:52:14                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:14|  0   0 100   0   0   0|   0    16k|3002B 2262B| 399M  103M 3430M 3941M
+[smdw]  29-11 17:52:14|  0   0 100   0   0   0|   0     0 | 168B   66B| 566M 69.7M 5452M 1785M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:14|  0   0 100   0   0   0|   0     0 | 168B   66B| 436M 36.3M 3144M  215M
+[sdw2]  29-11 17:52:14|  0   1 100   0   0   0|   0     0 | 168B   66B| 432M 34.5M 3128M  239M
+[sdw3]  29-11 17:52:14|  0   0 100   0   0   0|   0     0 | 168B   66B| 431M 29.8M 3150M  222M
+[sdw4]  29-11 17:52:15|  0   0 100   0   0   0|   0     0 | 168B   66B| 431M 32.3M 3123M  246M
+[sdw5]  29-11 17:52:14|  0   0 100   0   0   0|   0    16k| 168B   66B| 429M 34.7M 3147M  222M
+[sdw6]  29-11 17:52:14|  0   0 100   0   0   0|   0     0 | 168B   66B| 432M 35.1M 3190M  175M
+
+20191129 17:52:19                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:19|  0   0  99   0   0   0|   0     0 |9182B 6940B| 395M  103M 3430M 3944M
+[smdw]  29-11 17:52:19|  1   0  90   9   0   1|   0  1835k| 712k 1387k| 528M 69.8M 5452M 1822M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:19|  0   1  81  19   0   0|   0  2269k|1348k  789k| 398M 36.3M 3145M  253M
+[sdw2]  29-11 17:52:19|  0   0  84  15   0   0|   0  1636k| 756k  854k| 394M 34.5M 3129M  276M
+[sdw3]  29-11 17:52:19|  0   0  93   7   0   0|   0  1204k| 865k  351k| 392M 29.8M 3150M  260M
+[sdw4]  29-11 17:52:20|  0   0  89  11   0   0|   0  1456k| 351k  858k| 393M 32.3M 3124M  283M
+[sdw5]  29-11 17:52:19|  1   0  88  12   0   0|   0  2132k| 869k  955k| 391M 34.7M 3147M  259M
+[sdw6]  29-11 17:52:20|  0   1  87  13   0   0|   0  1612k| 998k  671k| 395M 35.1M 3190M  212M
+
+20191129 17:52:24                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:24|  1   1  99   0   0   0|   0     0 |3112B 1402B| 388M  103M 3430M 3951M
+[smdw]  29-11 17:52:25|  0   0 100   0   0   0|   0     0 | 258B  528B| 491M 69.8M 5454M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:25|  0   0 100   0   0   0|   0     0 |7825B  528B| 360M 36.4M 3151M  286M
+[sdw2]  29-11 17:52:24|  0   0 100   0   0   0|   0     0 | 198B  440B| 356M 34.5M 3136M  306M
+[sdw3]  29-11 17:52:24|  0   0 100   0   0   0|   0     0 |7765B  440B| 354M 29.8M 3153M  295M
+[sdw4]  29-11 17:52:25|  0   0 100   0   0   0|   0     0 | 192B   66B| 355M 32.3M 3125M  321M
+[sdw5]  29-11 17:52:24|  0   0 100   0   0   0|   0  8192B| 192B   66B| 354M 34.7M 3150M  294M
+[sdw6]  29-11 17:52:25|  0   0 100   1   0   0|   0    72k| 108B  154B| 357M 35.1M 3192M  248M
+
+20191129 17:52:30                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:30|  1   1  99   0   0   0|   0    16k|3422B 2196B| 386M  103M 3430M 3953M
+[smdw]  29-11 17:52:30|  0   1  97   3   0   0|   0  1984k| 126k  660B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:30|  0   0 100   0   0   0|   0     0 | 230B   66B| 360M 36.4M 3151M  286M
+[sdw2]  29-11 17:52:30|  0   0 100   0   0   0|   0     0 | 230B   66B| 356M 34.5M 3136M  306M
+[sdw3]  29-11 17:52:29|  0   1 100   0   0   0|   0     0 | 230B   66B| 355M 29.9M 3154M  293M
+[sdw4]  29-11 17:52:31|  0   1 100   0   0   0|   0     0 | 230B   66B| 355M 32.3M 3125M  320M
+[sdw5]  29-11 17:52:30|  0   0  99   0   0   0|   0    56k| 356B   66B| 354M 34.7M 3150M  293M
+[sdw6]  29-11 17:52:30|  0   0  98   2   0   0|   0  1984k| 554B  118k| 358M 35.1M 3194M  246M
+
+20191129 17:52:35                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:35|  1   1  99   0   0   0|   0  8192B|3140B 1262B| 388M  103M 3430M 3951M
+[smdw]  29-11 17:52:35|  0   0 100   0   0   0|   0    25k| 108B   66B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:35|  0   0 100   0   0   0|   0     0 | 192B   66B| 360M 36.4M 3151M  286M
+[sdw2]  29-11 17:52:35|  0   0 100   0   0   0|   0     0 | 192B   66B| 356M 34.5M 3136M  306M
+[sdw3]  29-11 17:52:34|  0   0 100   0   0   0|   0     0 |7765B  440B| 355M 29.9M 3154M  294M
+[sdw4]  29-11 17:52:36|  0   0 100   0   0   0|   0   126k| 198B  440B| 355M 32.3M 3125M  320M
+[sdw5]  29-11 17:52:35|  0   0 100   0   0   0|   0     0 |1320B  156k| 354M 34.7M 3150M  293M
+[sdw6]  29-11 17:52:35|  0   0 100   0   0   0|   0    50k| 158k 1628B| 357M 35.1M 3194M  246M
+
+20191129 17:52:40                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:40|  0   1 100   0   0   0|   0    50k|5990B 6568B| 383M  103M 3430M 3956M
+[smdw]  29-11 17:52:40|  0   0 100   0   0   0|   0  5120B| 159k 1562B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:40|  0   0 100   0   0   0|   0     0 | 126B   66B| 360M 36.4M 3151M  286M
+[sdw2]  29-11 17:52:40|  0   0 100   0   0   0|   0     0 |  26k  456k| 357M 34.5M 3136M  306M
+[sdw3]  29-11 17:52:40|  0   0 100   0   0   0|   0     0 | 457k   26k| 355M 29.9M 3154M  293M
+[sdw4]  29-11 17:52:41|  0   0 100   0   0   0|   0  8192B| 126B   66B| 355M 32.3M 3125M  320M
+[sdw5]  29-11 17:52:40|  0   0 100   0   0   0|   0     0 | 562B  742B| 355M 34.8M 3150M  293M
+[sdw6]  29-11 17:52:40|  0   0 100   0   0   0|   0   256k|1610B  152k| 358M 35.2M 3194M  246M
+
+20191129 17:52:45                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:45|  1   1  99   0   0   0|   0    32k|8958B 2828B| 385M  103M 3430M 3954M
+[smdw]  29-11 17:52:45|  0   0 100   0   0   0|   0     0 |5340B   66B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:45|  0   0 100   0   0   0|   0     0 |5340B   66B| 360M 36.4M 3151M  285M
+[sdw2]  29-11 17:52:45|  0   0 100   0   0   0|   0     0 |5340B   66B| 356M 34.6M 3136M  306M
+[sdw3]  29-11 17:52:45|  0   0 100   0   0   0|   0     0 |5340B   66B| 356M 29.9M 3154M  292M
+[sdw4]  29-11 17:52:46|  0   0 100   0   0   0|   0     0 |5340B   66B| 355M 32.4M 3125M  320M
+[sdw5]  29-11 17:52:45|  0   0 100   0   0   0|   0    64k|7056B  905k| 354M 34.8M 3150M  293M
+[sdw6]  29-11 17:52:45|  0   0 100   0   0   0|   0    64k| 917k 2024B| 358M 35.2M 3194M  246M
+
+20191129 17:52:50                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:50|  0   0  99   0   0   0|   0   328k|2958B 1762B| 388M  103M 3430M 3952M
+[smdw]  29-11 17:52:50|  0   0 100   0   0   0|   0    10k| 236B   66B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:50|  0   0 100   0   0   0|   0     0 | 236B   66B| 360M 36.4M 3151M  285M
+[sdw2]  29-11 17:52:50|  0   0 100   0   0   0|   0     0 | 236B  154B| 357M 34.6M 3136M  305M
+[sdw3]  29-11 17:52:50|  0   0 100   0   0   0|   0     0 | 236B   66B| 356M 29.9M 3157M  290M
+[sdw4]  29-11 17:52:51|  0   0 100   0   0   0|   0     0 |1820B  323k| 356M 32.4M 3126M  318M
+[sdw5]  29-11 17:52:50|  0   1 100   0   0   0|   0  4480k| 316k 1892B| 354M 34.8M 3150M  293M
+[sdw6]  29-11 17:52:51|  0   0 100   0   0   0|   0     0 | 236B   66B| 358M 35.2M 3194M  246M
+
+20191129 17:52:55                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:52:55|  0   0 100   0   0   0|   0  2560k|4149B  498B| 389M  103M 3430M 3950M
+[smdw]  29-11 17:52:56|  0   0 100   0   0   0|   0     0 |1399B  440B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:52:56|  0   0 100   0   0   0|   0     0 |1135B   66B| 360M 36.4M 3151M  285M
+[sdw2]  29-11 17:52:55|  0   0 100   0   0   0|   0     0 |1135B   66B| 356M 34.6M 3136M  306M
+[sdw3]  29-11 17:52:55|  0   0 100   0   0   0|   0     0 |1135B   66B| 356M 29.9M 3157M  290M
+[sdw4]  29-11 17:52:56|  0   0 100   0   0   0|   0   160k|1135B   66B| 356M 32.4M 3126M  319M
+[sdw5]  29-11 17:52:55|  0   0 100   0   0   0|   0     0 |1135B   66B| 354M 34.8M 3151M  293M
+[sdw6]  29-11 17:52:56|  0   0 100   1   0   0|   0    64k|  16k  440B| 357M 35.2M 3194M  246M
+
+20191129 17:53:01                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:01|  0   0  99   0   0   0|   0    48k|3434B 2196B| 387M  103M 3430M 3953M
+[smdw]  29-11 17:53:01|  0   0 100   0   0   0|   0     0 |  66B   66B| 491M 69.8M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:01|  0   1 100   0   0   0|   0     0 | 108B  528B| 360M 36.4M 3151M  286M
+[sdw2]  29-11 17:53:01|  0   0 100   0   0   0|   0     0 |  31k  124k| 357M 34.6M 3136M  305M
+[sdw3]  29-11 17:53:00|  0   0 100   0   0   0|   0     0 | 124k   24k| 356M 29.9M 3157M  290M
+[sdw4]  29-11 17:53:02|  0   0 100   0   0   0|   0     0 |  66B   66B| 356M 32.4M 3126M  319M
+[sdw5]  29-11 17:53:01|  0   0 100   1   0   0|   0    40k|  66B   66B| 354M 34.8M 3151M  292M
+[sdw6]  29-11 17:53:01|  0   1 100   0   0   0|   0     0 |  66B   66B| 357M 35.2M 3194M  246M
+
+20191129 17:53:06                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:06|  1   0  99   0   0   0|   0  8192B|4838B 1696B| 387M  103M 3430M 3952M
+[smdw]  29-11 17:53:06|  0   0 100   0   0   0|   0   120k|2182B   66B| 491M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:06|  0   0 100   0   0   0|   0    64k|2182B  154B| 360M 36.5M 3151M  286M
+[sdw2]  29-11 17:53:06|  0   0 100   0   0   0|   0     0 |2182B   66B| 357M 34.6M 3136M  305M
+[sdw3]  29-11 17:53:05|  0   0 100   0   0   0|   0    16k|2182B   66B| 356M 29.9M 3157M  290M
+[sdw4]  29-11 17:53:07|  0   0 100   0   0   0|   0     0 |2182B  154B| 355M 32.4M 3126M  319M
+[sdw5]  29-11 17:53:06|  0   0 100   0   0   0|   0     0 |2182B  154B| 355M 34.8M 3151M  292M
+[sdw6]  29-11 17:53:06|  0   0 100   0   0   0|   0   920k|2182B   66B| 357M 35.2M 3194M  246M
+
+20191129 17:53:11                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:11|  1   0  98   0   0   0|   0    16k|5152B 2056B| 388M  103M 3430M 3951M
+[smdw]  29-11 17:53:11|  0   1 100   0   0   0|   0   640k|4402B  535k| 491M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:11|  0   0 100   0   0   0|   0   176k| 583k 3080B| 361M 36.5M 3151M  284M
+[sdw2]  29-11 17:53:11|  0   0 100   0   0   0|   0  1408k|1696B   66B| 356M 34.6M 3136M  306M
+[sdw3]  29-11 17:53:11|  0   0 100   0   0   0|   0  1792k|1654B  108B| 357M 30.0M 3157M  288M
+[sdw4]  29-11 17:53:12|  0   0 100   0   0   0|   0  1056k|1696B   66B| 356M 32.4M 3126M  318M
+[sdw5]  29-11 17:53:11|  0   0 100   0   0   0|   0     0 |1696B   66B| 354M 34.8M 3151M  292M
+[sdw6]  29-11 17:53:11|  0   0 100   0   0   0|   0   536k|1696B   66B| 358M 35.2M 3194M  246M
+
+20191129 17:53:16                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:16|  0   0  99   0   0   0|   0    32k|3788B 2762B| 386M  103M 3430M 3954M
+[smdw]  29-11 17:53:16|  0   0 100   0   0   0|   0   448k| 126B   66B| 491M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:16|  1   0 100   0   0   0|   0   512k| 126B   66B| 360M 36.5M 3151M  285M
+[sdw2]  29-11 17:53:16|  0   0 100   0   0   0|   0    72k| 126B   66B| 357M 34.6M 3136M  305M
+[sdw3]  29-11 17:53:16|  0   0 100   0   0   0|   0   624k| 126B  154B| 356M 30.0M 3157M  289M
+[sdw4]  29-11 17:53:17|  0   0 100   0   0   0|   0   640k| 126B   66B| 356M 32.4M 3126M  319M
+[sdw5]  29-11 17:53:16|  0   0 100   0   0   0|   0     0 | 126B   66B| 354M 34.8M 3151M  292M
+[sdw6]  29-11 17:53:16|  0   0 100   0   0   0|   0  1152k| 126B   66B| 357M 35.2M 3194M  246M
+
+20191129 17:53:21                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:21|  1   1  99   0   0   0|   0    64k|4192B 4770B| 384M  103M 3430M 3956M
+[smdw]  29-11 17:53:21|  0   0 100   0   0   0|   0  8192B| 170B   66B| 491M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:21|  0   0 100   0   0   0|   0  8192B| 236B  440B| 360M 36.5M 3151M  285M
+[sdw2]  29-11 17:53:21|  0   0 100   0   0   0|   0     0 | 236B  528B| 356M 34.6M 3136M  306M
+[sdw3]  29-11 17:53:21|  0   0 100   0   0   0|   0  8192B| 170B   66B| 356M 30.0M 3157M  289M
+[sdw4]  29-11 17:53:22|  0   0 100   0   0   0|   0  3080k| 170B   66B| 356M 32.4M 3126M  319M
+[sdw5]  29-11 17:53:21|  0   0 100   0   0   0|   0    64k| 170B   66B| 354M 34.9M 3151M  293M
+[sdw6]  29-11 17:53:22|  0   0 100   0   0   0|   0  8192B| 170B   66B| 357M 35.3M 3194M  246M
+
+20191129 17:53:26                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:26|  1   1  99   0   0   0|   0    10k|3636B 2704B| 388M  103M 3430M 3951M
+[smdw]  29-11 17:53:27|  0   0 100   0   0   0|   0    32k| 562B   66B| 490M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:27|  0   0 100   0   0   0|   0    56k| 562B   66B| 360M 36.5M 3151M  285M
+[sdw2]  29-11 17:53:26|  0   0 100   0   0   0|   0   128k| 562B   66B| 357M 34.6M 3136M  305M
+[sdw3]  29-11 17:53:26|  0   0 100   0   0   0|   0   192k| 562B   66B| 356M 30.0M 3157M  289M
+[sdw4]  29-11 17:53:27|  0   0 100   0   0   0|   0   160k| 562B   66B| 356M 32.5M 3126M  318M
+[sdw5]  29-11 17:53:26|  0   0 100   0   0   0|   0     0 | 562B  154B| 354M 34.9M 3151M  292M
+[sdw6]  29-11 17:53:27|  0   0 100   0   0   0|   0   232k| 562B   66B| 358M 35.3M 3194M  246M
+
+20191129 17:53:32                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:31|  1   1  99   0   0   0|   0     0 |2810B 2006B| 389M  103M 3430M 3950M
+[smdw]  29-11 17:53:32|  0   0 100   0   0   0|   0    19k| 170B   66B| 490M 69.9M 5455M 1857M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 360M 36.5M 3151M  285M
+[sdw2]  29-11 17:53:32|  0   0 100   0   0   0|   0    40k| 170B   66B| 357M 34.7M 3136M  305M
+[sdw3]  29-11 17:53:31|  0   0 100   0   0   0|   0   128k|1622B  740k| 356M 30.0M 3157M  289M
+[sdw4]  29-11 17:53:32|  0   0 100   0   0   0|   0     0 | 787k 1760B| 356M 32.5M 3126M  319M
+[sdw5]  29-11 17:53:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 354M 34.9M 3151M  292M
+[sdw6]  29-11 17:53:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 357M 35.3M 3194M  246M
+
+20191129 17:53:37                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:37|  1   1  99   0   0   0|   0    89k|3951B 3692B| 380M  103M 3430M 3959M
+[smdw]  29-11 17:53:37|  0   0 100   0   0   0|   0   240k| 999k  167k| 453M 69.9M 5455M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:37|  0   0 100   1   0   0|   0   331k| 164k   46k| 322M 36.5M 3151M  323M
+[sdw2]  29-11 17:53:37|  0   0 100   0   0   0|   0     0 |  66B   66B| 319M 34.7M 3136M  343M
+[sdw3]  29-11 17:53:36|  0   0  99   0   0   0|   0     0 |  66B   66B| 318M 30.0M 3157M  327M
+[sdw4]  29-11 17:53:38|  0   0  91   9   0   0|   0   192k|7771B 8013B| 317M 32.5M 3126M  357M
+[sdw5]  29-11 17:53:37|  0   0  91   9   0   0|   0   384k|  31k  234k| 317M 34.9M 3151M  330M
+[sdw6]  29-11 17:53:37|  0   0 100   0   0   0|   0    34k| 228k  897k| 319M 35.3M 3194M  284M
+
+20191129 17:53:42                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:42|  1   1  99   0   0   0|   0   142k|  43k  136k| 401M  103M 3430M 3938M
+[smdw]  29-11 17:53:42|  1   0  91   7   0   0|   0   324k| 376k   39k| 455M 69.9M 5455M 1893M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:42|  1   1  99   0   0   0|   0    69k|  41k  134k| 331M 36.5M 3155M  309M
+[sdw2]  29-11 17:53:42|  1   1  95   4   0   0|   0   324k| 202k  941k| 320M 34.7M 3137M  341M
+[sdw3]  29-11 17:53:42|  1   1  97   2   0   0|   0   264k| 965k 1140k| 320M 30.0M 3161M  322M
+[sdw4]  29-11 17:53:43|  1   1  94   6   0   0|   0   330k|1140k 1311k| 319M 32.5M 3128M  353M
+[sdw5]  29-11 17:53:42|  1   1  95   4   0   0|   0   327k|1314k 1024k| 318M 34.9M 3153M  326M
+[sdw6]  29-11 17:53:42|  1   1  90  10   0   0|   0   645k|1013k  387k| 321M 35.3M 3194M  281M
+
+20191129 17:53:47                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:47|  0   0 100   0   0   0|   0   288k|3060B 3234B| 401M  103M 3430M 3938M
+[smdw]  29-11 17:53:47|  0   0  99   0   0   0|   0    67k|  57k  272k| 455M 70.0M 5453M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:47|  0   0 100   1   0   0|   0  1282k| 291k   29k| 332M 36.5M 3155M  309M
+[sdw2]  29-11 17:53:47|  0   0  99   1   0   0|   0  1472k|  54k   54k| 321M 34.7M 3137M  340M
+[sdw3]  29-11 17:53:47|  0   0 100   0   0   0|   0   320k|  39k   39k| 320M 30.0M 3161M  321M
+[sdw4]  29-11 17:53:48|  0   0 100   0   0   0|   0  1028k|  16k   16k| 319M 32.5M 3128M  353M
+[sdw5]  29-11 17:53:47|  0   0  93   7   0   0|   0  2053k|  16k   16k| 318M 34.9M 3153M  326M
+[sdw6]  29-11 17:53:47|  0   1 100   0   0   0|   0  1161k|  16k   39k| 322M 35.3M 3192M  283M
+
+20191129 17:53:52                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:52|  0   1  99   0   0   0|   0    24k|  10k 3602B| 400M  103M 3430M 3939M
+[smdw]  29-11 17:53:52|  0   1 100   0   0   0|   0    24k|  22k 1234B| 457M 70.0M 5451M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:52|  0   0 100   0   0   0|   0     0 |  12k   20k| 333M 36.6M 3155M  308M
+[sdw2]  29-11 17:53:52|  0   0  99   1   0   0|   0   208k|  26k  560k| 322M 34.7M 3135M  341M
+[sdw3]  29-11 17:53:52|  0   0  36  64   0   0|   0   144k| 591k  290k| 321M 30.0M 3159M  323M
+[sdw4]  29-11 17:53:53|  0   0  99   1   0   0|   0   144k| 277k   25k| 320M 32.5M 3126M  354M
+[sdw5]  29-11 17:53:52|  0   0 100   0   0   0|   0     0 |7596B 1076B| 320M 34.9M 3152M  326M
+[sdw6]  29-11 17:53:53|  1   0 100   0   0   0|   0     0 |7596B 1076B| 323M 35.3M 3191M  283M
+
+20191129 17:53:57                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:53:57|  0   0  99   0   0   0|   0    32k|5646B 2696B| 398M  103M 3430M 3941M
+[smdw]  29-11 17:53:58|  0   0 100   0   0   0|   0     0 |2660B  970B| 457M 70.0M 5451M 1894M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:53:57|  0   0 100   0   0   0|   0     0 |6052B 4362B| 333M 36.6M 3155M  308M
+[sdw2]  29-11 17:53:57|  0   0 100   0   0   0|   0     0 |2766B 1182B| 322M 34.7M 3135M  341M
+[sdw3]  29-11 17:53:57|  0   0 100   0   0   0|   0   337k|  10k 1102B| 321M 30.1M 3159M  322M
+[sdw4]  29-11 17:53:58|  0   0 100   0   0   0|   0   128k|2686B 8437B| 320M 32.5M 3126M  354M
+[sdw5]  29-11 17:53:57|  0   0 100   0   0   0|   0  2048B|2554B  864B| 320M 34.9M 3152M  326M
+[sdw6]  29-11 17:53:58|  0   0 100   0   0   0|   0    64k|2554B  864B| 323M 35.3M 3191M  283M
+
+20191129 17:54:03                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:03| 25   8  62   2   0   4|   0   730k|2779k 2853k| 410M  103M 3430M 3929M
+[smdw]  29-11 17:54:03| 50  22  24   1   0   2|   0  1984k|3716k 3501k| 619M 70.0M 5452M 1732M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:03| 52  29  16   1   0   3|   0  1390k|3427k 4113k| 495M 36.6M 3132M  169M
+[sdw2]  29-11 17:54:03| 53  23  20   2   0   1|   0  1323k|3551k 3410k| 490M 34.7M 3135M  172M
+[sdw3]  29-11 17:54:02| 54  22  22   1   0   1|   0   529k|3252k 3413k| 487M 30.1M 3159M  156M
+[sdw4]  29-11 17:54:04| 53  22  24   0   0   1|   0   592k|3578k 3527k| 485M 32.5M 3125M  189M
+[sdw5]  29-11 17:54:03| 51  24  23   1   0   1|   0   881k|3579k 3505k| 480M 34.9M 3151M  167M
+[sdw6]  29-11 17:54:03| 52  22  22   1   0   4|   0   670k|3386k 3478k| 480M 34.7M 3135M  182M
+
+20191129 17:54:08                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:08|  1   0 100   0   0   0|   0   122k|4751B 1328B| 415M  103M 3430M 3924M
+[smdw]  29-11 17:54:08|  0   0 100   0   0   0|   0     0 |9349B  258k| 620M 70.0M 5452M 1730M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:08|  0   1 100   0   0   0|   0   130k| 296k  126k| 497M 36.6M 3124M  175M
+[sdw2]  29-11 17:54:08|  0   0 100   0   0   0|   0   156k| 131k   16k| 486M 34.7M 3135M  177M
+[sdw3]  29-11 17:54:08|  0   0 100   0   0   0|   0   163k|  16k  110k| 485M 30.1M 3159M  158M
+[sdw4]  29-11 17:54:09|  0   1 100   0   0   0|   0   155k| 124k   16k| 484M 32.6M 3125M  191M
+[sdw5]  29-11 17:54:08|  1   0  98   2   0   0|   0    27k|8227B   95k| 483M 34.9M 3151M  163M
+[sdw6]  29-11 17:54:08|  0   0 100   1   0   0|   0   133k|  94k 8145B| 485M 34.7M 3135M  177M
+
+20191129 17:54:13                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:13|  9   8  79   2   0   2|   0   959k| 745k 2445k| 407M  103M 3430M 3932M
+[smdw]  29-11 17:54:13| 49  21  26   2   0   2|   0  2011k|3766k 3329k| 561M 70.0M 5451M 1791M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:13| 50  20  28   1   0   2|   0  1794k|3579k 3702k| 438M 36.6M 3123M  235M
+[sdw2]  29-11 17:54:13| 49  21  26   3   0   1|   0  1794k|3739k 3531k| 436M 34.7M 3134M  228M
+[sdw3]  29-11 17:54:13| 48  22  26   1   0   2|   0  1730k|3680k 3420k| 434M 30.1M 3158M  211M
+[sdw4]  29-11 17:54:14| 51  20  27   1   0   1|   0  1841k|3699k 3306k| 443M 32.6M 3124M  233M
+[sdw5]  29-11 17:54:13| 48  22  26   3   0   2|   0  1850k|3547k 3125k| 447M 35.0M 3150M  201M
+[sdw6]  29-11 17:54:14| 47  20  29   1   0   3|   0  1646k|3485k 3387k| 426M 34.7M 3134M  238M
+
+20191129 17:54:18                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:18|  0   0 100   0   0   0|   0    16k|7547B 2356B| 407M  103M 3430M 3932M
+[smdw]  29-11 17:54:19|  1   0  57  43   0   0|   0   533k| 144k  405k| 602M 70.0M 5451M 1749M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:19|  0   0 100   0   0   0|   0   372k| 373k 2552B| 472M 36.6M 3124M  200M
+[sdw2]  29-11 17:54:19|  0   0 100   0   0   0|   0    18k| 126B   66B| 468M 34.8M 3135M  195M
+[sdw3]  29-11 17:54:18|  0   0 100   0   0   0|   0    16k| 126B   66B| 467M 30.1M 3158M  177M
+[sdw4]  29-11 17:54:19|  0   0  99   2   0   0|   0   339k|2634B  399k| 466M 32.6M 3124M  209M
+[sdw5]  29-11 17:54:19|  0   0  87  14   0   0|   0   670k| 402k 2684B| 466M 35.0M 3150M  181M
+[sdw6]  29-11 17:54:19|  1   0  97   3   0   0|   0   197k|  31k  143k| 467M 34.7M 3134M  196M
+
+20191129 17:54:24                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:24|  0   0 100   0   0   0|   0   105k|4747B 3092B| 405M  103M 3430M 3934M
+[smdw]  29-11 17:54:24|  0   0 100   0   0   0|   0  2048B| 236B  440B| 602M 70.0M 5451M 1749M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:24|  0   0  17  83   0   0|   0   160k|  32k  313k| 472M 36.6M 3124M  200M
+[sdw2]  29-11 17:54:24|  0   1  98   2   0   0|   0   512k| 322k   80k| 469M 34.8M 3135M  194M
+[sdw3]  29-11 17:54:23|  0   0  82  18   0   0|   0   346k|  47k 8598B| 468M 30.1M 3158M  176M
+[sdw4]  29-11 17:54:25|  0   0 100   0   0   0|   0  2048B| 170B  154B| 466M 32.6M 3124M  209M
+[sdw5]  29-11 17:54:24|  1   0 100   0   0   0|   0  2048B| 230B   66B| 466M 35.0M 3150M  181M
+[sdw6]  29-11 17:54:24|  0   0 100   0   0   0|   0     0 | 230B   66B| 467M 34.7M 3134M  196M
+
+20191129 17:54:29                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:29|  0   0 100   0   0   0|   0  8192B|3368B 2130B| 406M  103M 3430M 3933M
+[smdw]  29-11 17:54:29|  0   0 100   0   0   0|   0     0 |  66B  154B| 602M 70.0M 5451M 1749M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:29|  0   0 100   0   0   0|   0     0 |  66B   66B| 472M 36.6M 3124M  200M
+[sdw2]  29-11 17:54:29|  0   0 100   0   0   0|   0     0 |  66B  154B| 468M 34.8M 3135M  195M
+[sdw3]  29-11 17:54:29|  0   0 100   0   0   0|   0     0 |  66B   66B| 467M 30.1M 3158M  177M
+[sdw4]  29-11 17:54:30|  0   0 100   0   0   0|   0     0 |  66B   66B| 467M 32.6M 3124M  209M
+[sdw5]  29-11 17:54:29|  0   0 100   1   0   0|   0    48k|  66B   66B| 466M 35.0M 3150M  181M
+[sdw6]  29-11 17:54:29|  0   0 100   0   0   0|   0     0 |  66B   66B| 467M 34.7M 3134M  196M
+
+20191129 17:54:34                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:34|  0   0 100   0   0   0|   0    16k|6525B 3328B| 404M  103M 3430M 3935M
+[smdw]  29-11 17:54:34|  0   1 100   0   0   0|   0     0 | 418k  137k| 603M 70.1M 5451M 1748M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:34|  0   0 100   0   0   0|   0     0 | 144k 1562B| 472M 36.6M 3124M  200M
+[sdw2]  29-11 17:54:34|  0   0 100   0   0   0|   0     0 |2811B   66B| 469M 34.8M 3135M  194M
+[sdw3]  29-11 17:54:34|  0   0 100   0   0   0|   0     0 |2811B   66B| 467M 30.1M 3158M  177M
+[sdw4]  29-11 17:54:35|  0   0 100   0   0   0|   0     0 |2811B  154B| 467M 32.6M 3124M  209M
+[sdw5]  29-11 17:54:34|  0   0 100   0   0   0|   0     0 |2811B   66B| 466M 35.0M 3150M  181M
+[sdw6]  29-11 17:54:34|  0   0 100   0   0   0|   0     0 |4923B  402k| 467M 34.8M 3134M  196M
+
+20191129 17:54:39                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:39|  0   0 100   0   0   0|   0  8192B|3814B 1564B| 407M  103M 3430M 3932M
+[smdw]  29-11 17:54:39|  0   1  98   2   0   0|   0   198k| 453k  253k| 603M 70.1M 5451M 1748M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:39|  0   0  98   2   0   0|   0   192k| 246k  700k| 473M 36.7M 3124M  199M
+[sdw2]  29-11 17:54:39|  1   0 100   0   0   0|   0    42k| 660k 1084k| 469M 34.8M 3135M  194M
+[sdw3]  29-11 17:54:39|  0   0 100   0   0   0|   0     0 |1103k  559k| 467M 30.1M 3158M  176M
+[sdw4]  29-11 17:54:40|  0   0 100   0   0   0|   0     0 | 554k 2816B| 466M 32.6M 3124M  209M
+[sdw5]  29-11 17:54:39|  0   0 100   0   0   0|   0    24k| 608B   66B| 466M 35.0M 3150M  181M
+[sdw6]  29-11 17:54:39|  0   0 100   0   0   0|   0  7168B|  10k  399k| 468M 34.8M 3134M  195M
+
+20191129 17:54:44                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:44|  1   1  98   0   0   0|   0   140k|  46k   83k| 408M  103M 3430M 3931M
+[smdw]  29-11 17:54:44|  0   1  99   1   0   0|   0  1008k| 450k  490k| 602M 70.1M 5451M 1749M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:44|  1   0  94   4   0   0|   0  1065k| 540k  605k| 472M 36.7M 3124M  200M
+[sdw2]  29-11 17:54:44|  1   1  94   4   0   0|   0   947k| 533k  527k| 469M 34.8M 3135M  194M
+[sdw3]  29-11 17:54:44|  0   1  96   3   0   0|   0  1055k| 510k  490k| 467M 30.2M 3158M  177M
+[sdw4]  29-11 17:54:45|  1   1  98   1   0   0|   0  1064k| 489k  985k| 467M 32.6M 3124M  208M
+[sdw5]  29-11 17:54:44|  1   1  99   0   0   0|   0  1075k|1145k  492k| 465M 35.0M 3150M  182M
+[sdw6]  29-11 17:54:45|  1   1  99   0   0   0|   0   989k| 488k  435k| 467M 34.8M 3134M  197M
+
+20191129 17:54:49                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:49|  0   1 100   0   0   0|   0    32k|4590B 7106B| 390M  103M 3430M 3949M
+[smdw]  29-11 17:54:50|  0   0  78  23   0   0|   0    14k|3514B 8079B| 528M 70.1M 5450M 1824M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:50|  1   0 100   0   0   0|   0     0 |7743B   13k| 397M 36.7M 3124M  276M
+[sdw2]  29-11 17:54:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 394M 34.8M 3134M  269M
+[sdw3]  29-11 17:54:49|  0   0 100   0   0   0|   0     0 | 170B   66B| 393M 30.2M 3158M  251M
+[sdw4]  29-11 17:54:50|  0   0 100   0   0   0|   0     0 |  15k  440B| 393M 32.6M 3122M  285M
+[sdw5]  29-11 17:54:50|  0   0 100   0   0   0|   0     0 | 434B  440B| 392M 35.0M 3147M  258M
+[sdw6]  29-11 17:54:50|  0   1  99   1   0   0|   0    32k| 170B   66B| 393M 34.8M 3132M  272M
+
+20191129 17:54:55                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:54:55|  0   0 100   0   0   1|   0    24k|4257B 3394B| 391M  103M 3430M 3948M
+[smdw]  29-11 17:54:55|  1   0 100   0   0   0|   0     0 | 126B   66B| 527M 70.1M 5449M 1826M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:54:55|  0   0 100   0   0   0|   0    32k| 342B   66B| 397M 36.7M 3123M  276M
+[sdw2]  29-11 17:54:55|  0   0 100   0   0   0|   0     0 | 126B  154B| 393M 34.8M 3133M  271M
+[sdw3]  29-11 17:54:54|  0   0 100   0   0   0|   0     0 | 126B  154B| 392M 30.2M 3157M  253M
+[sdw4]  29-11 17:54:56|  0   0 100   0   0   0|   0     0 | 342B   66B| 392M 32.7M 3122M  285M
+[sdw5]  29-11 17:54:55|  0   0 100   1   0   0|   0   184k|  16k  149k| 392M 35.1M 3146M  259M
+[sdw6]  29-11 17:54:55|  0   0 100   0   0   0|   0   128k| 149k 9267B| 393M 34.8M 3131M  273M
+
+20191129 17:55:00                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:00|  1   0  99   0   0   0|   0    33k|3365B 1130B| 395M  103M 3430M 3943M
+[smdw]  29-11 17:55:00|  0   0 100   0   0   0|   0  9216B| 230B   66B| 527M 70.1M 5448M 1827M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:00|  0   0  99   2   0   0|   0   141k| 110k   24k| 397M 36.7M 3122M  277M
+[sdw2]  29-11 17:55:00|  0   0 100   0   0   0|   0     0 | 230B   66B| 394M 34.8M 3133M  270M
+[sdw3]  29-11 17:54:59|  0   0 100   0   0   0|   0     0 | 230B   66B| 393M 30.2M 3157M  252M
+[sdw4]  29-11 17:55:01|  0   0 100   0   0   0|   0     0 | 230B   66B| 392M 32.7M 3122M  285M
+[sdw5]  29-11 17:55:00|  0   0 100   0   0   0|   0   541k| 230B   66B| 392M 35.1M 3146M  259M
+[sdw6]  29-11 17:55:00|  0   0 100   0   0   0|   0    59k| 230B   66B| 393M 34.8M 3131M  274M
+
+20191129 17:55:05                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:05|  1   0  99   0   0   0|   0    32k|4503B 2894B| 392M  103M 3430M 3947M
+[smdw]  29-11 17:55:05|  0   0 100   0   0   0|   0     0 |1141B   66B| 527M 70.1M 5447M 1827M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:05|  0   0 100   0   0   0|   0     0 |1193B   66B| 396M 36.7M 3122M  278M
+[sdw2]  29-11 17:55:05|  0   0 100   0   0   0|   0     0 |1141B   66B| 394M 34.9M 3133M  270M
+[sdw3]  29-11 17:55:05|  0   0 100   0   0   0|   0     0 |1193B   66B| 393M 30.2M 3157M  253M
+[sdw4]  29-11 17:55:06|  0   0 100   0   0   0|   0     0 |1193B   66B| 392M 32.7M 3122M  285M
+[sdw5]  29-11 17:55:05|  0   0 100   0   0   0|   0   448k|1141B   66B| 392M 35.1M 3146M  259M
+[sdw6]  29-11 17:55:05|  0   0 100   0   0   0|   0    25k|1193B  154B| 393M 34.8M 3131M  274M
+
+20191129 17:55:10                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:10|  1   1  99   0   0   0|   0    96k|5908B 3504B| 391M  103M 3430M 3948M
+[smdw]  29-11 17:55:10|  0   0 100   0   0   0|   0  8192B|2024B  440B| 528M 70.1M 5447M 1827M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:10|  0   0 100   0   0   0|   0     0 |1782B   66B| 397M 36.7M 3120M  279M
+[sdw2]  29-11 17:55:10|  0   0 100   0   0   0|   0     0 |1782B   66B| 394M 34.9M 3131M  272M
+[sdw3]  29-11 17:55:10|  0   0 100   0   0   0|   0     0 |1782B   66B| 393M 30.2M 3156M  253M
+[sdw4]  29-11 17:55:11|  0   0  99   0   0   0|   0     0 |1782B   66B| 393M 32.7M 3121M  286M
+[sdw5]  29-11 17:55:10|  0   0 100   0   0   0|   0   512k|1782B   66B| 392M 35.1M 3146M  259M
+[sdw6]  29-11 17:55:10|  0   0 100   0   0   0|   0   289k|1782B   66B| 393M 34.8M 3131M  274M
+
+20191129 17:55:15                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:15|  1   1  99   0   0   0|   0    16k|7540B 7446B| 387M  103M 3430M 3951M
+[smdw]  29-11 17:55:15|  0   1 100   0   0   0|   0   406k|2566B  172k| 490M 70.1M 5447M 1865M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:15|  1   0  99   0   0   0|   0   150k| 174k 2222B| 359M 36.7M 3120M  317M
+[sdw2]  29-11 17:55:15|  0   1  99   0   0   0|   0     0 | 982B  924B| 357M 34.9M 3131M  310M
+[sdw3]  29-11 17:55:15|  0   1  99   0   0   1|   0  8192B|  16k  968B| 355M 30.2M 3156M  291M
+[sdw4]  29-11 17:55:16|  1   1  99   0   0   0|   0   145k|2500B   96k| 355M 32.7M 3121M  324M
+[sdw5]  29-11 17:55:15|  0   1  99   0   0   0|   0  3200k|  95k 1892B| 354M 35.1M 3146M  297M
+[sdw6]  29-11 17:55:16|  1   1  99   0   0   0|   0     0 |8555B  968B| 356M 34.9M 3131M  311M
+
+20191129 17:55:20                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:20|  0   1  99   0   0   0|   0    16k|7318B 4334B| 396M  103M 3430M 3943M
+[smdw]  29-11 17:55:21|  1   0  95   5   0   0|   0  1736k| 701k  920k| 476M 70.2M 5445M 1882M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:21|  0   1  77  23   0   0|   0  1536k| 955k   36k| 345M 36.7M 3118M  333M
+[sdw2]  29-11 17:55:20|  0   0  80  20   0   0|   0  2240k|  17k  458k| 342M 34.9M 3129M  327M
+[sdw3]  29-11 17:55:20|  1   1  30  69   0   0|   0  1088k| 539k  993k| 341M 30.2M 3154M  307M
+[sdw4]  29-11 17:55:21|  0   0  72  28   0   0|   0     0 | 995k   35k| 340M 32.7M 3118M  342M
+[sdw5]  29-11 17:55:21|  0   1 100   0   0   0|   0  1536k| 126B   66B| 339M 35.1M 3144M  313M
+[sdw6]  29-11 17:55:21|  0   0  99   1   0   0|   0   710k|  18k  661k| 341M 34.9M 3129M  327M
+
+20191129 17:55:26                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:26|  0   1 100   0   0   0|   0  8192B|3490B 1064B| 401M  103M 3430M 3938M
+[smdw]  29-11 17:55:26|  0   0 100   0   0   0|   0     0 | 380B  154B| 476M 70.2M 5445M 1881M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:26|  0   0 100   0   0   0|   0   290k| 380B   66B| 345M 36.8M 3118M  333M
+[sdw2]  29-11 17:55:26|  0   0 100   0   0   0|   0   146k| 380B   66B| 342M 34.9M 3129M  327M
+[sdw3]  29-11 17:55:25|  0   0 100   0   0   0|   0     0 | 380B   66B| 342M 30.3M 3154M  307M
+[sdw4]  29-11 17:55:27|  0   0 100   0   0   0|   0   181k| 380B   66B| 340M 32.7M 3118M  341M
+[sdw5]  29-11 17:55:26|  0   0  99   1   0   0|   0    48k| 380B  154B| 339M 35.1M 3144M  313M
+[sdw6]  29-11 17:55:26|  0   0 100   0   0   0|   0     0 | 380B   66B| 341M 34.9M 3130M  327M
+
+20191129 17:55:31                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:31|  0   0 100   0   0   0|   0    84k|  11k 3252B| 399M  103M 3430M 3940M
+[smdw]  29-11 17:55:31|  1   0  73  27   0   0|   0  7275k| 225k 1137k| 476M 70.2M 5448M 1878M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:31|  0   1  82  18   0   0|   0  1923k|1150k   28k| 345M 36.8M 3119M  331M
+[sdw2]  29-11 17:55:31|  2   1  95   2   0   0|   0   787k|  19k 5527k| 342M 34.9M 3139M  316M
+[sdw3]  29-11 17:55:30|  4   1  95   0   0   0|   0    36k|5745k   10M| 342M 30.3M 3166M  295M
+[sdw4]  29-11 17:55:32|  2   1  98   0   0   0|   0  5202k|  10M 4782k| 340M 32.7M 3123M  337M
+[sdw5]  29-11 17:55:31|  0   0  91   9   0   0|   0   659k|4771k  430k| 339M 35.1M 3148M  309M
+[sdw6]  29-11 17:55:31|  0   0  90  10   0   0|   0  6744k| 418k  215k| 342M 34.9M 3141M  315M
+
+20191129 17:55:36                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:36|  0   1 100   0   0   0|   0    24k|3620B 2196B| 400M  103M 3430M 3939M
+[smdw]  29-11 17:55:36|  1   0 100   0   0   0|   0   288k| 315k  770B| 507M 70.2M 5448M 1847M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:36|  0   0 100   0   0   0|   0     0 | 186B   66B| 377M 36.8M 3129M  290M
+[sdw2]  29-11 17:55:36|  0   0 100   0   0   0|   0  8192B| 186B   66B| 373M 34.9M 3143M  281M
+[sdw3]  29-11 17:55:36|  0   0 100   0   0   0|   0    24k|1968B  280k| 373M 30.3M 3166M  263M
+[sdw4]  29-11 17:55:37|  0   0 100   0   0   0|   0     0 | 283k 2090B| 371M 32.7M 3124M  304M
+[sdw5]  29-11 17:55:36|  0   0 100   0   0   0|   0     0 | 714B  103k| 370M 35.2M 3150M  277M
+[sdw6]  29-11 17:55:36|  0   1 100   0   0   0|   0    24k| 125k  316k| 372M 34.9M 3141M  284M
+
+20191129 17:55:41                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:41|  1   0  99   0   0   0|   0    18k|7736B 7690B| 399M  103M 3430M 3939M
+[smdw]  29-11 17:55:41|  0   1 100   0   0   0| 128k  142k|1134B 1156B| 507M 70.2M 5448M 1847M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:41|  0   0  99   1   0   0| 128k  200k| 936B 1112B| 377M 36.8M 3129M  290M
+[sdw2]  29-11 17:55:41|  0   0 100   0   0   0|   0     0 | 236B  460B| 374M 34.9M 3143M  281M
+[sdw3]  29-11 17:55:41|  0   1  99   0   0   0| 128k  144k| 936B 1024B| 373M 30.3M 3166M  263M
+[sdw4]  29-11 17:55:42|  0   0 100   0   0   0| 128k  128k| 936B 1024B| 373M 32.8M 3124M  303M
+[sdw5]  29-11 17:55:41|  0   1 100   0   0   0| 128k  128k| 936B 1112B| 371M 35.2M 3150M  276M
+[sdw6]  29-11 17:55:41|  0   0 100   0   0   0| 128k  160k|  16k 1222B| 373M 34.9M 3141M  283M
+
+20191129 17:55:46                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:46|  1   0  99   0   0   0|   0  8192B|3098B 1196B| 402M  103M 3430M 3936M
+[smdw]  29-11 17:55:46|  0   0 100   0   0   0|   0   152k| 192B  440B| 507M 70.2M 5448M 1847M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:46|  0   0 100   0   0   0|   0   128k| 126B   66B| 378M 36.8M 3129M  289M
+[sdw2]  29-11 17:55:46|  0   0 100   0   0   0|   0     0 | 126B   66B| 374M 35.0M 3143M  281M
+[sdw3]  29-11 17:55:46|  0   0 100   0   0   0|   0     0 | 126B   66B| 373M 30.3M 3166M  263M
+[sdw4]  29-11 17:55:47|  0   0 100   0   0   0|   0    48k| 126B   66B| 372M 32.8M 3124M  303M
+[sdw5]  29-11 17:55:46|  0   0 100   0   0   0|   0     0 | 126B   66B| 371M 35.2M 3150M  277M
+[sdw6]  29-11 17:55:47|  0   0 100   0   0   0|   0     0 | 126B   66B| 373M 34.9M 3141M  284M
+
+20191129 17:55:51                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:51|  1   1  99   0   0   0|   0    16k|3460B 1630B| 401M  103M 3430M 3938M
+[smdw]  29-11 17:55:52|  0   0  99   0   0   0|   0    11M| 254B   66B| 507M 70.2M 5448M 1847M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:52|  0   0 100   0   0   0|   0    11M| 254B   66B| 377M 36.8M 3129M  289M
+[sdw2]  29-11 17:55:51|  0   0 100   0   0   0|   0    15M| 254B   66B| 374M 35.0M 3143M  281M
+[sdw3]  29-11 17:55:51|  0   0 100   0   0   0|   0    16M| 254B   66B| 373M 30.3M 3166M  263M
+[sdw4]  29-11 17:55:52|  0   0 100   0   0   0|   0    16M| 254B  154B| 372M 32.8M 3124M  303M
+[sdw5]  29-11 17:55:52|  0   0 100   0   0   0|   0    80k| 254B   66B| 371M 35.2M 3150M  276M
+[sdw6]  29-11 17:55:52|  0   0  99   1   0   0|   0    13M| 254B   66B| 373M 34.9M 3141M  283M
+
+20191129 17:55:57                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:55:57|  3   3  93   0   0   1|   0    32k| 412k 1314k| 399M  103M 3430M 3939M
+[smdw]  29-11 17:55:57| 24  10  65   0   0   1|   0     0 |1618k 1489k| 538M 70.2M 5448M 1816M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:55:57| 24   7  68   0   0   1|   0     0 |1618k 1497k| 409M 36.8M 3129M  258M
+[sdw2]  29-11 17:55:57| 24   9  65   0   0   1|   0     0 |1625k 1491k| 405M 35.0M 3143M  250M
+[sdw3]  29-11 17:55:56| 23  10  67   0   0   1|   0     0 |1620k 1488k| 404M 30.3M 3166M  231M
+[sdw4]  29-11 17:55:58| 25   9  65   0   0   1|   0     0 |1617k 1489k| 404M 32.8M 3124M  272M
+[sdw5]  29-11 17:55:57| 26   9  63   1   0   1|   0   168k|1665k 1775k| 402M 35.2M 3150M  245M
+[sdw6]  29-11 17:55:57| 24   9  66   0   0   1|   0   128k|1903k 1535k| 404M 34.9M 3141M  252M
+
+20191129 17:56:02                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:02|  1   1  99   0   0   0|   0    32k|4444B 3136B| 404M  103M 3430M 3934M
+[smdw]  29-11 17:56:02|  0   0 100   0   0   0|   0     0 | 464B  524B| 539M 70.3M 5448M 1815M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:02|  0   0  99   1   0   0|   0    32k| 422B  482B| 409M 36.8M 3129M  257M
+[sdw2]  29-11 17:56:02|  0   0 100   0   0   0|   0  1024k| 506B  566B| 406M 35.0M 3143M  249M
+[sdw3]  29-11 17:56:01|  0   0 100   0   0   0|   0     0 | 380B  440B| 405M 30.3M 3166M  231M
+[sdw4]  29-11 17:56:03|  0   0 100   0   0   0|   0   128k|  47k  249k| 404M 32.8M 3124M  271M
+[sdw5]  29-11 17:56:02|  0   0 100   0   0   0|   0   199k| 249k   39k| 403M 35.2M 3150M  245M
+[sdw6]  29-11 17:56:02|  0   0 100   0   0   0|   0     0 | 338B  154B| 405M 35.0M 3141M  251M
+
+20191129 17:56:07                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:07|  1   1  98   0   0   0|   0   192k|5796B 6430B| 398M  103M 3430M 3941M
+[smdw]  29-11 17:56:07|  0   0 100   0   0   0|   0     0 | 294B   66B| 539M 70.3M 5448M 1815M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:07|  0   0 100   0   0   0|   0     0 |  38k   74k| 409M 36.8M 3129M  257M
+[sdw2]  29-11 17:56:07|  0   0 100   0   0   0|   0    64k|  74k   31k| 406M 35.0M 3143M  249M
+[sdw3]  29-11 17:56:07|  0   0 100   0   0   0|   0    81k| 234B  154B| 405M 30.4M 3166M  231M
+[sdw4]  29-11 17:56:08|  0   0 100   0   0   0|   0   181k|  16k  192k| 404M 32.8M 3124M  271M
+[sdw5]  29-11 17:56:07|  0   0 100   0   0   0|   0   155k| 197k   16k| 403M 35.2M 3150M  244M
+[sdw6]  29-11 17:56:07|  0   0 100   0   0   0|   0     0 | 294B   66B| 405M 35.0M 3141M  251M
+
+20191129 17:56:12                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:12|  1   2  97   0   0   0|   0   130k|  39k   94k| 407M  103M 3430M 3931M
+[smdw]  29-11 17:56:12|  1   1  87  11   0   0|   0  2698k| 924k 2386k| 603M 70.3M 5449M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:12|  2   1  79  20   0   0|   0  2747k|2451k  987k| 472M 36.9M 3129M  194M
+[sdw2]  29-11 17:56:12|  1   2  96   3   0   0|   0  1464k| 991k 1351k| 469M 35.0M 3143M  185M
+[sdw3]  29-11 17:56:12|  1   1  95   4   0   0|   0  1527k|1336k 1951k| 468M 30.4M 3167M  167M
+[sdw4]  29-11 17:56:13|  1   2  94   5   0   0|   0  1411k|1940k 2816k| 467M 32.8M 3124M  208M
+[sdw5]  29-11 17:56:12|  1   1  90   8   0   0|   0  2760k|2840k 2355k| 466M 35.2M 3151M  180M
+[sdw6]  29-11 17:56:12|  1   1  89   9   0   0|   0  2738k|2367k  907k| 468M 35.0M 3141M  189M
+
+20191129 17:56:17                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:17|  1   1  98   0   0   0|   0    40k|  30k   83k| 391M  103M 3430M 3947M
+[smdw]  29-11 17:56:17|  1   1  92   7   0   0|   0  2085k| 383k 1485k| 528M 70.3M 5450M 1824M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:17|  1   1  96   2   0   0|   0  2074k|1524k 1318k| 397M 36.9M 3131M  268M
+[sdw2]  29-11 17:56:17|  1   1  99   0   0   0|   0   783k|1313k  333k| 393M 35.0M 3143M  262M
+[sdw3]  29-11 17:56:17|  1   1  98   1   0   0|   0   652k| 326k  246k| 393M 30.4M 3166M  243M
+[sdw4]  29-11 17:56:18|  1   1  96   4   0   0|   0   586k| 255k  268k| 392M 32.8M 3124M  283M
+[sdw5]  29-11 17:56:17|  1   1  97   1   0   0|   0  1162k| 296k  784k| 391M 35.2M 3153M  253M
+[sdw6]  29-11 17:56:18|  1   1  96   3   0   0|   0  1230k| 793k  325k| 393M 35.0M 3142M  262M
+
+20191129 17:56:22                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:22| 22   5  72   0   0   2|   0     0 |4471k 2127k| 407M  103M 3430M 3931M
+[smdw]  29-11 17:56:23| 29  15  53   2   0   1|   0   628k|3520k 3803k| 522M 70.3M 5452M 1827M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:23| 28  18  50   3   0   1|   0   828k|3411k 4036k| 391M 36.9M 3133M  272M
+[sdw2]  29-11 17:56:22| 30  16  47   5   0   1|   0   703k|4035k 3908k| 385M 35.0M 3144M  268M
+[sdw3]  29-11 17:56:22| 29  17  53   1   0   1|   0   646k|3605k 3654k| 380M 30.4M 3168M  254M
+[sdw4]  29-11 17:56:23| 31  17  49   1   0   2|   0   768k|3620k 3818k| 391M 32.9M 3125M  283M
+[sdw5]  29-11 17:56:23| 29  16  52   1   0   2|   0   758k|3316k 3243k| 385M 35.3M 3156M  256M
+[sdw6]  29-11 17:56:23| 28  16  55   0   0   2|   0   766k|3959k 3742k| 381M 35.0M 3144M  272M
+
+20191129 17:56:28                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:28|  0   1  99   0   0   0|   0   214k|  31k   25k| 410M  103M 3431M 3929M
+[smdw]  29-11 17:56:28|  1   1  88  10   0   1|   0  1487k| 871k  720k| 582M 70.3M 5452M 1768M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:28|  1   1  92   7   0   0|   0  1345k| 681k  768k| 459M 36.9M 3133M  204M
+[sdw2]  29-11 17:56:28|  1   1  92   6   0   0|   0  1475k| 775k  783k| 448M 35.1M 3144M  205M
+[sdw3]  29-11 17:56:27|  1   1  94   4   0   0|   0  2012k| 775k  745k| 447M 30.4M 3167M  188M
+[sdw4]  29-11 17:56:29|  1   1  92   7   0   0|   0  1407k| 743k  763k| 446M 32.9M 3125M  228M
+[sdw5]  29-11 17:56:28|  1   1  91   8   0   0|   0  1281k| 728k  675k| 445M 35.3M 3155M  197M
+[sdw6]  29-11 17:56:28|  1   1  88  10   0   0|   0  1539k| 813k  861k| 447M 35.0M 3143M  208M
+
+20191129 17:56:33                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:33|  1   2  97   0   0   1|   0   167k|  97k  246k| 398M  103M 3431M 3940M
+[smdw]  29-11 17:56:33|  2   2  70  26   0   1|   0  1672k|1222k  924k| 459M 70.3M 5452M 1891M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:33|  4   2  72  22   0   1|   0  1747k| 955k 1093k| 333M 36.9M 3133M  330M
+[sdw2]  29-11 17:56:33|  3   2  90   6   0   1|   0  1671k|1102k  941k| 330M 35.1M 3144M  324M
+[sdw3]  29-11 17:56:33|  3   3  83  12   0   1|   0  1418k| 956k  785k| 329M 30.4M 3167M  306M
+[sdw4]  29-11 17:56:34|  2   3  88   8   0   0|   0  1299k| 791k  707k| 324M 32.9M 3124M  351M
+[sdw5]  29-11 17:56:33|  3   2  66  29   0   1|   0  1628k| 762k 1055k| 324M 35.3M 3155M  319M
+[sdw6]  29-11 17:56:33|  2   3  78  17   0   1|   0  1817k|1087k 1204k| 324M 35.0M 3143M  330M
+
+20191129 17:56:38                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:38|  1   0 100   0   0   0|   0    56k|7485B 4752B| 401M  103M 3431M 3937M
+[smdw]  29-11 17:56:38|  0   0  89  11   0   0|   0  1236k| 752k  594k| 602M 70.3M 5448M 1753M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:38|  0   0  85  15   0   0|   0  1160k| 569k  305k| 472M 36.9M 3130M  194M
+[sdw2]  29-11 17:56:38|  1   0  83  17   0   0|   0   409k| 337k 1105k| 469M 35.1M 3142M  186M
+[sdw3]  29-11 17:56:38|  1   0  68  31   0   0|   0  1416k|1107k  957k| 467M 30.4M 3166M  170M
+[sdw4]  29-11 17:56:39|  1   1  69  30   0   0|   0  1746k| 946k  575k| 466M 32.9M 3122M  212M
+[sdw5]  29-11 17:56:38|  0   1  58  42   0   0|   0  2339k| 583k  737k| 466M 35.3M 3153M  178M
+[sdw6]  29-11 17:56:38|  0   1  72  27   0   0|   0  1748k| 760k  747k| 467M 35.0M 3141M  189M
+
+20191129 17:56:43                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:43|  0   0 100   0   0   0|   0    80k|  12k 5736B| 404M  103M 3431M 3934M
+[smdw]  29-11 17:56:43|  0   0  94   6   0   0|   0  1162k| 635k  722k| 602M 70.4M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:43|  0   0  90  10   0   0|   0   722k| 742k  364k| 472M 36.9M 3132M  192M
+[sdw2]  29-11 17:56:43|  0   0  92   8   0   0|   0   400k| 330k  119k| 469M 35.1M 3143M  185M
+[sdw3]  29-11 17:56:43|  0   0  76  24   0   0|   0  1411k| 100k  874k| 467M 30.4M 3166M  168M
+[sdw4]  29-11 17:56:44|  0   0  71  29   0   0|   0  1257k| 866k   56k| 467M 32.9M 3122M  210M
+[sdw5]  29-11 17:56:43|  1   0  84  16   0   0|   0   583k|  90k  826k| 465M 35.3M 3154M  178M
+[sdw6]  29-11 17:56:44|  0   0  78  22   0   0|   0  1224k| 843k  622k| 467M 35.0M 3142M  188M
+
+20191129 17:56:48                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:48|  0   0 100   0   0   0|   0    16k|4458B 2520B| 405M  104M 3431M 3933M
+[smdw]  29-11 17:56:49|  0   0 100   0   0   0|   0     0 | 126B   66B| 602M 70.4M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:48|  0   0 100   0   0   0|   0     0 | 502B   66B| 473M 36.9M 3132M  191M
+[sdw2]  29-11 17:56:48|  0   0 100   0   0   0|   0     0 | 502B  154B| 470M 35.1M 3143M  184M
+[sdw3]  29-11 17:56:48|  0   0 100   0   0   0|   0     0 | 502B   66B| 468M 30.4M 3167M  168M
+[sdw4]  29-11 17:56:49|  0   0 100   0   0   0|   0     0 | 502B   66B| 467M 32.9M 3122M  211M
+[sdw5]  29-11 17:56:48|  0   0  38  62   0   0|   0  1024k| 502B   66B| 466M 35.3M 3154M  177M
+[sdw6]  29-11 17:56:49|  0   0  34  67   0   0|   0  1072k| 502B   66B| 468M 35.1M 3143M  187M
+
+20191129 17:56:53                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:53|  0   0 100   0   0   0|   0  8192B|3574B 1630B| 406M  104M 3431M 3932M
+[smdw]  29-11 17:56:54|  0   0 100   0   0   0|   0     0 | 170B   66B| 602M 70.4M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:54|  0   0 100   0   0   0|   0     0 | 170B   66B| 473M 36.9M 3132M  191M
+[sdw2]  29-11 17:56:54|  0   0 100   0   0   0|   0     0 | 170B   66B| 469M 35.1M 3143M  185M
+[sdw3]  29-11 17:56:53|  0   0 100   0   0   0|   0     0 | 170B   66B| 468M 30.5M 3167M  167M
+[sdw4]  29-11 17:56:54|  0   0 100   0   0   0|   0     0 | 170B   66B| 467M 32.9M 3122M  210M
+[sdw5]  29-11 17:56:54|  0   0 100   1   0   0|   0    96k| 170B   66B| 466M 35.3M 3155M  177M
+[sdw6]  29-11 17:56:54|  0   0 100   0   0   0|   0     0 | 170B  154B| 468M 35.1M 3143M  187M
+
+20191129 17:56:59                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:56:59|  0   0 100   0   0   0|   0     0 |3656B 7040B| 409M  104M 3431M 3930M
+[smdw]  29-11 17:56:59|  0   0  99   0   0   0|   0     0 | 186B   66B| 602M 70.4M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:56:59|  0   0 100   0   0   0|   0     0 | 186B   66B| 473M 36.9M 3132M  191M
+[sdw2]  29-11 17:56:59|  0   0 100   0   0   0|   0     0 | 186B   66B| 470M 35.1M 3143M  184M
+[sdw3]  29-11 17:56:58|  0   0 100   0   0   0|   0     0 | 186B   66B| 468M 30.5M 3167M  167M
+[sdw4]  29-11 17:57:00|  0   0 100   0   0   0|   0     0 | 186B   66B| 467M 32.9M 3122M  210M
+[sdw5]  29-11 17:56:59|  0   0 100   0   0   0|   0     0 | 186B  154B| 466M 35.3M 3155M  177M
+[sdw6]  29-11 17:56:59|  0   0 100   0   0   0|   0     0 | 186B   66B| 468M 35.1M 3143M  187M
+
+20191129 17:57:04                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:04|  0   0 100   0   0   0|   0     0 |4572B 1930B| 409M  104M 3431M 3930M
+[smdw]  29-11 17:57:04|  0   0 100   0   0   0|   0     0 | 170B   66B| 603M 70.4M 5449M 1751M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:04|  0   0 100   0   0   0|   0     0 | 170B   66B| 473M 37.0M 3132M  190M
+[sdw2]  29-11 17:57:04|  0   0 100   0   0   0|   0     0 | 170B   66B| 470M 35.1M 3143M  184M
+[sdw3]  29-11 17:57:04|  0   0 100   0   0   0|   0     0 | 170B   66B| 468M 30.5M 3167M  167M
+[sdw4]  29-11 17:57:05|  0   0 100   0   0   0|   0    64k|  45k   85k| 467M 33.0M 3122M  210M
+[sdw5]  29-11 17:57:04|  0   0  99   0   0   0|   0   134k|  85k   38k| 466M 35.3M 3155M  177M
+[sdw6]  29-11 17:57:04|  0   0 100   0   0   0|   0    25k| 170B   66B| 468M 35.1M 3143M  187M
+
+20191129 17:57:09                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:09|  0   0 100   0   0   0|   0    11k|5479B 7852B| 408M  104M 3431M 3930M
+[smdw]  29-11 17:57:09|  1   0  99   1   0   0|   0   506k| 244k   54k| 603M 70.4M 5449M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:09|  0   0  99   0   0   0|   0  6144B|  38k   23k| 472M 37.0M 3132M  191M
+[sdw2]  29-11 17:57:09|  0   0  98   2   0   0|   0   668k|  64k  481k| 470M 35.1M 3144M  184M
+[sdw3]  29-11 17:57:09|  0   0  97   2   0   0|   0  1101k| 460k  382k| 468M 30.5M 3167M  166M
+[sdw4]  29-11 17:57:10|  0   0  99   1   0   0|   0  1158k| 367k  517k| 467M 33.0M 3122M  210M
+[sdw5]  29-11 17:57:09|  0   0  97   3   0   0|   0   615k| 507k   18k| 466M 35.3M 3155M  177M
+[sdw6]  29-11 17:57:09|  0   0 100   1   0   0|   0   320k|  62k  244k| 468M 35.1M 3143M  186M
+
+20191129 17:57:14                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:14|  0   0 100   0   0   0|   0    66k|5297B 1970B| 407M  104M 3431M 3931M
+[smdw]  29-11 17:57:14|  0   0  79  21   0   0|   0  1102k| 800k  469k| 603M 70.4M 5450M 1750M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:14|  0   1  93   7   0   0|   0   792k| 499k  911k| 473M 37.0M 3134M  189M
+[sdw2]  29-11 17:57:14|  0   1  95   4   0   0|   0  1029k| 916k 1244k| 470M 35.2M 3145M  182M
+[sdw3]  29-11 17:57:14|  0   0  94   6   0   0|   0  1200k|1215k  786k| 468M 30.5M 3169M  165M
+[sdw4]  29-11 17:57:15|  0   0  94   6   0   0|   0   722k| 805k  169k| 467M 33.0M 3123M  209M
+[sdw5]  29-11 17:57:14|  0   0  75  25   0   0|   0  1233k| 168k  757k| 467M 35.4M 3157M  174M
+[sdw6]  29-11 17:57:15|  0   0  91  10   0   0|   0   283k| 737k  794k| 468M 35.1M 3145M  184M
+
+20191129 17:57:19                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:19|  1   1  98   0   0   0|   0    56k|  28k   80k| 389M  104M 3431M 3949M
+[smdw]  29-11 17:57:19|  2   1  69  29   0   0|   0  2713k|1028k 4888k| 528M 70.4M 5452M 1822M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:19|  1   1  75  22   0   0|   0  3479k|4931k 1588k| 397M 37.0M 3137M  261M
+[sdw2]  29-11 17:57:19|  1   1  88  11   0   0|   0  2454k|1571k  442k| 394M 35.2M 3147M  256M
+[sdw3]  29-11 17:57:19|  1   0  90   9   0   0|   0  1556k| 440k  827k| 393M 30.5M 3172M  237M
+[sdw4]  29-11 17:57:20|  1   1  82  17   0   0|   0  1834k| 837k  666k| 391M 33.0M 3125M  284M
+[sdw5]  29-11 17:57:19|  1   1  79  20   0   0|   0  1202k| 689k 1092k| 391M 35.4M 3159M  247M
+[sdw6]  29-11 17:57:20|  1   1  89  10   0   0|   0  1294k|1126k 1013k| 392M 35.1M 3148M  257M
+
+20191129 17:57:24                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:24|  0   0 100   0   0   0|   0    33k|4841B 1524B| 395M  104M 3431M 3943M
+[smdw]  29-11 17:57:25|  0   0  94   6   0   0|   0    89k|  50k  415k| 528M 70.4M 5453M 1821M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:25|  0   0  93   6   0   0|   0    64k| 462k  589k| 397M 37.0M 3138M  260M
+[sdw2]  29-11 17:57:25|  0   0  94   7   0   0|   0    66k| 586k 3344B| 394M 35.2M 3148M  255M
+[sdw3]  29-11 17:57:24|  0   0 100   0   0   0|   0    69k|1242B  140k| 394M 30.5M 3175M  233M
+[sdw4]  29-11 17:57:25|  0   0 100   0   0   0|   0    72k| 165k 1166B| 392M 33.0M 3125M  282M
+[sdw5]  29-11 17:57:25|  0   0  57  44   0   0|   0    64k|1374B  277k| 392M 35.4M 3160M  246M
+[sdw6]  29-11 17:57:25|  0   0 100   0   0   0|   0   114k| 323k   33k| 393M 35.1M 3151M  253M
+
+20191129 17:57:30                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:30|  0   0 100   0   0   0|   0    32k|3620B 3196B| 384M  104M 3431M 3954M
+[smdw]  29-11 17:57:30|  0   0 100   0   0   0|   0    41k| 296B   66B| 491M 70.5M 5453M 1858M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:30|  0   0 100   0   0   0|   0    32k| 170B   66B| 360M 37.0M 3139M  297M
+[sdw2]  29-11 17:57:30|  0   0 100   0   0   0|   0     0 | 170B  154B| 357M 35.2M 3148M  292M
+[sdw3]  29-11 17:57:29|  0   0 100   0   0   0|   0     0 | 170B   66B| 357M 30.5M 3175M  270M
+[sdw4]  29-11 17:57:31|  0   0 100   0   0   0|   0  5120B| 170B   66B| 355M 33.0M 3126M  319M
+[sdw5]  29-11 17:57:30|  0   1  99   1   0   0|   0    48k| 296B   66B| 354M 35.4M 3160M  282M
+[sdw6]  29-11 17:57:30|  0   1 100   0   0   0|   0     0 | 296B   66B| 356M 35.2M 3151M  291M
+
+20191129 17:57:35                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:35|  0   0 100   0   0   0|   0  8192B|3302B 1064B| 389M  104M 3431M 3949M
+[smdw]  29-11 17:57:35|  0   0  94   6   0   0|   0  3072B| 460k   18k| 490M 70.5M 5453M 1858M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:35|  0   0 100   0   0   0|   0     0 | 252B   66B| 360M 37.0M 3139M  297M
+[sdw2]  29-11 17:57:35|  0   0 100   0   0   0|   0     0 | 126B   66B| 356M 35.2M 3148M  292M
+[sdw3]  29-11 17:57:35|  0   0 100   0   0   0|   0     0 |7825B  440B| 356M 30.5M 3175M  270M
+[sdw4]  29-11 17:57:36|  0   0 100   0   0   0|   0   132k|  15k  704B| 355M 33.0M 3126M  319M
+[sdw5]  29-11 17:57:35|  0   0 100   0   0   0|   0     0 | 390B  528B| 354M 35.4M 3161M  282M
+[sdw6]  29-11 17:57:35|  0   0  93   8   0   0|   0     0 |  25k  468k| 356M 35.2M 3152M  290M
+
+20191129 17:57:40                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:40|  0   0 100   0   0   0|   0    16k|3324B 2306B| 380M  104M 3431M 3958M
+[smdw]  29-11 17:57:40|  0   0 100   0   0   0|   0     0 | 902B  155k| 453M 70.5M 5454M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:40|  0   0 100   0   0   0|   0     0 | 166k  166k| 321M 37.0M 3141M  333M
+[sdw2]  29-11 17:57:40|  0   0 100   0   0   0|   0     0 | 165k  968B| 319M 35.2M 3152M  326M
+[sdw3]  29-11 17:57:40|  1   0 100   0   0   0|   0     0 |7639B  440B| 319M 30.6M 3178M  305M
+[sdw4]  29-11 17:57:41|  0   0  50  49   0   0|   0    64k| 198B  440B| 318M 33.0M 3127M  355M
+[sdw5]  29-11 17:57:40|  0   0 100   0   0   0|   0  2883k|  66B   66B| 317M 35.4M 3161M  319M
+[sdw6]  29-11 17:57:40|  0   0 100   0   0   0|   0   391k|  66B   66B| 318M 35.2M 3155M  324M
+
+20191129 17:57:45                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:45|  1   1  99   0   0   0|   0    16k|3370B 1630B| 381M  104M 3431M 3957M
+[smdw]  29-11 17:57:45|  0   1 100   0   0   0|   0     0 | 945k 1760B| 453M 70.5M 5455M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:45|  0   0 100   0   0   0|   0     0 | 230B   66B| 322M 37.0M 3141M  332M
+[sdw2]  29-11 17:57:45|  0   0 100   0   0   0|   0     0 | 230B  154B| 319M 35.2M 3153M  325M
+[sdw3]  29-11 17:57:45|  0   0 100   0   0   0|   0     0 | 230B   66B| 318M 30.6M 3178M  305M
+[sdw4]  29-11 17:57:46|  0   0 100   0   0   0|   0     0 | 230B   66B| 317M 33.0M 3127M  356M
+[sdw5]  29-11 17:57:45|  0   0 100   0   0   0|   0    13M| 230B  154B| 317M 35.4M 3161M  319M
+[sdw6]  29-11 17:57:45|  0   0 100   0   0   0|   0     0 |1682B  888k| 318M 35.2M 3155M  324M
+
+20191129 17:57:50                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:50|  1   1  99   0   0   0|   0   152k|3554B 2196B| 380M  104M 3431M 3958M
+[smdw]  29-11 17:57:50|  0   0 100   0   0   0|   0     0 | 186B   66B| 453M 70.5M 5455M 1894M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:50|  0   0 100   0   0   0|   0     0 | 186B   66B| 322M 37.0M 3141M  332M
+[sdw2]  29-11 17:57:50|  0   0 100   0   0   0|   0     0 | 186B   66B| 319M 35.2M 3153M  325M
+[sdw3]  29-11 17:57:50|  0   0 100   0   0   0|   0     0 | 186B  154B| 319M 30.6M 3178M  305M
+[sdw4]  29-11 17:57:51|  0   0 100   0   0   0|   0     0 | 186B   66B| 318M 33.1M 3127M  355M
+[sdw5]  29-11 17:57:50|  0   0 100   0   0   0|   0   384k| 186B   66B| 317M 35.4M 3161M  319M
+[sdw6]  29-11 17:57:51|  0   0 100   0   0   0|   0     0 | 186B   66B| 318M 35.2M 3155M  324M
+
+20191129 17:57:55                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:57:55|  0   0  99   0   0   0|   0  1808k|4547B 3006B| 379M  104M 3431M 3959M
+[smdw]  29-11 17:57:56|  0   0 100   0   0   0|   0     0 | 170B   66B| 453M 70.5M 5455M 1894M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:57:56|  0   0 100   0   0   0|   0     0 | 799B   66B| 322M 37.1M 3141M  332M
+[sdw2]  29-11 17:57:55|  0   0 100   0   0   0|   0     0 | 799B   66B| 319M 35.2M 3153M  326M
+[sdw3]  29-11 17:57:55|  0   0 100   0   0   0|   0    48k| 799B   66B| 319M 30.6M 3178M  305M
+[sdw4]  29-11 17:57:56|  0   0 100   0   0   0|   0    16k| 170B   66B| 317M 33.1M 3127M  355M
+[sdw5]  29-11 17:57:56|  0   0 100   0   0   0|   0  1152k| 799B   66B| 317M 35.4M 3161M  319M
+[sdw6]  29-11 17:57:56|  0   0  99   1   0   0|   0    40k| 799B   66B| 318M 35.2M 3155M  324M
+
+20191129 17:58:01                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:01|  1   1  99   0   0   0|   0   480k|4032B 3394B| 378M  104M 3431M 3960M
+[smdw]  29-11 17:58:01|  0   0 100   0   0   0|   0     0 | 186B   66B| 453M 70.5M 5455M 1895M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:01|  0   0 100   0   0   0|   0    24k| 186B   66B| 322M 37.1M 3141M  332M
+[sdw2]  29-11 17:58:01|  0   0 100   0   0   0|   0     0 | 186B   66B| 319M 35.3M 3153M  326M
+[sdw3]  29-11 17:58:00|  0   0 100   0   0   0|   0     0 | 186B   66B| 318M 30.6M 3178M  305M
+[sdw4]  29-11 17:58:02|  0   0 100   0   0   0|   0     0 | 186B   66B| 317M 33.1M 3128M  354M
+[sdw5]  29-11 17:58:01|  0   0 100   1   0   0|   0    48k| 186B   66B| 316M 35.5M 3162M  318M
+[sdw6]  29-11 17:58:01|  0   0 100   0   0   0|   0     0 | 186B   66B| 318M 35.2M 3155M  324M
+
+20191129 17:58:06                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:06|  1   1  99   0   0   0|   0    40k|8212B   66k| 378M  104M 3431M 3960M
+[smdw]  29-11 17:58:06|  0   0 100   0   0   0|   0   708k| 170B   66B| 453M 70.5M 5455M 1894M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:06|  0   0 100   0   0   0|   0    64k| 170B  154B| 321M 37.1M 3141M  333M
+[sdw2]  29-11 17:58:06|  0   0  99   0   0   0|   0    16k| 170B   66B| 319M 35.3M 3155M  323M
+[sdw3]  29-11 17:58:05|  0   0 100   0   0   0|   0  8192B| 170B   66B| 319M 30.6M 3179M  304M
+[sdw4]  29-11 17:58:07|  0   0 100   0   0   0|   0    40k| 170B   66B| 317M 33.1M 3128M  355M
+[sdw5]  29-11 17:58:06|  0   0 100   0   0   0|   0   176k| 170B   66B| 317M 35.5M 3162M  318M
+[sdw6]  29-11 17:58:06|  0   0 100   0   0   0|   0   152k| 170B   66B| 318M 35.2M 3155M  324M
+
+20191129 17:58:11                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:11|  3   3  94   0   0   1|   0   283k| 121k  389k| 394M  104M 3431M 3944M
+[smdw]  29-11 17:58:11|  2   2  96   0   0   0|   0   776k|  55k   16k| 441M 70.5M 5455M 1906M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:11|  1   2  97   0   0   0|   0   780k| 147k  451k| 310M 37.1M 3142M  344M
+[sdw2]  29-11 17:58:11|  2   2  96   0   0   0|   0  1083k| 499k  589k| 308M 35.3M 3155M  335M
+[sdw3]  29-11 17:58:11|  2   2  96   0   0   0|   0   771k| 566k   56k| 307M 30.6M 3179M  315M
+[sdw4]  29-11 17:58:12|  2   2  80  16   0   0|   0   522k| 146k 3291k| 305M 33.1M 3128M  366M
+[sdw5]  29-11 17:58:11|  2   2  81  15   0   1|   0   514k|3297k   77k| 305M 35.5M 3163M  329M
+[sdw6]  29-11 17:58:11|  1   2  97   0   0   0|   0   800k|  55k   16k| 306M 35.2M 3155M  336M
+
+20191129 17:58:16                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:16|  1   1  99   0   0   0|   0   120k|6796B 9064B| 397M  104M 3431M 3941M
+[smdw]  29-11 17:58:16|  0   0 100   0   0   0|   0  3336k| 762B  440B| 443M 70.6M 5455M 1904M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:16|  1   0  99   0   0   0|   0  1240k| 762B  528B| 311M 37.1M 3142M  343M
+[sdw2]  29-11 17:58:16|  0   0 100   0   0   0|   0   640k| 762B  440B| 309M 35.3M 3155M  334M
+[sdw3]  29-11 17:58:16|  0   0 100   0   0   0|   0   464k| 762B  440B| 308M 30.6M 3179M  315M
+[sdw4]  29-11 17:58:17|  1   0 100   0   0   0|   0   256k| 762B  440B| 306M 33.1M 3128M  365M
+[sdw5]  29-11 17:58:16|  0   0 100   0   0   0|   0     0 | 762B  440B| 306M 35.5M 3163M  328M
+[sdw6]  29-11 17:58:16|  0   0 100   0   0   0|   0  2240k| 762B  506B| 307M 35.2M 3155M  335M
+
+20191129 17:58:21                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:21|  0   1 100   0   0   0|   0    31k|8099B 5000B| 395M  104M 3431M 3943M
+[smdw]  29-11 17:58:21|  0   0 100   0   0   0|   0   194k|  10k  572B| 444M 70.6M 5455M 1903M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:21|  0   1 100   0   0   0|   0   258k|  28k  360k| 312M 37.1M 3142M  342M
+[sdw2]  29-11 17:58:21|  0   0 100   0   0   0|   0   256k| 353k   25k| 309M 35.3M 3155M  333M
+[sdw3]  29-11 17:58:21|  0   0 100   0   0   0|   0  3072B|2930B  440B| 309M 30.7M 3179M  314M
+[sdw4]  29-11 17:58:22|  0   0 100   0   0   0|   0    16k|3062B  528B| 307M 33.1M 3128M  364M
+[sdw5]  29-11 17:58:21|  0   0 100   0   0   0|   0   224k|2930B  440B| 307M 35.5M 3163M  327M
+[sdw6]  29-11 17:58:22|  0   0 100   0   0   0|   0   192k|2930B  440B| 308M 35.3M 3155M  334M
+
+20191129 17:58:26                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:26|  1   2  98   0   0   1|   0    64k|  31k   84k| 398M  104M 3431M 3940M
+[smdw]  29-11 17:58:27|  1   1  99   0   0   0|   0  2048B|  19k 3233B| 443M 70.6M 5455M 1904M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:27|  0   1  99   0   0   0|   0   192k|  32k   80k| 312M 37.1M 3142M  341M
+[sdw2]  29-11 17:58:26|  1   1  99   0   0   0|   0    64k| 108k   19k| 309M 35.3M 3155M  333M
+[sdw3]  29-11 17:58:26|  0   1  99   0   0   0|   0     0 |  20k  963k| 309M 30.7M 3179M  314M
+[sdw4]  29-11 17:58:27|  1   1  99   0   0   0|   0    15k| 962k 6269B| 307M 33.1M 3128M  364M
+[sdw5]  29-11 17:58:26|  1   1  99   0   0   0|   0   135k|  48k  179k| 307M 35.5M 3163M  327M
+[sdw6]  29-11 17:58:27|  1   1  98   1   0   0|   0   219k| 192k   34k| 308M 35.3M 3155M  334M
+
+20191129 17:58:32                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:32|  0   1 100   0   0   0|   0    32k|3964B 2020B| 388M  104M 3431M 3950M
+[smdw]  29-11 17:58:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 430M 70.6M 5455M 1917M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 299M 37.1M 3142M  354M
+[sdw2]  29-11 17:58:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 296M 35.3M 3155M  346M
+[sdw3]  29-11 17:58:31|  0   0 100   0   0   0|   0     0 | 170B   66B| 296M 30.7M 3179M  327M
+[sdw4]  29-11 17:58:33|  0   0 100   0   0   0|   0  3520k| 170B   66B| 294M 33.1M 3128M  377M
+[sdw5]  29-11 17:58:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 294M 35.5M 3163M  340M
+[sdw6]  29-11 17:58:32|  0   0 100   0   0   0|   0     0 | 170B   66B| 295M 35.3M 3155M  347M
+
+20191129 17:58:37                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:37|  1   0  99   0   0   0|   0   171k|3612B 2762B| 381M  104M 3431M 3956M
+[smdw]  29-11 17:58:37|  0   0 100   0   0   0|   0   128k|1199k  962k| 425M 70.6M 5455M 1922M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:37|  0   0  99   1   0   0|   0    65k| 946k   11k| 294M 37.2M 3142M  359M
+[sdw2]  29-11 17:58:37|  0   0 100   0   0   0|   0    27k|9613B  306k| 292M 35.3M 3155M  351M
+[sdw3]  29-11 17:58:36|  0   0 100   0   0   0|   0    64k| 339k   72k| 291M 30.7M 3179M  332M
+[sdw4]  29-11 17:58:38|  0   0 100   0   0   0|   0   201k|  95k 1107k| 289M 33.2M 3128M  381M
+[sdw5]  29-11 17:58:37|  1   0 100   0   0   0|   0   263k|1162k   48k| 288M 35.5M 3163M  345M
+[sdw6]  29-11 17:58:37|  0   0 100   0   0   0|   0   259k|  50k 1193k| 291M 35.3M 3155M  351M
+
+20191129 17:58:42                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:42|  1   0 100   0   0   0|   0    48k|3442B 2262B| 381M  104M 3431M 3956M
+[smdw]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 170B   66B| 425M 70.6M 5451M 1925M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 118B   66B| 294M 37.2M 3138M  363M
+[sdw2]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 170B   66B| 291M 35.4M 3152M  353M
+[sdw3]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 118B   66B| 291M 30.7M 3177M  334M
+[sdw4]  29-11 17:58:43|  0   0 100   0   0   0|   0     0 | 170B   66B| 289M 33.2M 3126M  384M
+[sdw5]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 118B  154B| 290M 35.5M 3159M  348M
+[sdw6]  29-11 17:58:42|  0   0 100   0   0   0|   0     0 | 118B   66B| 290M 35.3M 3153M  354M
+
+20191129 17:58:47                                                           Pivotal Greenplum  
+        -------------------------------------- Master Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[ mdw]  29-11 17:58:47|  1   1  99   0   0   0|   0   112k|3860B 2326B| 382M  104M 3431M 3956M
+[smdw]  29-11 17:58:47|  0   0  99   0   0   0|   0  5120B| 230B   66B| 425M 70.6M 5451M 1925M
+        ------------------------------------- Segment Node -----------------------------------
+        ----system---- ----total-cpu-usage---- -dsk/total- -net/total- ------memory-usage-----
+          date/time   |usr sys idl wai hiq siq| read  writ| recv  send| used  buff  cach  free
+[sdw1]  29-11 17:58:47|  0   0 100   0   0   0|   0  2048B| 230B   66B| 294M 37.2M 3138M  363M
+[sdw2]  29-11 17:58:47|  0   0 100   0   0   0|   0     0 | 230B  154B| 291M 35.4M 3152M  353M
+[sdw3]  29-11 17:58:47|  0   0 100   0   0   0|   0  5120B| 230B   66B| 291M 30.7M 3175M  336M
+[sdw4]  29-11 17:58:48|  0   0 100   0   0   0|   0     0 | 230B  154B| 289M 33.2M 3124M  385M
+[sdw5]  29-11 17:58:47|  0   0 100   0   0   0|   0   130k|  16k   79k| 290M 35.6M 3159M  348M
+[sdw6]  29-11 17:58:47|  0   0 100   0   0   0|   0   134k|  95k   16k| 290M 35.3M 3153M  354M

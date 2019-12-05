@@ -1,0 +1,89 @@
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 10858.334 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 32274.150 ms
+load.sh|2019-11-29 18:36:17|2019-11-29 18:37:00|43
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 14635.721 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 48934.752 ms
+load.sh|2019-11-29 18:37:00|2019-11-29 18:38:04|64
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8430.178 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 53497.123 ms
+load.sh|2019-11-29 18:38:04|2019-11-29 18:39:06|62
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11552.058 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 61606.931 ms
+load.sh|2019-11-29 18:39:06|2019-11-29 18:40:19|73
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 19057.483 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 60484.416 ms
+load.sh|2019-11-29 18:40:19|2019-11-29 18:41:39|80
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11228.235 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 38872.047 ms
+load.sh|2019-11-29 18:41:39|2019-11-29 18:42:29|50
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 6714.828 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 12955.192 ms
+load.sh|2019-11-29 18:42:30|2019-11-29 18:42:50|20
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 5730.609 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 8170.890 ms
+load.sh|2019-11-29 18:42:50|2019-11-29 18:43:04|14
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 5173.520 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 64862.846 ms
+load.sh|2019-11-29 18:43:04|2019-11-29 18:44:14|70
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11511.468 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 48500.220 ms
+load.sh|2019-11-29 18:44:14|2019-11-29 18:45:14|60
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 22473.949 ms
+insert into tb_load2 select * from tb_load;
+Cancel request sent
+ERROR:  canceling statement due to user request
+CONTEXT:  SQL statement "create table pg_temp.pg_analyze_17940_13 as (  select Ta.a1, Ta.a2, Ta.a3, Ta.a4, Ta.a5, Ta.a6, Ta.a7, Ta.a8, Ta.a9, Ta.a10, Ta.a11, Ta.a12  from public.tb_load2 as Ta where random() < 0.26897987723350524902343750000000000000 limit 26897  ) distributed randomly"
+load.sh|2019-11-29 18:45:14|2019-11-29 18:47:00|106

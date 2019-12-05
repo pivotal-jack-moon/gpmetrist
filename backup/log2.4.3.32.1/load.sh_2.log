@@ -1,0 +1,50 @@
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 26615.341 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 37480.254 ms
+load.sh|2019-11-29 18:04:47|2019-11-29 18:05:51|64
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7594.706 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 34773.744 ms
+load.sh|2019-11-29 18:05:51|2019-11-29 18:06:33|42
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7227.836 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 54923.207 ms
+load.sh|2019-11-29 18:06:40|2019-11-29 18:07:42|62
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8906.922 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 116462.532 ms
+load.sh|2019-11-29 18:07:42|2019-11-29 18:09:48|126
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11405.649 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 306388.711 ms
+load.sh|2019-11-29 18:09:48|2019-11-29 18:15:06|318
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 13601.303 ms
+insert into tb_load2 select * from tb_load;
+Cancel request sent
+WARNING:  canceling wait for synchronous replication due to user request
+DETAIL:  The transaction has already committed locally, but might not have been replicated to the standby.
+INSERT 0 100000
+Time: 107956.878 ms

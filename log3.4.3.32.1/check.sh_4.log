@@ -1,0 +1,1862 @@
+Timing is on.
+begin;
+BEGIN
+Time: 133.520 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3244.316 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 807.846 ms
+commit;
+COMMIT
+Time: 3959.821 ms
+check.sh|2019-12-02 17:06:09|2019-12-02 17:06:17|8
+Timing is on.
+begin;
+BEGIN
+Time: 61.391 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 5835.912 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1449.456 ms
+commit;
+COMMIT
+Time: 12764.771 ms
+check.sh|2019-12-02 17:06:19|2019-12-02 17:06:39|20
+Timing is on.
+begin;
+BEGIN
+Time: 84.664 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2519.503 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3302.452 ms
+commit;
+COMMIT
+Time: 4485.768 ms
+check.sh|2019-12-02 17:06:40|2019-12-02 17:06:50|10
+Timing is on.
+begin;
+BEGIN
+Time: 96.959 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4541.037 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 667.254 ms
+commit;
+COMMIT
+Time: 6343.376 ms
+check.sh|2019-12-02 17:06:51|2019-12-02 17:07:03|12
+Timing is on.
+begin;
+BEGIN
+Time: 108.690 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 11642.642 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 635.320 ms
+commit;
+COMMIT
+Time: 14152.050 ms
+check.sh|2019-12-02 17:07:06|2019-12-02 17:07:32|26
+Timing is on.
+begin;
+BEGIN
+Time: 59.674 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3538.918 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2924.419 ms
+commit;
+COMMIT
+Time: 3415.242 ms
+check.sh|2019-12-02 17:07:35|2019-12-02 17:07:45|10
+Timing is on.
+begin;
+BEGIN
+Time: 75.757 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1203.495 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2088.274 ms
+commit;
+COMMIT
+Time: 5797.894 ms
+check.sh|2019-12-02 17:07:46|2019-12-02 17:07:56|10
+Timing is on.
+begin;
+BEGIN
+Time: 77.811 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 8795.181 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1131.391 ms
+commit;
+COMMIT
+Time: 12594.556 ms
+check.sh|2019-12-02 17:07:56|2019-12-02 17:08:19|23
+Timing is on.
+begin;
+BEGIN
+Time: 80.755 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 13693.136 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1683.947 ms
+commit;
+COMMIT
+Time: 2840.478 ms
+check.sh|2019-12-02 17:08:20|2019-12-02 17:08:38|18
+Timing is on.
+begin;
+BEGIN
+Time: 93.008 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 623.131 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2018.827 ms
+commit;
+COMMIT
+Time: 5187.638 ms
+check.sh|2019-12-02 17:08:38|2019-12-02 17:08:46|8
+Timing is on.
+begin;
+BEGIN
+Time: 86.001 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 14569.638 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 619.443 ms
+commit;
+COMMIT
+Time: 7533.000 ms
+check.sh|2019-12-02 17:08:48|2019-12-02 17:09:11|23
+Timing is on.
+begin;
+BEGIN
+Time: 59.548 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1718.617 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1269.745 ms
+commit;
+COMMIT
+Time: 11673.607 ms
+check.sh|2019-12-02 17:09:11|2019-12-02 17:09:26|15
+Timing is on.
+begin;
+BEGIN
+Time: 56.896 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4478.015 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 957.281 ms
+commit;
+COMMIT
+Time: 8017.208 ms
+check.sh|2019-12-02 17:09:29|2019-12-02 17:09:43|14
+Timing is on.
+begin;
+BEGIN
+Time: 139.929 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2063.916 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1605.283 ms
+commit;
+COMMIT
+Time: 5541.174 ms
+check.sh|2019-12-02 17:09:44|2019-12-02 17:09:53|9
+Timing is on.
+begin;
+BEGIN
+Time: 114.935 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2025.974 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1142.878 ms
+commit;
+COMMIT
+Time: 18257.922 ms
+check.sh|2019-12-02 17:09:54|2019-12-02 17:10:15|21
+Timing is on.
+begin;
+BEGIN
+Time: 56.511 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10301.215 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 938.236 ms
+commit;
+COMMIT
+Time: 19026.730 ms
+check.sh|2019-12-02 17:10:15|2019-12-02 17:10:46|31
+Timing is on.
+begin;
+BEGIN
+Time: 66.249 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1945.514 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1385.984 ms
+commit;
+COMMIT
+Time: 5262.012 ms
+check.sh|2019-12-02 17:10:46|2019-12-02 17:10:55|9
+Timing is on.
+begin;
+BEGIN
+Time: 61.905 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 596.052 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2206.661 ms
+commit;
+COMMIT
+Time: 18310.198 ms
+check.sh|2019-12-02 17:10:55|2019-12-02 17:11:16|21
+Timing is on.
+begin;
+BEGIN
+Time: 105.178 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 6459.892 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 704.408 ms
+commit;
+COMMIT
+Time: 9943.077 ms
+check.sh|2019-12-02 17:11:18|2019-12-02 17:11:36|18
+Timing is on.
+begin;
+BEGIN
+Time: 90.866 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 996.936 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1602.515 ms
+commit;
+COMMIT
+Time: 4297.207 ms
+check.sh|2019-12-02 17:11:36|2019-12-02 17:11:43|7
+Timing is on.
+begin;
+BEGIN
+Time: 62.189 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10155.398 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 659.573 ms
+commit;
+COMMIT
+Time: 7967.691 ms
+check.sh|2019-12-02 17:11:47|2019-12-02 17:12:05|18
+Timing is on.
+begin;
+BEGIN
+Time: 60.134 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2292.771 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2036.978 ms
+commit;
+COMMIT
+Time: 6238.555 ms
+check.sh|2019-12-02 17:12:06|2019-12-02 17:12:17|11
+Timing is on.
+begin;
+BEGIN
+Time: 65.621 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 955.267 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1431.153 ms
+commit;
+COMMIT
+Time: 5006.092 ms
+check.sh|2019-12-02 17:12:17|2019-12-02 17:12:25|8
+Timing is on.
+begin;
+BEGIN
+Time: 129.546 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4806.566 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1208.205 ms
+commit;
+COMMIT
+Time: 6458.791 ms
+check.sh|2019-12-02 17:12:25|2019-12-02 17:12:38|13
+Timing is on.
+begin;
+BEGIN
+Time: 89.462 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2070.305 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1945.335 ms
+commit;
+COMMIT
+Time: 4549.865 ms
+check.sh|2019-12-02 17:12:38|2019-12-02 17:12:47|9
+Timing is on.
+begin;
+BEGIN
+Time: 76.622 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1246.250 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1754.904 ms
+commit;
+COMMIT
+Time: 10764.669 ms
+check.sh|2019-12-02 17:12:47|2019-12-02 17:13:01|14
+Timing is on.
+begin;
+BEGIN
+Time: 89.621 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1369.705 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2171.055 ms
+commit;
+COMMIT
+Time: 4905.267 ms
+check.sh|2019-12-02 17:13:01|2019-12-02 17:13:10|9
+Timing is on.
+begin;
+BEGIN
+Time: 63.135 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1779.979 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1397.397 ms
+commit;
+COMMIT
+Time: 33087.524 ms
+check.sh|2019-12-02 17:13:10|2019-12-02 17:13:47|37
+Timing is on.
+begin;
+BEGIN
+Time: 146.289 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3195.162 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3004.782 ms
+commit;
+COMMIT
+Time: 3192.902 ms
+check.sh|2019-12-02 17:13:47|2019-12-02 17:13:57|10
+Timing is on.
+begin;
+BEGIN
+Time: 85.205 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2462.255 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1025.182 ms
+commit;
+COMMIT
+Time: 2672.244 ms
+check.sh|2019-12-02 17:13:57|2019-12-02 17:14:03|6
+Timing is on.
+begin;
+BEGIN
+Time: 139.281 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 12745.076 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1504.043 ms
+commit;
+COMMIT
+Time: 8926.196 ms
+check.sh|2019-12-02 17:14:05|2019-12-02 17:14:29|24
+Timing is on.
+begin;
+BEGIN
+Time: 121.694 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 633.368 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2588.995 ms
+commit;
+COMMIT
+Time: 3842.703 ms
+check.sh|2019-12-02 17:14:30|2019-12-02 17:14:37|7
+Timing is on.
+begin;
+BEGIN
+Time: 121.710 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4049.872 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1469.945 ms
+commit;
+COMMIT
+Time: 12410.504 ms
+check.sh|2019-12-02 17:14:38|2019-12-02 17:14:56|18
+Timing is on.
+begin;
+BEGIN
+Time: 61.921 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4764.525 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1141.179 ms
+commit;
+COMMIT
+Time: 6690.034 ms
+check.sh|2019-12-02 17:14:57|2019-12-02 17:15:10|13
+Timing is on.
+begin;
+BEGIN
+Time: 64.061 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2078.820 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1117.447 ms
+commit;
+COMMIT
+Time: 5219.946 ms
+check.sh|2019-12-02 17:15:11|2019-12-02 17:15:19|8
+Timing is on.
+begin;
+BEGIN
+Time: 144.081 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 25021.677 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2224.152 ms
+commit;
+COMMIT
+Time: 3518.367 ms
+check.sh|2019-12-02 17:15:25|2019-12-02 17:15:56|31
+Timing is on.
+begin;
+BEGIN
+Time: 62.159 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1052.556 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1939.094 ms
+commit;
+COMMIT
+Time: 3642.679 ms
+check.sh|2019-12-02 17:15:56|2019-12-02 17:16:03|7
+Timing is on.
+begin;
+BEGIN
+Time: 98.279 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10445.706 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1110.342 ms
+commit;
+COMMIT
+Time: 6528.631 ms
+check.sh|2019-12-02 17:16:06|2019-12-02 17:16:25|19
+Timing is on.
+begin;
+BEGIN
+Time: 139.995 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1254.989 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1281.964 ms
+commit;
+COMMIT
+Time: 5151.925 ms
+check.sh|2019-12-02 17:16:25|2019-12-02 17:16:33|8
+Timing is on.
+begin;
+BEGIN
+Time: 114.069 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1759.727 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1927.940 ms
+commit;
+COMMIT
+Time: 15872.882 ms
+check.sh|2019-12-02 17:16:33|2019-12-02 17:16:53|20
+Timing is on.
+begin;
+BEGIN
+Time: 61.348 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1419.838 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2996.005 ms
+commit;
+COMMIT
+Time: 6604.548 ms
+check.sh|2019-12-02 17:16:54|2019-12-02 17:17:05|11
+Timing is on.
+begin;
+BEGIN
+Time: 57.402 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1747.311 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1935.767 ms
+commit;
+COMMIT
+Time: 15434.212 ms
+check.sh|2019-12-02 17:17:06|2019-12-02 17:17:25|19
+Timing is on.
+begin;
+BEGIN
+Time: 63.194 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1217.877 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2422.840 ms
+commit;
+COMMIT
+Time: 4129.663 ms
+check.sh|2019-12-02 17:17:25|2019-12-02 17:17:33|8
+Timing is on.
+begin;
+BEGIN
+Time: 81.165 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1110.986 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1865.939 ms
+commit;
+COMMIT
+Time: 4063.988 ms
+check.sh|2019-12-02 17:17:34|2019-12-02 17:17:41|7
+Timing is on.
+begin;
+BEGIN
+Time: 68.560 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 5228.712 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1534.055 ms
+commit;
+COMMIT
+Time: 10498.784 ms
+check.sh|2019-12-02 17:17:44|2019-12-02 17:18:01|17
+Timing is on.
+begin;
+BEGIN
+Time: 71.734 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3064.970 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1855.529 ms
+commit;
+COMMIT
+Time: 4473.852 ms
+check.sh|2019-12-02 17:18:02|2019-12-02 17:18:12|10
+Timing is on.
+begin;
+BEGIN
+Time: 91.171 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 906.850 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1859.948 ms
+commit;
+COMMIT
+Time: 4201.325 ms
+check.sh|2019-12-02 17:18:12|2019-12-02 17:18:19|7
+Timing is on.
+begin;
+BEGIN
+Time: 123.113 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10022.481 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2968.007 ms
+commit;
+COMMIT
+Time: 7674.360 ms
+check.sh|2019-12-02 17:18:20|2019-12-02 17:18:41|21
+Timing is on.
+begin;
+BEGIN
+Time: 89.378 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4932.372 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 833.346 ms
+commit;
+COMMIT
+Time: 3992.783 ms
+check.sh|2019-12-02 17:18:41|2019-12-02 17:18:51|10
+Timing is on.
+begin;
+BEGIN
+Time: 140.403 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4518.124 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 989.052 ms
+commit;
+COMMIT
+Time: 12489.233 ms
+check.sh|2019-12-02 17:18:52|2019-12-02 17:19:10|18
+Timing is on.
+begin;
+BEGIN
+Time: 81.625 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2065.160 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1595.779 ms
+commit;
+COMMIT
+Time: 4404.939 ms
+check.sh|2019-12-02 17:19:11|2019-12-02 17:19:19|8
+Timing is on.
+begin;
+BEGIN
+Time: 105.299 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1831.815 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1642.698 ms
+commit;
+COMMIT
+Time: 8162.456 ms
+check.sh|2019-12-02 17:19:19|2019-12-02 17:19:31|12
+Timing is on.
+begin;
+BEGIN
+Time: 64.208 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 9284.723 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2112.467 ms
+commit;
+COMMIT
+Time: 5517.091 ms
+check.sh|2019-12-02 17:19:31|2019-12-02 17:19:48|17
+Timing is on.
+begin;
+BEGIN
+Time: 96.872 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2192.509 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 656.846 ms
+commit;
+COMMIT
+Time: 3634.650 ms
+check.sh|2019-12-02 17:19:50|2019-12-02 17:19:56|6
+Timing is on.
+begin;
+BEGIN
+Time: 90.614 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 13719.493 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1510.317 ms
+commit;
+COMMIT
+Time: 7337.716 ms
+check.sh|2019-12-02 17:19:59|2019-12-02 17:20:22|23
+Timing is on.
+begin;
+BEGIN
+Time: 61.728 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 930.222 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2109.664 ms
+commit;
+COMMIT
+Time: 27530.190 ms
+check.sh|2019-12-02 17:20:23|2019-12-02 17:20:53|30
+Timing is on.
+begin;
+BEGIN
+Time: 62.211 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1236.926 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1897.635 ms
+commit;
+COMMIT
+Time: 5092.751 ms
+check.sh|2019-12-02 17:20:54|2019-12-02 17:21:02|8
+Timing is on.
+begin;
+BEGIN
+Time: 140.362 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10323.979 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1814.386 ms
+commit;
+COMMIT
+Time: 11868.580 ms
+check.sh|2019-12-02 17:21:03|2019-12-02 17:21:27|24
+Timing is on.
+begin;
+BEGIN
+Time: 82.960 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1687.009 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 884.341 ms
+commit;
+COMMIT
+Time: 4512.682 ms
+check.sh|2019-12-02 17:21:27|2019-12-02 17:21:34|7
+Timing is on.
+begin;
+BEGIN
+Time: 73.896 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1311.693 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1401.820 ms
+commit;
+COMMIT
+Time: 15866.899 ms
+check.sh|2019-12-02 17:21:36|2019-12-02 17:21:55|19
+Timing is on.
+begin;
+BEGIN
+Time: 90.877 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2676.290 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1304.682 ms
+commit;
+COMMIT
+Time: 4329.375 ms
+check.sh|2019-12-02 17:21:55|2019-12-02 17:22:03|8
+Timing is on.
+begin;
+BEGIN
+Time: 72.999 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1677.820 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1046.974 ms
+commit;
+COMMIT
+Time: 76084.498 ms
+check.sh|2019-12-02 17:22:04|2019-12-02 17:23:23|79
+Timing is on.
+begin;
+BEGIN
+Time: 139.520 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 527.194 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2218.419 ms
+commit;
+COMMIT
+Time: 13816.954 ms
+check.sh|2019-12-02 17:23:27|2019-12-02 17:23:43|16
+Timing is on.
+begin;
+BEGIN
+Time: 97.853 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2068.359 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2691.932 ms
+commit;
+COMMIT
+Time: 15408.333 ms
+check.sh|2019-12-02 17:23:45|2019-12-02 17:24:05|20
+Timing is on.
+begin;
+BEGIN
+Time: 120.411 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1423.139 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1560.662 ms
+commit;
+COMMIT
+Time: 14215.370 ms
+check.sh|2019-12-02 17:24:06|2019-12-02 17:24:23|17
+Timing is on.
+begin;
+BEGIN
+Time: 67.293 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3172.304 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2009.065 ms
+commit;
+COMMIT
+Time: 5958.994 ms
+check.sh|2019-12-02 17:24:27|2019-12-02 17:24:38|11
+Timing is on.
+begin;
+BEGIN
+Time: 65.862 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 19515.126 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 935.503 ms
+commit;
+COMMIT
+Time: 7039.695 ms
+check.sh|2019-12-02 17:24:38|2019-12-02 17:25:06|28
+Timing is on.
+begin;
+BEGIN
+Time: 67.299 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 17669.451 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 4694.836 ms
+commit;
+COMMIT
+Time: 36278.425 ms
+check.sh|2019-12-02 17:25:06|2019-12-02 17:26:05|59
+Timing is on.
+begin;
+BEGIN
+Time: 56.782 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1301.520 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2056.241 ms
+commit;
+COMMIT
+Time: 22820.698 ms
+check.sh|2019-12-02 17:26:05|2019-12-02 17:26:32|27
+Timing is on.
+begin;
+BEGIN
+Time: 113.263 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 6907.932 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1010.590 ms
+commit;
+COMMIT
+Time: 15983.000 ms
+check.sh|2019-12-02 17:26:32|2019-12-02 17:26:56|24
+Timing is on.
+begin;
+BEGIN
+Time: 58.787 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1547.403 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1121.393 ms
+commit;
+COMMIT
+Time: 2930.114 ms
+check.sh|2019-12-02 17:26:57|2019-12-02 17:27:03|6
+Timing is on.
+begin;
+BEGIN
+Time: 84.708 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 887.210 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2345.682 ms
+commit;
+COMMIT
+Time: 5731.792 ms
+check.sh|2019-12-02 17:27:07|2019-12-02 17:27:16|9
+Timing is on.
+begin;
+BEGIN
+Time: 64.872 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 27080.022 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 22474.601 ms
+commit;
+COMMIT
+Time: 6967.566 ms
+check.sh|2019-12-02 17:27:17|2019-12-02 17:28:13|56
+Timing is on.
+begin;
+BEGIN
+Time: 99.220 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2329.470 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2036.921 ms
+commit;
+COMMIT
+Time: 30965.957 ms
+check.sh|2019-12-02 17:28:14|2019-12-02 17:28:49|35
+Timing is on.
+begin;
+BEGIN
+Time: 62.595 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 875.592 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2227.069 ms
+commit;
+COMMIT
+Time: 6445.768 ms
+check.sh|2019-12-02 17:28:50|2019-12-02 17:28:59|9
+Timing is on.
+begin;
+BEGIN
+Time: 59.844 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 9628.163 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 950.678 ms
+commit;
+COMMIT
+Time: 6878.370 ms
+check.sh|2019-12-02 17:28:59|2019-12-02 17:29:17|18
+Timing is on.
+begin;
+BEGIN
+Time: 75.254 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1834.128 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 872.015 ms
+commit;
+COMMIT
+Time: 56934.502 ms
+check.sh|2019-12-02 17:29:18|2019-12-02 17:30:18|60
+Timing is on.
+begin;
+BEGIN
+Time: 82.942 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1466.559 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1957.679 ms
+commit;
+COMMIT
+Time: 40204.757 ms
+check.sh|2019-12-02 17:30:19|2019-12-02 17:31:03|44
+Timing is on.
+begin;
+BEGIN
+Time: 64.209 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2940.786 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3051.219 ms
+commit;
+COMMIT
+Time: 5349.676 ms
+check.sh|2019-12-02 17:31:04|2019-12-02 17:31:15|11
+Timing is on.
+begin;
+BEGIN
+Time: 61.001 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1671.754 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1116.753 ms
+commit;
+COMMIT
+Time: 4809.660 ms
+check.sh|2019-12-02 17:31:15|2019-12-02 17:31:23|8
+Timing is on.
+begin;
+BEGIN
+Time: 62.306 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 27599.831 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3587.058 ms
+commit;
+COMMIT
+Time: 17118.104 ms
+check.sh|2019-12-02 17:31:24|2019-12-02 17:32:13|49
+Timing is on.
+begin;
+BEGIN
+Time: 79.521 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1339.258 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2376.050 ms
+commit;
+COMMIT
+Time: 3400.523 ms
+check.sh|2019-12-02 17:32:13|2019-12-02 17:32:20|7
+Timing is on.
+begin;
+BEGIN
+Time: 79.542 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2925.701 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1588.598 ms
+commit;
+COMMIT
+Time: 6812.879 ms
+check.sh|2019-12-02 17:32:20|2019-12-02 17:32:32|12
+Timing is on.
+begin;
+BEGIN
+Time: 62.048 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 77957.280 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 939.990 ms
+commit;
+COMMIT
+Time: 3353.517 ms
+check.sh|2019-12-02 17:32:44|2019-12-02 17:34:06|82
+Timing is on.
+begin;
+BEGIN
+Time: 104.705 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 975.593 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2143.654 ms
+commit;
+COMMIT
+Time: 5344.794 ms
+check.sh|2019-12-02 17:34:07|2019-12-02 17:34:15|8
+Timing is on.
+begin;
+BEGIN
+Time: 115.883 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10369.390 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1680.315 ms
+commit;
+COMMIT
+Time: 28739.282 ms
+check.sh|2019-12-02 17:34:16|2019-12-02 17:34:57|41
+Timing is on.
+begin;
+BEGIN
+Time: 77.191 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1221.731 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2392.508 ms
+commit;
+COMMIT
+Time: 5165.157 ms
+check.sh|2019-12-02 17:34:58|2019-12-02 17:35:07|9
+Timing is on.
+begin;
+BEGIN
+Time: 58.829 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 10034.417 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1248.679 ms
+commit;
+COMMIT
+Time: 62197.320 ms
+check.sh|2019-12-02 17:35:08|2019-12-02 17:36:22|74
+Timing is on.
+begin;
+BEGIN
+Time: 65.599 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1741.571 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1424.588 ms
+commit;
+COMMIT
+Time: 4174.282 ms
+check.sh|2019-12-02 17:36:35|2019-12-02 17:36:42|7
+Timing is on.
+begin;
+BEGIN
+Time: 68.401 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 7805.921 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 859.240 ms
+commit;
+COMMIT
+Time: 41389.640 ms
+check.sh|2019-12-02 17:36:43|2019-12-02 17:37:33|50
+Timing is on.
+begin;
+BEGIN
+Time: 109.333 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 13524.300 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1902.916 ms
+commit;
+COMMIT
+Time: 3977.586 ms
+check.sh|2019-12-02 17:37:39|2019-12-02 17:37:58|19
+Timing is on.
+begin;
+BEGIN
+Time: 98.140 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1303.087 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1945.274 ms
+commit;
+COMMIT
+Time: 9909.398 ms
+check.sh|2019-12-02 17:37:59|2019-12-02 17:38:12|13
+Timing is on.
+begin;
+BEGIN
+Time: 128.330 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 46017.336 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 646.792 ms
+commit;
+COMMIT
+Time: 14110.913 ms
+check.sh|2019-12-02 17:38:12|2019-12-02 17:39:13|61
+Timing is on.
+begin;
+BEGIN
+Time: 62.464 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3255.792 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2348.047 ms
+commit;
+COMMIT
+Time: 3273.218 ms
+check.sh|2019-12-02 17:39:14|2019-12-02 17:39:23|9
+Timing is on.
+begin;
+BEGIN
+Time: 61.903 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1786.396 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1254.911 ms
+commit;
+COMMIT
+Time: 20790.579 ms
+check.sh|2019-12-02 17:39:23|2019-12-02 17:39:47|24
+Timing is on.
+begin;
+BEGIN
+Time: 57.624 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 24119.898 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 4396.531 ms
+commit;
+COMMIT
+Time: 40410.685 ms
+check.sh|2019-12-02 17:39:49|2019-12-02 17:40:58|69
+Timing is on.
+begin;
+BEGIN
+Time: 117.788 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2731.089 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3242.167 ms
+commit;
+COMMIT
+Time: 5504.200 ms
+check.sh|2019-12-02 17:40:58|2019-12-02 17:41:10|12
+Timing is on.
+begin;
+BEGIN
+Time: 76.817 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2845.729 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1814.868 ms
+commit;
+COMMIT
+Time: 10385.458 ms
+check.sh|2019-12-02 17:41:10|2019-12-02 17:41:26|16
+Timing is on.
+begin;
+BEGIN
+Time: 74.829 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 9551.636 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1053.884 ms
+commit;
+COMMIT
+Time: 5416.258 ms
+check.sh|2019-12-02 17:41:29|2019-12-02 17:41:45|16
+Timing is on.
+begin;
+BEGIN
+Time: 77.613 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 5054.892 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1978.271 ms
+commit;
+COMMIT
+Time: 10066.066 ms
+check.sh|2019-12-02 17:41:47|2019-12-02 17:42:04|17
+Timing is on.
+begin;
+BEGIN
+Time: 57.724 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 11963.986 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1088.032 ms
+commit;
+COMMIT
+Time: 3949.220 ms
+check.sh|2019-12-02 17:42:05|2019-12-02 17:42:22|17
+Timing is on.
+begin;
+BEGIN
+Time: 60.677 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 913.118 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1833.562 ms
+commit;
+COMMIT
+Time: 72867.159 ms
+check.sh|2019-12-02 17:42:23|2019-12-02 17:43:38|75
+Timing is on.
+begin;
+BEGIN
+Time: 104.830 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4813.896 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1761.603 ms
+commit;
+COMMIT
+Time: 48210.970 ms
+check.sh|2019-12-02 17:43:39|2019-12-02 17:44:34|55
+Timing is on.
+begin;
+BEGIN
+Time: 120.077 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1905.542 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1560.400 ms
+commit;
+COMMIT
+Time: 5097.937 ms
+check.sh|2019-12-02 17:44:34|2019-12-02 17:44:43|9
+Timing is on.
+begin;
+BEGIN
+Time: 58.705 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 876.647 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1977.787 ms
+commit;
+COMMIT
+Time: 6257.637 ms
+check.sh|2019-12-02 17:44:43|2019-12-02 17:44:52|9
+Timing is on.
+begin;
+BEGIN
+Time: 64.056 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 11211.994 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2410.788 ms
+commit;
+COMMIT
+Time: 82192.291 ms
+check.sh|2019-12-02 17:44:55|2019-12-02 17:46:30|95
+Timing is on.
+begin;
+BEGIN
+Time: 64.320 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3802.400 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1685.456 ms
+commit;
+COMMIT
+Time: 6799.182 ms
+check.sh|2019-12-02 17:46:31|2019-12-02 17:46:43|12
+Timing is on.
+begin;
+BEGIN
+Time: 64.802 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 901.909 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1996.323 ms
+commit;
+COMMIT
+Time: 57297.373 ms
+check.sh|2019-12-02 17:46:43|2019-12-02 17:47:44|61
+Timing is on.
+begin;
+BEGIN
+Time: 56.571 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 8796.604 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 623.137 ms
+commit;
+COMMIT
+Time: 6136.779 ms
+check.sh|2019-12-02 17:47:44|2019-12-02 17:48:00|16
+Timing is on.
+begin;
+BEGIN
+Time: 64.984 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2201.691 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1439.630 ms
+commit;
+COMMIT
+Time: 5640.252 ms
+check.sh|2019-12-02 17:48:02|2019-12-02 17:48:12|10
+Timing is on.
+begin;
+BEGIN
+Time: 97.494 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 30104.812 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1756.506 ms
+commit;
+COMMIT
+Time: 16863.520 ms
+check.sh|2019-12-02 17:48:12|2019-12-02 17:49:01|49
+Timing is on.
+begin;
+BEGIN
+Time: 93.194 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 986.792 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1918.090 ms
+commit;
+COMMIT
+Time: 16171.572 ms
+check.sh|2019-12-02 17:49:01|2019-12-02 17:49:21|20
+Timing is on.
+begin;
+BEGIN
+Time: 123.495 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 986.867 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1212.388 ms
+commit;
+COMMIT
+Time: 52561.698 ms
+check.sh|2019-12-02 17:49:33|2019-12-02 17:50:28|55
+Timing is on.
+begin;
+BEGIN
+Time: 55.620 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 21667.751 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1561.458 ms
+commit;
+COMMIT
+Time: 3384.808 ms
+check.sh|2019-12-02 17:50:28|2019-12-02 17:50:55|27
+Timing is on.
+begin;
+BEGIN
+Time: 90.520 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 758.572 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1851.525 ms
+commit;
+COMMIT
+Time: 15961.843 ms
+check.sh|2019-12-02 17:50:55|2019-12-02 17:51:14|19
+Timing is on.
+begin;
+BEGIN
+Time: 66.145 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 48141.339 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1780.825 ms
+commit;
+COMMIT
+Time: 8422.523 ms
+check.sh|2019-12-02 17:51:14|2019-12-02 17:52:13|59
+Timing is on.
+begin;
+BEGIN
+Time: 96.282 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1872.879 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1439.144 ms
+commit;
+COMMIT
+Time: 5246.695 ms
+check.sh|2019-12-02 17:52:13|2019-12-02 17:52:22|9
+Timing is on.
+begin;
+BEGIN
+Time: 68.615 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 4625.174 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 861.157 ms
+commit;
+COMMIT
+Time: 3735.252 ms
+check.sh|2019-12-02 17:52:22|2019-12-02 17:52:31|9
+Timing is on.
+begin;
+BEGIN
+Time: 97.251 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1348.097 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2486.411 ms
+commit;
+COMMIT
+Time: 2718.602 ms
+check.sh|2019-12-02 17:52:32|2019-12-02 17:52:39|7
+Timing is on.
+begin;
+BEGIN
+Time: 89.414 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1322.023 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1441.218 ms
+commit;
+COMMIT
+Time: 4170.380 ms
+check.sh|2019-12-02 17:52:39|2019-12-02 17:52:46|7
+Timing is on.
+begin;
+BEGIN
+Time: 126.398 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3150.914 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 4521.823 ms
+commit;
+COMMIT
+Time: 4453.557 ms
+check.sh|2019-12-02 17:52:47|2019-12-02 17:52:59|12
+Timing is on.
+begin;
+BEGIN
+Time: 85.097 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1493.376 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1627.954 ms
+commit;
+COMMIT
+Time: 4345.203 ms
+check.sh|2019-12-02 17:53:00|2019-12-02 17:53:07|7
+Timing is on.
+begin;
+BEGIN
+Time: 131.194 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 450958.449 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1517.719 ms
+commit;
+COMMIT
+Time: 5166.520 ms
+check.sh|2019-12-02 17:53:08|2019-12-02 18:00:45|457
+Timing is on.
+begin;
+BEGIN
+Time: 60.108 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2392.098 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1514.491 ms
+commit;
+COMMIT
+Time: 4252.554 ms
+check.sh|2019-12-02 18:00:47|2019-12-02 18:00:55|8
+Timing is on.
+begin;
+BEGIN
+Time: 61.193 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 52741.232 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 794.659 ms
+commit;
+COMMIT
+Time: 7768.516 ms
+check.sh|2019-12-02 18:00:57|2019-12-02 18:01:58|61
+Timing is on.
+begin;
+BEGIN
+Time: 70.689 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1020.800 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2929.039 ms
+commit;
+COMMIT
+Time: 3649.155 ms
+check.sh|2019-12-02 18:01:58|2019-12-02 18:02:06|8
+Timing is on.
+begin;
+BEGIN
+Time: 63.295 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 70800.155 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1828.598 ms
+commit;
+COMMIT
+Time: 5589.283 ms
+check.sh|2019-12-02 18:02:07|2019-12-02 18:03:25|78
+Timing is on.
+begin;
+BEGIN
+Time: 77.607 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 9740.960 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1970.763 ms
+commit;
+COMMIT
+Time: 10799.237 ms
+check.sh|2019-12-02 18:03:26|2019-12-02 18:03:48|22
+Timing is on.
+begin;
+BEGIN
+Time: 82.451 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 42381.587 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3135.739 ms
+commit;
+COMMIT
+Time: 3085.192 ms
+check.sh|2019-12-02 18:03:50|2019-12-02 18:04:39|49
+Timing is on.
+begin;
+BEGIN
+Time: 59.798 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1409.137 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2045.476 ms
+commit;
+COMMIT
+Time: 8973.224 ms
+check.sh|2019-12-02 18:04:40|2019-12-02 18:04:52|12
+Timing is on.
+begin;
+BEGIN
+Time: 63.314 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 9965.821 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2625.765 ms
+commit;
+COMMIT
+Time: 29177.072 ms
+check.sh|2019-12-02 18:04:52|2019-12-02 18:05:34|42
+Timing is on.
+begin;
+BEGIN
+Time: 101.962 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 6895.172 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2395.143 ms
+commit;
+COMMIT
+Time: 3450.931 ms
+check.sh|2019-12-02 18:05:35|2019-12-02 18:05:47|12
+Timing is on.
+begin;
+BEGIN
+Time: 70.853 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3067.146 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1736.411 ms
+commit;
+COMMIT
+Time: 24154.770 ms
+check.sh|2019-12-02 18:05:48|2019-12-02 18:06:17|29

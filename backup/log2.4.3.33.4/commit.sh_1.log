@@ -1,0 +1,1073 @@
+Timing is on.
+begin;
+BEGIN
+Time: 309.163 ms
+commit;
+COMMIT
+Time: 4244.214 ms
+commit.sh|2019-11-29 18:36:17|2019-11-29 18:36:22|5
+Timing is on.
+begin;
+BEGIN
+Time: 261.912 ms
+commit;
+COMMIT
+Time: 1713.908 ms
+commit.sh|2019-11-29 18:36:22|2019-11-29 18:36:24|2
+Timing is on.
+begin;
+BEGIN
+Time: 91.602 ms
+commit;
+COMMIT
+Time: 1184.629 ms
+commit.sh|2019-11-29 18:36:24|2019-11-29 18:36:25|1
+Timing is on.
+begin;
+BEGIN
+Time: 63.326 ms
+commit;
+COMMIT
+Time: 2820.303 ms
+commit.sh|2019-11-29 18:36:25|2019-11-29 18:36:28|3
+Timing is on.
+begin;
+BEGIN
+Time: 168.179 ms
+commit;
+COMMIT
+Time: 18954.094 ms
+commit.sh|2019-11-29 18:36:28|2019-11-29 18:36:47|19
+Timing is on.
+begin;
+BEGIN
+Time: 182.463 ms
+commit;
+COMMIT
+Time: 1784.036 ms
+commit.sh|2019-11-29 18:36:47|2019-11-29 18:36:49|2
+Timing is on.
+begin;
+BEGIN
+Time: 375.904 ms
+commit;
+COMMIT
+Time: 8036.861 ms
+commit.sh|2019-11-29 18:36:49|2019-11-29 18:36:57|8
+Timing is on.
+begin;
+BEGIN
+Time: 60.871 ms
+commit;
+COMMIT
+Time: 2291.896 ms
+commit.sh|2019-11-29 18:36:58|2019-11-29 18:37:00|2
+Timing is on.
+begin;
+BEGIN
+Time: 85.724 ms
+commit;
+COMMIT
+Time: 536.593 ms
+commit.sh|2019-11-29 18:37:00|2019-11-29 18:37:01|1
+Timing is on.
+begin;
+BEGIN
+Time: 66.982 ms
+commit;
+COMMIT
+Time: 2937.898 ms
+commit.sh|2019-11-29 18:37:01|2019-11-29 18:37:04|3
+Timing is on.
+begin;
+BEGIN
+Time: 96.557 ms
+commit;
+COMMIT
+Time: 4156.085 ms
+commit.sh|2019-11-29 18:37:04|2019-11-29 18:37:08|4
+Timing is on.
+begin;
+BEGIN
+Time: 209.370 ms
+commit;
+COMMIT
+Time: 2005.736 ms
+commit.sh|2019-11-29 18:37:08|2019-11-29 18:37:10|2
+Timing is on.
+begin;
+BEGIN
+Time: 60.842 ms
+commit;
+COMMIT
+Time: 1085.130 ms
+commit.sh|2019-11-29 18:37:10|2019-11-29 18:37:11|1
+Timing is on.
+begin;
+BEGIN
+Time: 62.438 ms
+commit;
+COMMIT
+Time: 5395.401 ms
+commit.sh|2019-11-29 18:37:11|2019-11-29 18:37:17|6
+Timing is on.
+begin;
+BEGIN
+Time: 74.201 ms
+commit;
+COMMIT
+Time: 20467.485 ms
+commit.sh|2019-11-29 18:37:17|2019-11-29 18:37:37|20
+Timing is on.
+begin;
+BEGIN
+Time: 67.116 ms
+commit;
+COMMIT
+Time: 14268.178 ms
+commit.sh|2019-11-29 18:37:37|2019-11-29 18:37:52|15
+Timing is on.
+begin;
+BEGIN
+Time: 63.970 ms
+commit;
+COMMIT
+Time: 4695.511 ms
+commit.sh|2019-11-29 18:37:52|2019-11-29 18:37:56|4
+Timing is on.
+begin;
+BEGIN
+Time: 62.272 ms
+commit;
+COMMIT
+Time: 2235.334 ms
+commit.sh|2019-11-29 18:37:56|2019-11-29 18:37:59|3
+Timing is on.
+begin;
+BEGIN
+Time: 84.229 ms
+commit;
+COMMIT
+Time: 1899.737 ms
+commit.sh|2019-11-29 18:37:59|2019-11-29 18:38:01|2
+Timing is on.
+begin;
+BEGIN
+Time: 217.062 ms
+commit;
+COMMIT
+Time: 1197.741 ms
+commit.sh|2019-11-29 18:38:01|2019-11-29 18:38:02|1
+Timing is on.
+begin;
+BEGIN
+Time: 301.274 ms
+commit;
+COMMIT
+Time: 2439.220 ms
+commit.sh|2019-11-29 18:38:02|2019-11-29 18:38:05|3
+Timing is on.
+begin;
+BEGIN
+Time: 59.155 ms
+commit;
+COMMIT
+Time: 3077.215 ms
+commit.sh|2019-11-29 18:38:05|2019-11-29 18:38:08|3
+Timing is on.
+begin;
+BEGIN
+Time: 67.551 ms
+commit;
+COMMIT
+Time: 1136.551 ms
+commit.sh|2019-11-29 18:38:08|2019-11-29 18:38:09|1
+Timing is on.
+begin;
+BEGIN
+Time: 65.044 ms
+commit;
+COMMIT
+Time: 1515.165 ms
+commit.sh|2019-11-29 18:38:09|2019-11-29 18:38:11|2
+Timing is on.
+begin;
+BEGIN
+Time: 225.430 ms
+commit;
+COMMIT
+Time: 23167.285 ms
+commit.sh|2019-11-29 18:38:11|2019-11-29 18:38:34|23
+Timing is on.
+begin;
+BEGIN
+Time: 65.307 ms
+commit;
+COMMIT
+Time: 7244.287 ms
+commit.sh|2019-11-29 18:38:34|2019-11-29 18:38:42|8
+Timing is on.
+begin;
+BEGIN
+Time: 66.444 ms
+commit;
+COMMIT
+Time: 12314.488 ms
+commit.sh|2019-11-29 18:38:42|2019-11-29 18:38:54|12
+Timing is on.
+begin;
+BEGIN
+Time: 71.437 ms
+commit;
+COMMIT
+Time: 4412.115 ms
+commit.sh|2019-11-29 18:38:54|2019-11-29 18:38:59|5
+Timing is on.
+begin;
+BEGIN
+Time: 110.219 ms
+commit;
+COMMIT
+Time: 709.502 ms
+commit.sh|2019-11-29 18:38:59|2019-11-29 18:39:00|1
+Timing is on.
+begin;
+BEGIN
+Time: 316.370 ms
+commit;
+COMMIT
+Time: 1100.413 ms
+commit.sh|2019-11-29 18:39:00|2019-11-29 18:39:01|1
+Timing is on.
+begin;
+BEGIN
+Time: 410.843 ms
+commit;
+COMMIT
+Time: 977.038 ms
+commit.sh|2019-11-29 18:39:01|2019-11-29 18:39:03|2
+Timing is on.
+begin;
+BEGIN
+Time: 65.834 ms
+commit;
+COMMIT
+Time: 1464.894 ms
+commit.sh|2019-11-29 18:39:03|2019-11-29 18:39:04|1
+Timing is on.
+begin;
+BEGIN
+Time: 61.032 ms
+commit;
+COMMIT
+Time: 1863.300 ms
+commit.sh|2019-11-29 18:39:04|2019-11-29 18:39:06|2
+Timing is on.
+begin;
+BEGIN
+Time: 69.821 ms
+commit;
+COMMIT
+Time: 1008.403 ms
+commit.sh|2019-11-29 18:39:06|2019-11-29 18:39:07|1
+Timing is on.
+begin;
+BEGIN
+Time: 62.943 ms
+commit;
+COMMIT
+Time: 1414.061 ms
+commit.sh|2019-11-29 18:39:07|2019-11-29 18:39:09|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.925 ms
+commit;
+COMMIT
+Time: 4166.938 ms
+commit.sh|2019-11-29 18:39:09|2019-11-29 18:39:13|4
+Timing is on.
+begin;
+BEGIN
+Time: 64.453 ms
+commit;
+COMMIT
+Time: 2346.321 ms
+commit.sh|2019-11-29 18:39:13|2019-11-29 18:39:15|2
+Timing is on.
+begin;
+BEGIN
+Time: 60.563 ms
+commit;
+COMMIT
+Time: 2252.435 ms
+commit.sh|2019-11-29 18:39:15|2019-11-29 18:39:18|3
+Timing is on.
+begin;
+BEGIN
+Time: 63.891 ms
+commit;
+COMMIT
+Time: 32085.914 ms
+commit.sh|2019-11-29 18:39:18|2019-11-29 18:39:50|32
+Timing is on.
+begin;
+BEGIN
+Time: 71.115 ms
+commit;
+COMMIT
+Time: 10720.678 ms
+commit.sh|2019-11-29 18:39:50|2019-11-29 18:40:01|11
+Timing is on.
+begin;
+BEGIN
+Time: 67.815 ms
+commit;
+COMMIT
+Time: 3991.810 ms
+commit.sh|2019-11-29 18:40:01|2019-11-29 18:40:05|4
+Timing is on.
+begin;
+BEGIN
+Time: 61.217 ms
+commit;
+COMMIT
+Time: 2474.417 ms
+commit.sh|2019-11-29 18:40:05|2019-11-29 18:40:07|2
+Timing is on.
+begin;
+BEGIN
+Time: 68.013 ms
+commit;
+COMMIT
+Time: 3111.699 ms
+commit.sh|2019-11-29 18:40:07|2019-11-29 18:40:11|4
+Timing is on.
+begin;
+BEGIN
+Time: 301.394 ms
+commit;
+COMMIT
+Time: 2332.407 ms
+commit.sh|2019-11-29 18:40:11|2019-11-29 18:40:13|2
+Timing is on.
+begin;
+BEGIN
+Time: 303.783 ms
+commit;
+COMMIT
+Time: 2995.966 ms
+commit.sh|2019-11-29 18:40:13|2019-11-29 18:40:17|4
+Timing is on.
+begin;
+BEGIN
+Time: 75.089 ms
+commit;
+COMMIT
+Time: 1578.424 ms
+commit.sh|2019-11-29 18:40:17|2019-11-29 18:40:18|1
+Timing is on.
+begin;
+BEGIN
+Time: 62.014 ms
+commit;
+COMMIT
+Time: 1150.611 ms
+commit.sh|2019-11-29 18:40:18|2019-11-29 18:40:19|1
+Timing is on.
+begin;
+BEGIN
+Time: 255.246 ms
+commit;
+COMMIT
+Time: 13970.688 ms
+commit.sh|2019-11-29 18:40:19|2019-11-29 18:40:34|15
+Timing is on.
+begin;
+BEGIN
+Time: 64.297 ms
+commit;
+COMMIT
+Time: 3599.333 ms
+commit.sh|2019-11-29 18:40:34|2019-11-29 18:40:37|3
+Timing is on.
+begin;
+BEGIN
+Time: 61.056 ms
+commit;
+COMMIT
+Time: 2534.007 ms
+commit.sh|2019-11-29 18:40:37|2019-11-29 18:40:40|3
+Timing is on.
+begin;
+BEGIN
+Time: 60.069 ms
+commit;
+COMMIT
+Time: 7261.879 ms
+commit.sh|2019-11-29 18:40:40|2019-11-29 18:40:47|7
+Timing is on.
+begin;
+BEGIN
+Time: 62.285 ms
+commit;
+COMMIT
+Time: 45880.266 ms
+commit.sh|2019-11-29 18:40:47|2019-11-29 18:41:33|46
+Timing is on.
+begin;
+BEGIN
+Time: 65.028 ms
+commit;
+COMMIT
+Time: 1893.518 ms
+commit.sh|2019-11-29 18:41:33|2019-11-29 18:41:35|2
+Timing is on.
+begin;
+BEGIN
+Time: 83.749 ms
+commit;
+COMMIT
+Time: 1079.922 ms
+commit.sh|2019-11-29 18:41:35|2019-11-29 18:41:37|2
+Timing is on.
+begin;
+BEGIN
+Time: 87.091 ms
+commit;
+COMMIT
+Time: 1249.995 ms
+commit.sh|2019-11-29 18:41:37|2019-11-29 18:41:38|1
+Timing is on.
+begin;
+BEGIN
+Time: 319.694 ms
+commit;
+COMMIT
+Time: 1672.798 ms
+commit.sh|2019-11-29 18:41:38|2019-11-29 18:41:40|2
+Timing is on.
+begin;
+BEGIN
+Time: 58.315 ms
+commit;
+COMMIT
+Time: 3662.977 ms
+commit.sh|2019-11-29 18:41:40|2019-11-29 18:41:44|4
+Timing is on.
+begin;
+BEGIN
+Time: 63.168 ms
+commit;
+COMMIT
+Time: 3024.715 ms
+commit.sh|2019-11-29 18:41:44|2019-11-29 18:41:47|3
+Timing is on.
+begin;
+BEGIN
+Time: 60.271 ms
+commit;
+COMMIT
+Time: 3389.212 ms
+commit.sh|2019-11-29 18:41:47|2019-11-29 18:41:50|3
+Timing is on.
+begin;
+BEGIN
+Time: 62.845 ms
+commit;
+COMMIT
+Time: 17294.354 ms
+commit.sh|2019-11-29 18:41:50|2019-11-29 18:42:08|18
+Timing is on.
+begin;
+BEGIN
+Time: 67.053 ms
+commit;
+COMMIT
+Time: 6138.498 ms
+commit.sh|2019-11-29 18:42:08|2019-11-29 18:42:14|6
+Timing is on.
+begin;
+BEGIN
+Time: 62.132 ms
+commit;
+COMMIT
+Time: 2426.960 ms
+commit.sh|2019-11-29 18:42:14|2019-11-29 18:42:16|2
+Timing is on.
+begin;
+BEGIN
+Time: 67.734 ms
+commit;
+COMMIT
+Time: 1718.787 ms
+commit.sh|2019-11-29 18:42:16|2019-11-29 18:42:18|2
+Timing is on.
+begin;
+BEGIN
+Time: 110.764 ms
+commit;
+COMMIT
+Time: 766.729 ms
+commit.sh|2019-11-29 18:42:18|2019-11-29 18:42:19|1
+Timing is on.
+begin;
+BEGIN
+Time: 330.580 ms
+commit;
+COMMIT
+Time: 5371.445 ms
+commit.sh|2019-11-29 18:42:19|2019-11-29 18:42:25|6
+Timing is on.
+begin;
+BEGIN
+Time: 61.132 ms
+commit;
+COMMIT
+Time: 1105.860 ms
+commit.sh|2019-11-29 18:42:25|2019-11-29 18:42:26|1
+Timing is on.
+begin;
+BEGIN
+Time: 135.252 ms
+commit;
+COMMIT
+Time: 1489.073 ms
+commit.sh|2019-11-29 18:42:26|2019-11-29 18:42:28|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.388 ms
+commit;
+COMMIT
+Time: 1424.320 ms
+commit.sh|2019-11-29 18:42:28|2019-11-29 18:42:29|1
+Timing is on.
+begin;
+BEGIN
+Time: 69.575 ms
+commit;
+COMMIT
+Time: 900.151 ms
+commit.sh|2019-11-29 18:42:29|2019-11-29 18:42:30|1
+Timing is on.
+begin;
+BEGIN
+Time: 350.925 ms
+commit;
+COMMIT
+Time: 1906.797 ms
+commit.sh|2019-11-29 18:42:30|2019-11-29 18:42:33|3
+Timing is on.
+begin;
+BEGIN
+Time: 59.171 ms
+commit;
+COMMIT
+Time: 1839.393 ms
+commit.sh|2019-11-29 18:42:33|2019-11-29 18:42:34|1
+Timing is on.
+begin;
+BEGIN
+Time: 62.306 ms
+commit;
+COMMIT
+Time: 3160.217 ms
+commit.sh|2019-11-29 18:42:34|2019-11-29 18:42:38|4
+Timing is on.
+begin;
+BEGIN
+Time: 63.755 ms
+commit;
+COMMIT
+Time: 2204.347 ms
+commit.sh|2019-11-29 18:42:38|2019-11-29 18:42:40|2
+Timing is on.
+begin;
+BEGIN
+Time: 169.393 ms
+commit;
+COMMIT
+Time: 2316.509 ms
+commit.sh|2019-11-29 18:42:40|2019-11-29 18:42:43|3
+Timing is on.
+begin;
+BEGIN
+Time: 69.011 ms
+commit;
+COMMIT
+Time: 1842.710 ms
+commit.sh|2019-11-29 18:42:43|2019-11-29 18:42:44|1
+Timing is on.
+begin;
+BEGIN
+Time: 64.093 ms
+commit;
+COMMIT
+Time: 1200.160 ms
+commit.sh|2019-11-29 18:42:44|2019-11-29 18:42:46|2
+Timing is on.
+begin;
+BEGIN
+Time: 105.519 ms
+commit;
+COMMIT
+Time: 826.579 ms
+commit.sh|2019-11-29 18:42:46|2019-11-29 18:42:47|1
+Timing is on.
+begin;
+BEGIN
+Time: 160.485 ms
+commit;
+COMMIT
+Time: 1799.892 ms
+commit.sh|2019-11-29 18:42:47|2019-11-29 18:42:49|2
+Timing is on.
+begin;
+BEGIN
+Time: 260.845 ms
+commit;
+COMMIT
+Time: 969.658 ms
+commit.sh|2019-11-29 18:42:49|2019-11-29 18:42:50|1
+Timing is on.
+begin;
+BEGIN
+Time: 67.554 ms
+commit;
+COMMIT
+Time: 1655.067 ms
+commit.sh|2019-11-29 18:42:50|2019-11-29 18:42:52|2
+Timing is on.
+begin;
+BEGIN
+Time: 65.179 ms
+commit;
+COMMIT
+Time: 862.843 ms
+commit.sh|2019-11-29 18:42:52|2019-11-29 18:42:53|1
+Timing is on.
+begin;
+BEGIN
+Time: 72.813 ms
+commit;
+COMMIT
+Time: 813.652 ms
+commit.sh|2019-11-29 18:42:53|2019-11-29 18:42:54|1
+Timing is on.
+begin;
+BEGIN
+Time: 177.982 ms
+commit;
+COMMIT
+Time: 1787.936 ms
+commit.sh|2019-11-29 18:42:54|2019-11-29 18:42:56|2
+Timing is on.
+begin;
+BEGIN
+Time: 298.885 ms
+commit;
+COMMIT
+Time: 3583.613 ms
+commit.sh|2019-11-29 18:42:56|2019-11-29 18:43:00|4
+Timing is on.
+begin;
+BEGIN
+Time: 88.907 ms
+commit;
+COMMIT
+Time: 1137.030 ms
+commit.sh|2019-11-29 18:43:00|2019-11-29 18:43:01|1
+Timing is on.
+begin;
+BEGIN
+Time: 137.396 ms
+commit;
+COMMIT
+Time: 715.213 ms
+commit.sh|2019-11-29 18:43:01|2019-11-29 18:43:02|1
+Timing is on.
+begin;
+BEGIN
+Time: 65.300 ms
+commit;
+COMMIT
+Time: 1272.028 ms
+commit.sh|2019-11-29 18:43:02|2019-11-29 18:43:03|1
+Timing is on.
+begin;
+BEGIN
+Time: 241.799 ms
+commit;
+COMMIT
+Time: 649.273 ms
+commit.sh|2019-11-29 18:43:03|2019-11-29 18:43:04|1
+Timing is on.
+begin;
+BEGIN
+Time: 248.803 ms
+commit;
+COMMIT
+Time: 1515.774 ms
+commit.sh|2019-11-29 18:43:04|2019-11-29 18:43:06|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.870 ms
+commit;
+COMMIT
+Time: 1040.398 ms
+commit.sh|2019-11-29 18:43:06|2019-11-29 18:43:07|1
+Timing is on.
+begin;
+BEGIN
+Time: 62.264 ms
+commit;
+COMMIT
+Time: 1219.081 ms
+commit.sh|2019-11-29 18:43:07|2019-11-29 18:43:09|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.824 ms
+commit;
+COMMIT
+Time: 3138.571 ms
+commit.sh|2019-11-29 18:43:09|2019-11-29 18:43:12|3
+Timing is on.
+begin;
+BEGIN
+Time: 61.623 ms
+commit;
+COMMIT
+Time: 2219.228 ms
+commit.sh|2019-11-29 18:43:12|2019-11-29 18:43:14|2
+Timing is on.
+begin;
+BEGIN
+Time: 180.617 ms
+commit;
+COMMIT
+Time: 5379.470 ms
+commit.sh|2019-11-29 18:43:14|2019-11-29 18:43:20|6
+Timing is on.
+begin;
+BEGIN
+Time: 71.658 ms
+commit;
+COMMIT
+Time: 52520.276 ms
+commit.sh|2019-11-29 18:43:20|2019-11-29 18:44:12|52
+Timing is on.
+begin;
+BEGIN
+Time: 64.563 ms
+commit;
+COMMIT
+Time: 1357.783 ms
+commit.sh|2019-11-29 18:44:12|2019-11-29 18:44:14|2
+Timing is on.
+begin;
+BEGIN
+Time: 65.747 ms
+commit;
+COMMIT
+Time: 535.183 ms
+commit.sh|2019-11-29 18:44:14|2019-11-29 18:44:14|0
+Timing is on.
+begin;
+BEGIN
+Time: 68.813 ms
+commit;
+COMMIT
+Time: 1147.908 ms
+commit.sh|2019-11-29 18:44:14|2019-11-29 18:44:16|2
+Timing is on.
+begin;
+BEGIN
+Time: 155.182 ms
+commit;
+COMMIT
+Time: 1791.386 ms
+commit.sh|2019-11-29 18:44:16|2019-11-29 18:44:18|2
+Timing is on.
+begin;
+BEGIN
+Time: 206.185 ms
+commit;
+COMMIT
+Time: 1389.447 ms
+commit.sh|2019-11-29 18:44:18|2019-11-29 18:44:19|1
+Timing is on.
+begin;
+BEGIN
+Time: 65.377 ms
+commit;
+COMMIT
+Time: 2468.630 ms
+commit.sh|2019-11-29 18:44:19|2019-11-29 18:44:22|3
+Timing is on.
+begin;
+BEGIN
+Time: 73.618 ms
+commit;
+COMMIT
+Time: 9359.227 ms
+commit.sh|2019-11-29 18:44:22|2019-11-29 18:44:31|9
+Timing is on.
+begin;
+BEGIN
+Time: 66.378 ms
+commit;
+COMMIT
+Time: 7757.459 ms
+commit.sh|2019-11-29 18:44:31|2019-11-29 18:44:39|8
+Timing is on.
+begin;
+BEGIN
+Time: 208.241 ms
+commit;
+COMMIT
+Time: 7132.647 ms
+commit.sh|2019-11-29 18:44:39|2019-11-29 18:44:46|7
+Timing is on.
+begin;
+BEGIN
+Time: 60.195 ms
+commit;
+COMMIT
+Time: 17311.992 ms
+commit.sh|2019-11-29 18:44:46|2019-11-29 18:45:04|18
+Timing is on.
+begin;
+BEGIN
+Time: 73.728 ms
+commit;
+COMMIT
+Time: 1555.343 ms
+commit.sh|2019-11-29 18:45:04|2019-11-29 18:45:06|2
+Timing is on.
+begin;
+BEGIN
+Time: 67.081 ms
+commit;
+COMMIT
+Time: 1073.179 ms
+commit.sh|2019-11-29 18:45:06|2019-11-29 18:45:07|1
+Timing is on.
+begin;
+BEGIN
+Time: 277.244 ms
+commit;
+COMMIT
+Time: 2574.210 ms
+commit.sh|2019-11-29 18:45:07|2019-11-29 18:45:10|3
+Timing is on.
+begin;
+BEGIN
+Time: 188.239 ms
+commit;
+COMMIT
+Time: 1617.573 ms
+commit.sh|2019-11-29 18:45:10|2019-11-29 18:45:11|1
+Timing is on.
+begin;
+BEGIN
+Time: 59.946 ms
+commit;
+COMMIT
+Time: 1502.186 ms
+commit.sh|2019-11-29 18:45:11|2019-11-29 18:45:13|2
+Timing is on.
+begin;
+BEGIN
+Time: 67.344 ms
+commit;
+COMMIT
+Time: 1047.270 ms
+commit.sh|2019-11-29 18:45:13|2019-11-29 18:45:14|1
+Timing is on.
+begin;
+BEGIN
+Time: 280.830 ms
+commit;
+COMMIT
+Time: 1580.212 ms
+commit.sh|2019-11-29 18:45:14|2019-11-29 18:45:16|2
+Timing is on.
+begin;
+BEGIN
+Time: 227.244 ms
+commit;
+COMMIT
+Time: 1682.543 ms
+commit.sh|2019-11-29 18:45:16|2019-11-29 18:45:18|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.852 ms
+commit;
+COMMIT
+Time: 2932.334 ms
+commit.sh|2019-11-29 18:45:18|2019-11-29 18:45:21|3
+Timing is on.
+begin;
+BEGIN
+Time: 59.281 ms
+commit;
+COMMIT
+Time: 16065.166 ms
+commit.sh|2019-11-29 18:45:21|2019-11-29 18:45:37|16
+Timing is on.
+begin;
+BEGIN
+Time: 159.490 ms
+commit;
+COMMIT
+Time: 48125.374 ms
+commit.sh|2019-11-29 18:45:37|2019-11-29 18:46:26|49
+Timing is on.
+begin;
+BEGIN
+Time: 66.644 ms
+commit;
+Cancel request sent
+COMMIT
+Time: 32680.811 ms
+commit.sh|2019-11-29 18:46:26|2019-11-29 18:46:58|32
+Timing is on.
+begin;
+BEGIN
+Time: 63.408 ms
+commit;
+COMMIT
+Time: 1042.458 ms
+commit.sh|2019-11-29 18:46:58|2019-11-29 18:46:59|1
+Timing is on.
+begin;
+BEGIN
+Time: 66.352 ms
+commit;
+COMMIT
+Time: 828.399 ms
+commit.sh|2019-11-29 18:46:59|2019-11-29 18:47:00|1
+Timing is on.
+begin;
+BEGIN
+Time: 143.840 ms
+commit;
+COMMIT
+Time: 843.743 ms
+commit.sh|2019-11-29 18:47:00|2019-11-29 18:47:01|1
+Timing is on.
+begin;
+BEGIN
+Time: 66.992 ms
+commit;
+COMMIT
+Time: 428.278 ms
+commit.sh|2019-11-29 18:47:01|2019-11-29 18:47:02|1
+Timing is on.
+begin;
+BEGIN
+Time: 63.135 ms
+commit;
+COMMIT
+Time: 2617.887 ms
+commit.sh|2019-11-29 18:47:02|2019-11-29 18:47:05|3
+Timing is on.
+begin;
+BEGIN
+Time: 230.855 ms
+commit;
+COMMIT
+Time: 2130.007 ms
+commit.sh|2019-11-29 18:47:05|2019-11-29 18:47:07|2
+Timing is on.
+begin;
+BEGIN
+Time: 82.297 ms
+commit;
+COMMIT
+Time: 1963.991 ms
+commit.sh|2019-11-29 18:47:07|2019-11-29 18:47:09|2
+Timing is on.
+begin;
+BEGIN
+Time: 65.739 ms
+commit;
+COMMIT
+Time: 819.009 ms
+commit.sh|2019-11-29 18:47:09|2019-11-29 18:47:10|1
+Timing is on.
+begin;
+BEGIN
+Time: 66.665 ms
+commit;
+COMMIT
+Time: 2058.640 ms
+commit.sh|2019-11-29 18:47:10|2019-11-29 18:47:12|2
+Timing is on.
+begin;
+BEGIN
+Time: 161.556 ms
+commit;
+COMMIT
+Time: 2140.616 ms
+commit.sh|2019-11-29 18:47:12|2019-11-29 18:47:14|2
+Timing is on.
+begin;
+BEGIN
+Time: 63.156 ms
+commit;
+COMMIT
+Time: 2576.596 ms
+commit.sh|2019-11-29 18:47:15|2019-11-29 18:47:17|2
+Timing is on.
+begin;
+BEGIN
+Time: 62.011 ms
+commit;
+COMMIT
+Time: 1194.967 ms
+commit.sh|2019-11-29 18:47:17|2019-11-29 18:47:18|1
+Timing is on.
+begin;
+BEGIN
+Time: 76.596 ms
+commit;
+COMMIT
+Time: 1248.858 ms
+commit.sh|2019-11-29 18:47:18|2019-11-29 18:47:20|2
+Timing is on.
+begin;
+BEGIN
+Time: 141.299 ms
+commit;
+COMMIT
+Time: 2041.881 ms
+commit.sh|2019-11-29 18:47:20|2019-11-29 18:47:22|2
+Timing is on.
+begin;
+BEGIN
+Time: 195.845 ms
+commit;
+COMMIT
+Time: 1783.504 ms
+commit.sh|2019-11-29 18:47:22|2019-11-29 18:47:24|2
+Timing is on.
+begin;
+BEGIN
+Time: 65.519 ms
+commit;
+COMMIT
+Time: 2440.300 ms
+commit.sh|2019-11-29 18:47:24|2019-11-29 18:47:27|3
+Timing is on.
+begin;
+BEGIN
+Time: 78.001 ms
+commit;
+COMMIT
+Time: 1581.003 ms
+commit.sh|2019-11-29 18:47:27|2019-11-29 18:47:28|1
