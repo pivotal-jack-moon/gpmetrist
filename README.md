@@ -1,3 +1,21 @@
+# What is GPPerf-Toolkit?
+GPPerf-Toolkit is bash shell script to generate some workload by running short queries, transactions and queries to make high load with index in order to simulate as real as it is.
+In addition it include feature to record how much time each queries has been spent into log directory. From that it can make statistics page via googld sheet or ms-excel and so on.
+
+# Where is GPPerf-Toolkit from?
+It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to cooperate with me.
+
+# Base Concept
+
+1. init.sh
+- tb_check ( short query )
+- tb_check_N ( transaction ) 갯수만큼 테이블을 만들어주고 부하를 일으키키 위한 베이스 테이블들
+- tb_load ( 시스템 부하를 만들기 위해서 테이블을 만들고 1 억건의 레코드를 넣어서 index 를 생성함 ( IOPS 를 만드므로서 디스크 util 을 올리기 위함 )
+
+
+
+
+
 # gpperf-toolkit
 1.1.crt_tb_check.sh - 테이블 생성하며 숏쿼리가 딜레이가 되는지 체크하는 스크립트
 
