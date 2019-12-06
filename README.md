@@ -10,10 +10,14 @@ In order to simulate similar workload running short queries / transaction querie
 
 - README.md
 - init.sh
-  - 1.1.crt_tb_check.sh - creating tb_check table and tb_checkN tables to insert data by short queries and transactions
-  - 1.2.ins_tb_check.sh - inserting data about 10 records by short queries
-  - 2.1.crt_tb_load.sh - create table for high load with creating indexes
-  - 2.2.ins_tb_load.sh - inserting data about 0.1 millian records into tb_load table. Especially it would make about 100% disk util by IOPS.
+  - 1.1.crt_tb_check.sh
+    - creating tb_check table and tb_checkN tables to insert data by short queries and transactions
+  - 1.2.ins_tb_check.sh
+    - inserting data about 10 records by short queries
+  - 2.1.crt_tb_load.sh
+    - create table for high load with creating indexes
+  - 2.2.ins_tb_load.sh
+    - inserting data about 0.1 millian records into tb_load table. Especially it would make about 100% disk util by IOPS.
 - run_all.sh
   - run_sys_rsc.sh
   - run_qqit.sh
