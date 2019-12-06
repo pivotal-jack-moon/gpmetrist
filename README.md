@@ -6,8 +6,8 @@ In addition it include feature to record how much time each queries has been spe
 It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to cooperate with me.
 
 # Prerequisite
-GPDB 4, 5, 6 or later version
-Bash
+- GPDB 4, 5, 6 or later version
+- Bash
 
 # Table of Contents
 In order to simulate similar workload running short queries / transaction queries and inserting a lot of data in the tables indexed will be run repeatedly in the certain period of time.
