@@ -8,12 +8,12 @@ It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform 
 # Base Concept
 In order to simulate similar workload running short queries / transaction queries and inserting a lot of data in the tables indexed will be run repeatedly in the certain period of time.
 
-README.md
-init.sh
-- 1.1.crt_tb_check.sh
-- 1.2.ins_tb_check.sh
-- 2.1.crt_tb_load.sh
-- 2.2.ins_tb_load.sh
+- README.md
+- init.sh
+ - 1.1.crt_tb_check.sh
+ - 1.2.ins_tb_check.sh
+ - 2.1.crt_tb_load.sh
+ - 2.2.ins_tb_load.sh
 
 backup
 check.sh
