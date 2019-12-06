@@ -10,10 +10,18 @@ In order to simulate similar workload running short queries / transaction querie
 
 - README.md
 - init.sh
-  - 1.1.crt_tb_check.sh
-  - 1.2.ins_tb_check.sh
-  - 2.1.crt_tb_load.sh
-  - 2.2.ins_tb_load.sh
+  - 1.1.crt_tb_check.sh - creating tb_check table and tb_checkN tables to insert data by short queries and transactions
+  - 1.2.ins_tb_check.sh - inserting data about 10 records by short queries
+  - 2.1.crt_tb_load.sh - create table for high load with creating indexes
+  - 2.2.ins_tb_load.sh - inserting data about 0.1 millian records into tb_load table. Especially it would make about 100% disk util by IOPS.
+- run_all.sh
+  - run_sys_rsc.sh
+  - run_qqit.sh
+  - run_commit.sh
+  - run_check.sh
+  - run_crt_tb.sh
+  - run_load.sh
+  - kill_all.sh
 
 backup
 check.sh
@@ -37,11 +45,6 @@ run_crt_tb.sh
 run_load.sh
 run_qqit.sh
 run_sys_rsc.sh
-
-1. init.sh
-- tb_check ( short query )
-- tb_check_N ( transaction ) 갯수만큼 테이블을 만들어주고 부하를 일으키키 위한 베이스 테이블들
-- tb_load ( 시스템 부하를 만들기 위해서 테이블을 만들고 1 억건의 레코드를 넣어서 index 를 생성함 ( IOPS 를 만드므로서 디스크 util 을 올리기 위함 )
 
 
 [ table ]
