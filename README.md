@@ -3,7 +3,7 @@ GPMetrist is bash shell script to generate some workload by running short querie
 In addition it include feature to record how much time each queries has been spent into log directory. From that it can make statistics page via googld sheet or ms-excel and so on.
 
 # Where is GPMetrist from?
-It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to cooperate with Jack Moon sdfdf.
+It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to cooperate with Jack Moon.
 
 # Prerequisite
 - GPDB 4, 5, 6 or later version
