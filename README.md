@@ -61,12 +61,8 @@ $./init.sh
 ~~~
 ./run_all.sh
 ~~~
-4. run run_all.sh
-~~~
-./run_all.sh
-~~~
-5. run rslt_*.sh
+4. run rslt_*.sh
 ~~~
 ./run_*.sh
 ~~~
-6. Copy output into google sheets or MS-Excel and the make statistics.
+5. Copy output into google sheets or MS-Excel and the make statistics.
