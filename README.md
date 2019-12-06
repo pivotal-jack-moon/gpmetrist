@@ -1,8 +1,8 @@
-# What is GPPerf-Toolkit?
-GPPerf-Toolkit is bash shell script to generate some workload by running short queries, transactions and queries to make high load with index in order to simulate as real as it is.
+# What is GPMetrist?
+GPMetrist is bash shell script to generate some workload by running short queries, transactions and queries to make high load with index in order to simulate as real as it is.
 In addition it include feature to record how much time each queries has been spent into log directory. From that it can make statistics page via googld sheet or ms-excel and so on.
 
-# Where is GPPerf-Toolkit from?
+# Where is GPMetrist from?
 It's been produced by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to cooperate with me.
 
 # Prerequisite
