@@ -4,7 +4,7 @@ In addition it include feature to record how much time each queries has been spe
 
 # Where is GPMetrist from?
 It's been produced initially by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to simulate real wrokload and to reproduce the ceratin issue.
-and project names, file names and a few codes has been changed by Jack Moon.
+and then project names, file names and a few codes has been changed by Jack Moon.
 
 # Prerequisite
 - GPDB 4, 5, 6 or later version
