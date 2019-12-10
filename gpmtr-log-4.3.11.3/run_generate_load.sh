@@ -1,14 +1,14 @@
 #!/bin/bash
 
 SLEEP=0.1
-NUM=1
-CNT=3000
+NUM=2
+CNT=1000
 
 for j in `seq 1 ${CNT}`
 do
     for i in `seq 1 ${NUM}`
     do
-         ./commit.sh $i &
+         ./generate_load.sh $i &
          sleep $SLEEP
     done
 wait

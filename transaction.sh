@@ -7,12 +7,15 @@ LOGFILE=$GPMTR_LOGDIR"/"$BMT_NO"_"$1".log"
 
 START_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 
-# commit start
+# query start
 psql -U gpadmin -d $GPMTR_DB -e >> $LOGFILE 2>&1 <<-!
+
 begin;
+truncate table $GPMTR_TRXTB$1 ;
+insert into $GPMTR_TRXTB$1 select * from $GPMTR_SQTB;
 commit;
 !
-# commit end
+# query end
 
 END_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 

@@ -1,0 +1,126 @@
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+Cancel request sent
+TRUNCATE TABLE
+Time: 3344.393 ms
+generate_load.sh|2019-12-10 13:18:42|2019-12-10 13:18:46|4
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 4429.512 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 7281.989 ms
+generate_load.sh|2019-12-10 13:18:47|2019-12-10 13:18:58|11
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 3045.537 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 13828.185 ms
+generate_load.sh|2019-12-10 13:18:59|2019-12-10 13:19:15|16
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 17631.591 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 26133.448 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 27944.900 ms
+generate_load.sh|2019-12-10 13:19:04|2019-12-10 13:19:50|46
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 30882.988 ms
+generate_load.sh|2019-12-10 13:19:16|2019-12-10 13:20:13|57
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 28392.895 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 21246.459 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 29962.278 ms
+generate_load.sh|2019-12-10 13:19:50|2019-12-10 13:20:48|58
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 28289.244 ms
+generate_load.sh|2019-12-10 13:20:13|2019-12-10 13:21:02|49
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 20791.160 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 15221.225 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 30493.652 ms
+generate_load.sh|2019-12-10 13:20:49|2019-12-10 13:21:40|51
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 51606.125 ms
+generate_load.sh|2019-12-10 13:21:06|2019-12-10 13:22:13|67
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 41516.210 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 27418.379 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 35883.806 ms
+generate_load.sh|2019-12-10 13:21:41|2019-12-10 13:22:58|77
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 37891.217 ms
+generate_load.sh|2019-12-10 13:22:13|2019-12-10 13:23:18|65
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 26459.012 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 18865.847 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 29288.616 ms
+generate_load.sh|2019-12-10 13:22:58|2019-12-10 13:23:54|56
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 30938.213 ms
+generate_load.sh|2019-12-10 13:23:18|2019-12-10 13:24:08|50
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+TRUNCATE TABLE
+Time: 21404.043 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+TRUNCATE TABLE
+Time: 24521.149 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 33798.944 ms
+generate_load.sh|2019-12-10 13:23:54|2019-12-10 13:24:49|55
+Timing is on.
+truncate table gpmtr_trxtb2 ;
+INSERT 0 100000
+Time: 32925.837 ms
+generate_load.sh|2019-12-10 13:24:08|2019-12-10 13:25:06|58
+TRUNCATE TABLE
+Time: 19394.039 ms
+insert into gpmtr_trxtb2 select * from gpmtr_trxtb;
+INSERT 0 100000
+Time: 7960.274 ms
+generate_load.sh|2019-12-10 13:24:49|2019-12-10 13:25:17|28

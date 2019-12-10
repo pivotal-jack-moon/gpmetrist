@@ -1,0 +1,182 @@
+Timing is on.
+begin;
+BEGIN
+Time: 79.585 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 5494.385 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1184.998 ms
+commit;
+COMMIT
+Time: 3653.563 ms
+transaction.sh|2019-12-10 13:19:04|2019-12-10 13:19:15|11
+Timing is on.
+begin;
+BEGIN
+Time: 86.179 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 14413.942 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1698.012 ms
+commit;
+COMMIT
+Time: 4936.415 ms
+transaction.sh|2019-12-10 13:19:27|2019-12-10 13:19:48|21
+Timing is on.
+begin;
+BEGIN
+Time: 86.087 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 11373.978 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1120.133 ms
+commit;
+COMMIT
+Time: 4036.689 ms
+transaction.sh|2019-12-10 13:20:01|2019-12-10 13:20:17|16
+Timing is on.
+begin;
+BEGIN
+Time: 118.342 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 5498.157 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1295.815 ms
+commit;
+COMMIT
+Time: 11967.230 ms
+transaction.sh|2019-12-10 13:20:24|2019-12-10 13:20:43|19
+Timing is on.
+begin;
+BEGIN
+Time: 78.877 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 5961.321 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1188.702 ms
+commit;
+COMMIT
+Time: 4372.655 ms
+transaction.sh|2019-12-10 13:20:59|2019-12-10 13:21:10|11
+Timing is on.
+begin;
+BEGIN
+Time: 83.789 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 4840.477 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 859.918 ms
+commit;
+COMMIT
+Time: 9764.680 ms
+transaction.sh|2019-12-10 13:21:16|2019-12-10 13:21:31|15
+Timing is on.
+begin;
+BEGIN
+Time: 57.609 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 13550.040 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 677.998 ms
+commit;
+COMMIT
+Time: 5627.436 ms
+transaction.sh|2019-12-10 13:22:00|2019-12-10 13:22:20|20
+Timing is on.
+begin;
+BEGIN
+Time: 64.679 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 10173.247 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 687.160 ms
+commit;
+COMMIT
+Time: 10564.110 ms
+transaction.sh|2019-12-10 13:22:27|2019-12-10 13:22:49|22
+Timing is on.
+begin;
+BEGIN
+Time: 60.266 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 7104.682 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1378.138 ms
+commit;
+COMMIT
+Time: 3210.232 ms
+transaction.sh|2019-12-10 13:23:09|2019-12-10 13:23:21|12
+Timing is on.
+begin;
+BEGIN
+Time: 64.776 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 4995.185 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 969.324 ms
+commit;
+COMMIT
+Time: 10660.971 ms
+transaction.sh|2019-12-10 13:23:31|2019-12-10 13:23:48|17
+Timing is on.
+begin;
+BEGIN
+Time: 58.211 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 7010.834 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 713.623 ms
+commit;
+COMMIT
+Time: 4685.220 ms
+transaction.sh|2019-12-10 13:24:02|2019-12-10 13:24:15|13
+Timing is on.
+begin;
+BEGIN
+Time: 72.219 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 5978.361 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1307.311 ms
+commit;
+COMMIT
+Time: 11427.418 ms
+transaction.sh|2019-12-10 13:24:21|2019-12-10 13:24:40|19
+Timing is on.
+begin;
+BEGIN
+Time: 58.935 ms
+truncate table gpmtr_trxtb5 ;
+TRUNCATE TABLE
+Time: 8013.033 ms
+insert into gpmtr_trxtb5 select * from gpmtr_sqtb;
+INSERT 0 10
+Time: 1374.069 ms
+commit;
+COMMIT
+Time: 3239.486 ms
+transaction.sh|2019-12-10 13:24:56|2019-12-10 13:25:08|12

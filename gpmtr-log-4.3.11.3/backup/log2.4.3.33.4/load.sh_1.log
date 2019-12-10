@@ -1,0 +1,89 @@
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 10836.867 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 32290.899 ms
+load.sh|2019-11-29 18:36:17|2019-11-29 18:37:00|43
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 11153.516 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 51729.328 ms
+load.sh|2019-11-29 18:37:00|2019-11-29 18:38:03|63
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 7807.431 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 51343.617 ms
+load.sh|2019-11-29 18:38:04|2019-11-29 18:39:03|59
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 10952.923 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 61587.933 ms
+load.sh|2019-11-29 18:39:06|2019-11-29 18:40:19|73
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 20004.913 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 59733.683 ms
+load.sh|2019-11-29 18:40:19|2019-11-29 18:41:39|80
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 9202.909 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 41584.750 ms
+load.sh|2019-11-29 18:41:39|2019-11-29 18:42:30|51
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 4958.454 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 14376.315 ms
+load.sh|2019-11-29 18:42:30|2019-11-29 18:42:49|19
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 5042.375 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 7924.050 ms
+load.sh|2019-11-29 18:42:50|2019-11-29 18:43:03|13
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 5185.976 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 64787.133 ms
+load.sh|2019-11-29 18:43:04|2019-11-29 18:44:14|70
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 7816.259 ms
+insert into tb_load1 select * from tb_load;
+INSERT 0 100000
+Time: 49782.961 ms
+load.sh|2019-11-29 18:44:14|2019-11-29 18:45:12|58
+Timing is on.
+truncate table tb_load1 ;
+TRUNCATE TABLE
+Time: 6442.286 ms
+insert into tb_load1 select * from tb_load;
+Cancel request sent
+ERROR:  canceling statement due to user request
+CONTEXT:  SQL statement "select count(*)::float4 from (select Ta.a9 from pg_temp_622.pg_analyze_17919_12 as Ta group by Ta.a9) as Tb"
+load.sh|2019-11-29 18:45:14|2019-11-29 18:46:59|105

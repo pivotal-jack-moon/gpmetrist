@@ -1,0 +1,134 @@
+Timing is on.
+begin;
+BEGIN
+Time: 62.113 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 11922.906 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1460.042 ms
+commit;
+COMMIT
+Time: 36394.507 ms
+check.sh|2019-11-29 17:48:31|2019-11-29 17:49:21|50
+Timing is on.
+begin;
+BEGIN
+Time: 69.674 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 83359.547 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1823.305 ms
+commit;
+COMMIT
+Time: 43601.548 ms
+check.sh|2019-11-29 17:49:21|2019-11-29 17:51:30|129
+Timing is on.
+begin;
+BEGIN
+Time: 187.815 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1460.553 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1669.775 ms
+commit;
+COMMIT
+Time: 6482.459 ms
+check.sh|2019-11-29 17:51:31|2019-11-29 17:51:41|10
+Timing is on.
+begin;
+BEGIN
+Time: 70.299 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1865.970 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1522.757 ms
+commit;
+COMMIT
+Time: 106650.940 ms
+check.sh|2019-11-29 17:51:42|2019-11-29 17:53:32|110
+Timing is on.
+begin;
+BEGIN
+Time: 84.820 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 20414.160 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 3184.068 ms
+commit;
+COMMIT
+Time: 5537.830 ms
+check.sh|2019-11-29 17:53:41|2019-11-29 17:54:10|29
+Timing is on.
+begin;
+BEGIN
+Time: 70.686 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 1301.453 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2182.563 ms
+commit;
+COMMIT
+Time: 62038.122 ms
+check.sh|2019-11-29 17:54:11|2019-11-29 17:55:17|66
+Timing is on.
+begin;
+BEGIN
+Time: 64.206 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 49876.807 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1193.585 ms
+commit;
+COMMIT
+Time: 9726.099 ms
+check.sh|2019-11-29 17:55:17|2019-11-29 17:56:18|61
+Timing is on.
+begin;
+BEGIN
+Time: 70.822 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 3328.555 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 1615.096 ms
+commit;
+COMMIT
+Time: 4115.469 ms
+check.sh|2019-11-29 17:56:20|2019-11-29 17:56:29|9
+Timing is on.
+begin;
+BEGIN
+Time: 66.143 ms
+truncate table tb_check4 ;
+TRUNCATE TABLE
+Time: 2614.524 ms
+insert into tb_check4 select * from tb_check;
+INSERT 0 10
+Time: 2312.923 ms
+commit;
+COMMIT
+Time: 59324.833 ms
+check.sh|2019-11-29 17:56:31|2019-11-29 17:57:35|64
+Timing is on.
+begin;
+BEGIN
+Time: 66.445 ms
+truncate table tb_check4 ;
+Cancel request sent
+ERROR:  canceling statement due to user request
+check.sh|2019-11-29 17:58:11|2019-11-29 17:59:34|83

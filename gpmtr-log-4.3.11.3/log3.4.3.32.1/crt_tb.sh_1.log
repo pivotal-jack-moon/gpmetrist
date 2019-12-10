@@ -1,0 +1,1024 @@
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5944.223 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4102.494 ms
+crt_tb.sh|2019-12-02 17:06:09|2019-12-02 17:06:19|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 18773.178 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4498.309 ms
+crt_tb.sh|2019-12-02 17:06:19|2019-12-02 17:06:42|23
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3884.279 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4026.690 ms
+crt_tb.sh|2019-12-02 17:06:42|2019-12-02 17:06:50|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2016.257 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 10042.369 ms
+crt_tb.sh|2019-12-02 17:06:50|2019-12-02 17:07:02|12
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 27683.049 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 7727.102 ms
+crt_tb.sh|2019-12-02 17:07:02|2019-12-02 17:07:38|36
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 1888.374 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 1713.672 ms
+crt_tb.sh|2019-12-02 17:07:38|2019-12-02 17:07:41|3
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4634.059 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5352.477 ms
+crt_tb.sh|2019-12-02 17:07:41|2019-12-02 17:07:51|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 8890.588 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 15178.124 ms
+crt_tb.sh|2019-12-02 17:07:51|2019-12-02 17:08:15|24
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 18349.101 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2767.136 ms
+crt_tb.sh|2019-12-02 17:08:15|2019-12-02 17:08:37|22
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3217.237 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 6740.158 ms
+crt_tb.sh|2019-12-02 17:08:37|2019-12-02 17:08:47|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 23201.866 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3471.637 ms
+crt_tb.sh|2019-12-02 17:08:47|2019-12-02 17:09:13|26
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 12315.338 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5408.678 ms
+crt_tb.sh|2019-12-02 17:09:13|2019-12-02 17:09:31|18
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 11447.798 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5476.877 ms
+crt_tb.sh|2019-12-02 17:09:31|2019-12-02 17:09:48|17
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5374.189 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4694.551 ms
+crt_tb.sh|2019-12-02 17:09:48|2019-12-02 17:09:58|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 21899.913 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 22645.908 ms
+crt_tb.sh|2019-12-02 17:09:58|2019-12-02 17:10:43|45
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3241.342 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3004.308 ms
+crt_tb.sh|2019-12-02 17:10:43|2019-12-02 17:10:49|6
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5147.056 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3280.513 ms
+crt_tb.sh|2019-12-02 17:10:49|2019-12-02 17:10:57|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 18785.368 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 10406.820 ms
+crt_tb.sh|2019-12-02 17:10:58|2019-12-02 17:11:27|29
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 9311.632 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4559.821 ms
+crt_tb.sh|2019-12-02 17:11:27|2019-12-02 17:11:41|14
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2889.727 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 16663.221 ms
+crt_tb.sh|2019-12-02 17:11:41|2019-12-02 17:12:00|19
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6980.825 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9066.354 ms
+crt_tb.sh|2019-12-02 17:12:00|2019-12-02 17:12:16|16
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2116.648 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4613.107 ms
+crt_tb.sh|2019-12-02 17:12:16|2019-12-02 17:12:23|7
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4073.297 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9029.692 ms
+crt_tb.sh|2019-12-02 17:12:23|2019-12-02 17:12:36|13
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5259.225 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4773.834 ms
+crt_tb.sh|2019-12-02 17:12:36|2019-12-02 17:12:46|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3210.692 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9239.353 ms
+crt_tb.sh|2019-12-02 17:12:46|2019-12-02 17:12:59|13
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4418.608 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2990.656 ms
+crt_tb.sh|2019-12-02 17:12:59|2019-12-02 17:13:06|7
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4817.020 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 22334.984 ms
+crt_tb.sh|2019-12-02 17:13:06|2019-12-02 17:13:33|27
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 16729.872 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2720.098 ms
+crt_tb.sh|2019-12-02 17:13:34|2019-12-02 17:13:53|19
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3736.879 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3858.576 ms
+crt_tb.sh|2019-12-02 17:13:53|2019-12-02 17:14:01|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4159.806 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 21989.365 ms
+crt_tb.sh|2019-12-02 17:14:01|2019-12-02 17:14:27|26
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4168.819 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2424.974 ms
+crt_tb.sh|2019-12-02 17:14:27|2019-12-02 17:14:33|6
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3963.569 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 7393.097 ms
+crt_tb.sh|2019-12-02 17:14:33|2019-12-02 17:14:45|12
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 17235.115 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 7825.595 ms
+crt_tb.sh|2019-12-02 17:14:45|2019-12-02 17:15:10|25
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2580.723 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 10364.564 ms
+crt_tb.sh|2019-12-02 17:15:10|2019-12-02 17:15:23|13
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 29715.209 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2532.092 ms
+crt_tb.sh|2019-12-02 17:15:23|2019-12-02 17:15:55|32
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2418.020 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5299.786 ms
+crt_tb.sh|2019-12-02 17:15:55|2019-12-02 17:16:03|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 12446.274 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 8048.155 ms
+crt_tb.sh|2019-12-02 17:16:03|2019-12-02 17:16:24|21
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3904.139 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5087.721 ms
+crt_tb.sh|2019-12-02 17:16:24|2019-12-02 17:16:33|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3914.033 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 14658.281 ms
+crt_tb.sh|2019-12-02 17:16:33|2019-12-02 17:16:51|18
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4090.310 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4636.650 ms
+crt_tb.sh|2019-12-02 17:16:51|2019-12-02 17:17:00|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5054.887 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4142.752 ms
+crt_tb.sh|2019-12-02 17:17:00|2019-12-02 17:17:09|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 13940.570 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4980.461 ms
+crt_tb.sh|2019-12-02 17:17:09|2019-12-02 17:17:28|19
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5390.913 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3339.853 ms
+crt_tb.sh|2019-12-02 17:17:28|2019-12-02 17:17:37|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6262.900 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 12586.105 ms
+crt_tb.sh|2019-12-02 17:17:37|2019-12-02 17:17:56|19
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 8118.771 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 6321.201 ms
+crt_tb.sh|2019-12-02 17:17:56|2019-12-02 17:18:10|14
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2003.873 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4151.510 ms
+crt_tb.sh|2019-12-02 17:18:10|2019-12-02 17:18:17|7
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 13613.174 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3228.311 ms
+crt_tb.sh|2019-12-02 17:18:17|2019-12-02 17:18:33|16
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 7080.168 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 7836.975 ms
+crt_tb.sh|2019-12-02 17:18:33|2019-12-02 17:18:48|15
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5408.840 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 14446.258 ms
+crt_tb.sh|2019-12-02 17:18:48|2019-12-02 17:19:08|20
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5009.820 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5360.661 ms
+crt_tb.sh|2019-12-02 17:19:08|2019-12-02 17:19:19|11
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 10434.884 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 11728.115 ms
+crt_tb.sh|2019-12-02 17:19:19|2019-12-02 17:19:41|22
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6189.254 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 6302.943 ms
+crt_tb.sh|2019-12-02 17:19:41|2019-12-02 17:19:53|12
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4332.650 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 21681.368 ms
+crt_tb.sh|2019-12-02 17:19:53|2019-12-02 17:20:19|26
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3819.906 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 27591.856 ms
+crt_tb.sh|2019-12-02 17:20:19|2019-12-02 17:20:51|32
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3665.583 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 12140.862 ms
+crt_tb.sh|2019-12-02 17:20:51|2019-12-02 17:21:07|16
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 18468.184 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5212.129 ms
+crt_tb.sh|2019-12-02 17:21:07|2019-12-02 17:21:31|24
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3107.433 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3733.670 ms
+crt_tb.sh|2019-12-02 17:21:31|2019-12-02 17:21:37|6
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 10295.562 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9201.578 ms
+crt_tb.sh|2019-12-02 17:21:37|2019-12-02 17:21:57|20
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4934.190 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 79196.880 ms
+crt_tb.sh|2019-12-02 17:21:57|2019-12-02 17:23:21|84
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5241.296 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4952.950 ms
+crt_tb.sh|2019-12-02 17:23:21|2019-12-02 17:23:31|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 13104.605 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3995.125 ms
+crt_tb.sh|2019-12-02 17:23:31|2019-12-02 17:23:48|17
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 15486.743 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4661.124 ms
+crt_tb.sh|2019-12-02 17:23:49|2019-12-02 17:24:09|20
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 15618.235 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 7503.565 ms
+crt_tb.sh|2019-12-02 17:24:09|2019-12-02 17:24:32|23
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5879.795 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 21769.038 ms
+crt_tb.sh|2019-12-02 17:24:32|2019-12-02 17:25:00|28
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5871.988 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 56685.918 ms
+crt_tb.sh|2019-12-02 17:25:00|2019-12-02 17:26:02|62
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3997.960 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 23930.381 ms
+crt_tb.sh|2019-12-02 17:26:02|2019-12-02 17:26:30|28
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 9888.521 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 18120.695 ms
+crt_tb.sh|2019-12-02 17:26:30|2019-12-02 17:26:58|28
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5581.156 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4121.608 ms
+crt_tb.sh|2019-12-02 17:26:58|2019-12-02 17:27:08|10
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 7125.169 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 50148.402 ms
+crt_tb.sh|2019-12-02 17:27:08|2019-12-02 17:28:05|57
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 8955.600 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3864.882 ms
+crt_tb.sh|2019-12-02 17:28:05|2019-12-02 17:28:18|13
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 15867.616 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 17240.045 ms
+crt_tb.sh|2019-12-02 17:28:18|2019-12-02 17:28:51|33
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3728.514 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 16290.015 ms
+crt_tb.sh|2019-12-02 17:28:51|2019-12-02 17:29:11|20
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6261.656 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 8173.350 ms
+crt_tb.sh|2019-12-02 17:29:11|2019-12-02 17:29:26|15
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 52710.128 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3350.519 ms
+crt_tb.sh|2019-12-02 17:29:26|2019-12-02 17:30:22|56
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 44942.744 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2838.008 ms
+crt_tb.sh|2019-12-02 17:30:22|2019-12-02 17:31:10|48
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4301.044 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4458.864 ms
+crt_tb.sh|2019-12-02 17:31:10|2019-12-02 17:31:19|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5495.768 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 36919.166 ms
+crt_tb.sh|2019-12-02 17:31:19|2019-12-02 17:32:01|42
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 11770.338 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2439.208 ms
+crt_tb.sh|2019-12-02 17:32:01|2019-12-02 17:32:15|14
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2231.331 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2284.307 ms
+crt_tb.sh|2019-12-02 17:32:15|2019-12-02 17:32:20|5
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5941.672 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 42726.968 ms
+crt_tb.sh|2019-12-02 17:32:20|2019-12-02 17:33:09|49
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 56356.556 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2742.209 ms
+crt_tb.sh|2019-12-02 17:33:09|2019-12-02 17:34:08|59
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4185.506 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 13890.746 ms
+crt_tb.sh|2019-12-02 17:34:08|2019-12-02 17:34:26|18
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 24689.366 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9182.067 ms
+crt_tb.sh|2019-12-02 17:34:26|2019-12-02 17:35:00|34
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3335.790 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4575.628 ms
+crt_tb.sh|2019-12-02 17:35:00|2019-12-02 17:35:08|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 51786.949 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 34867.272 ms
+crt_tb.sh|2019-12-02 17:35:08|2019-12-02 17:36:34|86
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3256.533 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4434.572 ms
+crt_tb.sh|2019-12-02 17:36:34|2019-12-02 17:36:42|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 43722.060 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 25434.809 ms
+crt_tb.sh|2019-12-02 17:36:42|2019-12-02 17:37:51|69
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 8275.460 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 9638.747 ms
+crt_tb.sh|2019-12-02 17:37:51|2019-12-02 17:38:09|18
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3264.884 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 49489.712 ms
+crt_tb.sh|2019-12-02 17:38:09|2019-12-02 17:39:02|53
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 13813.504 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2109.956 ms
+crt_tb.sh|2019-12-02 17:39:02|2019-12-02 17:39:18|16
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2469.962 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2483.526 ms
+crt_tb.sh|2019-12-02 17:39:18|2019-12-02 17:39:23|5
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4251.942 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 26547.270 ms
+crt_tb.sh|2019-12-02 17:39:23|2019-12-02 17:39:54|31
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 67535.948 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3066.206 ms
+crt_tb.sh|2019-12-02 17:39:54|2019-12-02 17:41:04|70
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5117.488 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 6574.950 ms
+crt_tb.sh|2019-12-02 17:41:04|2019-12-02 17:41:16|12
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 24266.322 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 8090.397 ms
+crt_tb.sh|2019-12-02 17:41:16|2019-12-02 17:41:49|33
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5113.230 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 10884.286 ms
+crt_tb.sh|2019-12-02 17:41:49|2019-12-02 17:42:05|16
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 16019.688 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2678.841 ms
+crt_tb.sh|2019-12-02 17:42:05|2019-12-02 17:42:23|18
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3458.914 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 85049.669 ms
+crt_tb.sh|2019-12-02 17:42:23|2019-12-02 17:43:52|89
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 44105.113 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4140.408 ms
+crt_tb.sh|2019-12-02 17:43:52|2019-12-02 17:44:40|48
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3552.697 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5153.772 ms
+crt_tb.sh|2019-12-02 17:44:40|2019-12-02 17:44:49|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3628.050 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 36182.625 ms
+crt_tb.sh|2019-12-02 17:44:49|2019-12-02 17:45:29|40
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 66974.513 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3670.188 ms
+crt_tb.sh|2019-12-02 17:45:29|2019-12-02 17:46:39|70
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5108.929 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 33619.514 ms
+crt_tb.sh|2019-12-02 17:46:39|2019-12-02 17:47:18|39
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 39575.016 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3478.829 ms
+crt_tb.sh|2019-12-02 17:47:18|2019-12-02 17:48:01|43
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2042.576 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5087.057 ms
+crt_tb.sh|2019-12-02 17:48:01|2019-12-02 17:48:09|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 12782.950 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 39662.173 ms
+crt_tb.sh|2019-12-02 17:48:09|2019-12-02 17:49:01|52
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2087.840 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3543.774 ms
+crt_tb.sh|2019-12-02 17:49:01|2019-12-02 17:49:07|6
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 26461.625 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 49445.205 ms
+crt_tb.sh|2019-12-02 17:49:07|2019-12-02 17:50:23|76
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 29912.340 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2388.913 ms
+crt_tb.sh|2019-12-02 17:50:23|2019-12-02 17:50:55|32
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5013.816 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3860.308 ms
+crt_tb.sh|2019-12-02 17:50:55|2019-12-02 17:51:04|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 64569.842 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4354.220 ms
+crt_tb.sh|2019-12-02 17:51:04|2019-12-02 17:52:13|69
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3303.604 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4679.274 ms
+crt_tb.sh|2019-12-02 17:52:13|2019-12-02 17:52:21|8
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6940.963 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3865.164 ms
+crt_tb.sh|2019-12-02 17:52:21|2019-12-02 17:52:32|11
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3133.762 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2183.126 ms
+crt_tb.sh|2019-12-02 17:52:32|2019-12-02 17:52:37|5
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3214.882 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3928.951 ms
+crt_tb.sh|2019-12-02 17:52:37|2019-12-02 17:52:44|7
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 9721.299 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 2605.391 ms
+crt_tb.sh|2019-12-02 17:52:44|2019-12-02 17:52:57|13
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3498.946 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4251.373 ms
+crt_tb.sh|2019-12-02 17:52:57|2019-12-02 17:53:04|7
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 350679.232 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 107756.317 ms
+crt_tb.sh|2019-12-02 17:53:04|2019-12-02 18:00:43|459
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4162.076 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 4404.889 ms
+crt_tb.sh|2019-12-02 18:00:43|2019-12-02 18:00:52|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 42734.639 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 23226.456 ms
+crt_tb.sh|2019-12-02 18:00:52|2019-12-02 18:01:58|66
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2744.051 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 1945.706 ms
+crt_tb.sh|2019-12-02 18:01:58|2019-12-02 18:02:02|4
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4188.208 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 73914.996 ms
+crt_tb.sh|2019-12-02 18:02:02|2019-12-02 18:03:20|78
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 11507.421 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 13919.787 ms
+crt_tb.sh|2019-12-02 18:03:20|2019-12-02 18:03:46|26
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 47079.556 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 980.228 ms
+crt_tb.sh|2019-12-02 18:03:46|2019-12-02 18:04:34|48
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4910.782 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 3715.342 ms
+crt_tb.sh|2019-12-02 18:04:34|2019-12-02 18:04:43|9
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 7560.109 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 17656.898 ms
+crt_tb.sh|2019-12-02 18:04:43|2019-12-02 18:05:08|25
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 34084.159 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 5235.118 ms
+crt_tb.sh|2019-12-02 18:05:08|2019-12-02 18:05:47|39
+Timing is on.
+create table tb_crt1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3864.300 ms
+drop table if exists tb_crt1;
+DROP TABLE
+Time: 21425.465 ms
+crt_tb.sh|2019-12-02 18:05:47|2019-12-02 18:06:13|26

@@ -7,12 +7,12 @@ LOGFILE=$GPMTR_LOGDIR"/"$BMT_NO"_"$1".log"
 
 START_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 
-# commit start
+# query start
 psql -U gpadmin -d $GPMTR_DB -e >> $LOGFILE 2>&1 <<-!
-begin;
-commit;
+create table $GPMTR_CRTTB$1 (a int) distributed by (a);
+drop table if exists $GPMTR_CRTTB$1;
 !
-# commit end
+# query end
 
 END_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 

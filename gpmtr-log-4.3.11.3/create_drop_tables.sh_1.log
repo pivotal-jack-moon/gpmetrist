@@ -1,0 +1,280 @@
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6695.263 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5217.473 ms
+create_drop_tables.sh|2019-12-10 13:19:04|2019-12-10 13:19:16|12
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5044.413 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2433.688 ms
+create_drop_tables.sh|2019-12-10 13:19:16|2019-12-10 13:19:23|7
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2707.786 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 14374.020 ms
+create_drop_tables.sh|2019-12-10 13:19:24|2019-12-10 13:19:41|17
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4946.627 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 3119.459 ms
+create_drop_tables.sh|2019-12-10 13:19:41|2019-12-10 13:19:49|8
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4853.678 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 4884.090 ms
+create_drop_tables.sh|2019-12-10 13:19:49|2019-12-10 13:19:58|9
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 9330.384 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5711.495 ms
+create_drop_tables.sh|2019-12-10 13:19:59|2019-12-10 13:20:14|15
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4438.742 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2599.180 ms
+create_drop_tables.sh|2019-12-10 13:20:14|2019-12-10 13:20:21|7
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2674.861 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5649.568 ms
+create_drop_tables.sh|2019-12-10 13:20:21|2019-12-10 13:20:29|8
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 12659.865 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 3306.116 ms
+create_drop_tables.sh|2019-12-10 13:20:29|2019-12-10 13:20:45|16
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 1851.302 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2467.371 ms
+create_drop_tables.sh|2019-12-10 13:20:45|2019-12-10 13:20:49|4
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3045.929 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 6178.712 ms
+create_drop_tables.sh|2019-12-10 13:20:50|2019-12-10 13:20:59|9
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 7010.555 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2896.603 ms
+create_drop_tables.sh|2019-12-10 13:20:59|2019-12-10 13:21:09|10
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2660.112 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2426.726 ms
+create_drop_tables.sh|2019-12-10 13:21:09|2019-12-10 13:21:14|5
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2949.152 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5015.976 ms
+create_drop_tables.sh|2019-12-10 13:21:14|2019-12-10 13:21:22|8
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 9609.214 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 1809.771 ms
+create_drop_tables.sh|2019-12-10 13:21:22|2019-12-10 13:21:33|11
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3968.999 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 14000.550 ms
+create_drop_tables.sh|2019-12-10 13:21:33|2019-12-10 13:21:51|18
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3761.985 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 7421.025 ms
+create_drop_tables.sh|2019-12-10 13:21:51|2019-12-10 13:22:03|12
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 15170.318 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 3669.028 ms
+create_drop_tables.sh|2019-12-10 13:22:03|2019-12-10 13:22:21|18
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2174.213 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2149.934 ms
+create_drop_tables.sh|2019-12-10 13:22:21|2019-12-10 13:22:26|5
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5292.042 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 9594.008 ms
+create_drop_tables.sh|2019-12-10 13:22:26|2019-12-10 13:22:41|15
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 11690.269 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 3095.538 ms
+create_drop_tables.sh|2019-12-10 13:22:41|2019-12-10 13:22:56|15
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 3381.904 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 6961.622 ms
+create_drop_tables.sh|2019-12-10 13:22:56|2019-12-10 13:23:06|10
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5180.890 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 6581.163 ms
+create_drop_tables.sh|2019-12-10 13:23:06|2019-12-10 13:23:18|12
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2280.208 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5034.935 ms
+create_drop_tables.sh|2019-12-10 13:23:18|2019-12-10 13:23:25|7
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4048.894 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 1365.485 ms
+create_drop_tables.sh|2019-12-10 13:23:25|2019-12-10 13:23:31|6
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4705.772 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 8684.259 ms
+create_drop_tables.sh|2019-12-10 13:23:31|2019-12-10 13:23:44|13
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6521.564 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 1227.901 ms
+create_drop_tables.sh|2019-12-10 13:23:44|2019-12-10 13:23:52|8
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 1772.520 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 2368.849 ms
+create_drop_tables.sh|2019-12-10 13:23:52|2019-12-10 13:23:56|4
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 4543.485 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5026.541 ms
+create_drop_tables.sh|2019-12-10 13:23:56|2019-12-10 13:24:06|10
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5434.670 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 5302.330 ms
+create_drop_tables.sh|2019-12-10 13:24:06|2019-12-10 13:24:16|10
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 2377.287 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 1704.083 ms
+create_drop_tables.sh|2019-12-10 13:24:16|2019-12-10 13:24:21|5
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 6796.197 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 10803.942 ms
+create_drop_tables.sh|2019-12-10 13:24:21|2019-12-10 13:24:38|17
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 8999.998 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 1289.014 ms
+create_drop_tables.sh|2019-12-10 13:24:38|2019-12-10 13:24:49|11
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 1902.236 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 3981.415 ms
+create_drop_tables.sh|2019-12-10 13:24:49|2019-12-10 13:24:54|5
+Timing is on.
+create table gpmtr_crttb1 (a int) distributed by (a);
+CREATE TABLE
+Time: 5532.431 ms
+drop table if exists gpmtr_crttb1;
+DROP TABLE
+Time: 6650.766 ms
+create_drop_tables.sh|2019-12-10 13:24:55|2019-12-10 13:25:07|12
