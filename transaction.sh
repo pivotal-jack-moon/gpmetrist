@@ -9,13 +9,34 @@ START_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 
 # query start
 psql -U gpadmin -d $GPMTR_DB -e >> $LOGFILE 2>&1 <<-!
-
 begin;
 truncate table $GPMTR_TRXTB$1 ;
-insert into $GPMTR_TRXTB$1 select * from $GPMTR_SQTB;
+insert into $GPMTR_TRXTB$1
+select
+    md5(i::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text),
+    md5(random()::text)
+from generate_series(1, 1000000) s(i)
 commit;
 !
+
+#begin;
+#truncate table $GPMTR_TRXTB$1 ;
+#insert into $GPMTR_TRXTB$1 select * from $GPMTR_SQTB;
+#commit;
+#!
 # query end
+#/home/gpadmin/gpmetrist/mockd-linux greenplum -n 10000000 -u gpadmin -d $GPMTR_DB -t $GPMTR_TRXTB$1
+
 
 END_TM1=`date "+%Y-%m-%d %H:%M:%S"`
 

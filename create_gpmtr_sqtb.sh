@@ -4,18 +4,18 @@
 psql -d $GPMTR_DB -c "
 create table $GPMTR_SQTB
 (
-a1 int,
-a2 int,
-a3 int,
-a4 int,
-a5 int,
-a6 int,
-a7 int,
-a8 int,
-a9 int,
-a10 int,
-a11 int,
-a12 int
+a1 TEXT,
+a2 TEXT,
+a3 TEXT,
+a4 TEXT,
+a5 TEXT,
+a6 TEXT,
+a7 TEXT,
+a8 TEXT,
+a9 TEXT,
+a10 TEXT,
+a11 TEXT,
+a12 TEXT
 )
 distributed by (a1) ;
 "

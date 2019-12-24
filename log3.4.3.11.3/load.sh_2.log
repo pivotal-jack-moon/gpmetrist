@@ -1,0 +1,416 @@
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 12976.658 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 22970.445 ms
+load.sh|2019-12-02 18:57:33|2019-12-02 18:58:09|36
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8556.560 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 22273.411 ms
+load.sh|2019-12-02 18:58:09|2019-12-02 18:58:40|31
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 18137.967 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 29671.375 ms
+load.sh|2019-12-02 18:58:40|2019-12-02 18:59:28|48
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 17420.016 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 17528.801 ms
+load.sh|2019-12-02 18:59:28|2019-12-02 19:00:03|35
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 14724.553 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 18384.767 ms
+load.sh|2019-12-02 19:00:03|2019-12-02 19:00:36|33
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 9913.505 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 20692.429 ms
+load.sh|2019-12-02 19:00:36|2019-12-02 19:01:07|31
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8693.919 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 24580.079 ms
+load.sh|2019-12-02 19:01:07|2019-12-02 19:01:40|33
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 20744.420 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 18804.339 ms
+load.sh|2019-12-02 19:01:40|2019-12-02 19:02:20|40
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 4955.197 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 18202.301 ms
+load.sh|2019-12-02 19:02:25|2019-12-02 19:02:48|23
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7240.280 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 15748.458 ms
+load.sh|2019-12-02 19:02:49|2019-12-02 19:03:12|23
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8987.831 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 31231.151 ms
+load.sh|2019-12-02 19:03:36|2019-12-02 19:04:16|40
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 9539.082 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 35526.937 ms
+load.sh|2019-12-02 19:04:16|2019-12-02 19:05:02|46
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 13899.447 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 16061.623 ms
+load.sh|2019-12-02 19:05:02|2019-12-02 19:05:32|30
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 13160.420 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 45102.543 ms
+load.sh|2019-12-02 19:05:32|2019-12-02 19:06:30|58
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 9456.857 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 75226.969 ms
+load.sh|2019-12-02 19:06:30|2019-12-02 19:07:55|85
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 14718.510 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 28500.016 ms
+load.sh|2019-12-02 19:07:55|2019-12-02 19:08:38|43
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 14721.175 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 25167.544 ms
+load.sh|2019-12-02 19:08:41|2019-12-02 19:09:21|40
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11325.037 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 56970.036 ms
+load.sh|2019-12-02 19:09:25|2019-12-02 19:10:33|68
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 26359.965 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 26683.385 ms
+load.sh|2019-12-02 19:10:33|2019-12-02 19:11:26|53
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 44499.335 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 14470.458 ms
+load.sh|2019-12-02 19:11:26|2019-12-02 19:12:25|59
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7892.505 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 16041.443 ms
+load.sh|2019-12-02 19:12:26|2019-12-02 19:12:50|24
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7145.641 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 53782.060 ms
+load.sh|2019-12-02 19:12:50|2019-12-02 19:13:51|61
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7032.944 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 37913.036 ms
+load.sh|2019-12-02 19:13:52|2019-12-02 19:14:36|44
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 6251.226 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 59232.099 ms
+load.sh|2019-12-02 19:14:37|2019-12-02 19:15:43|66
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 19974.943 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 25196.695 ms
+load.sh|2019-12-02 19:15:43|2019-12-02 19:16:28|45
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8553.193 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 55382.172 ms
+load.sh|2019-12-02 19:16:28|2019-12-02 19:17:32|64
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 24435.520 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 50113.361 ms
+load.sh|2019-12-02 19:17:33|2019-12-02 19:18:47|74
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 8005.769 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 46946.051 ms
+load.sh|2019-12-02 19:18:47|2019-12-02 19:19:42|55
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 18002.917 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 45843.133 ms
+load.sh|2019-12-02 19:19:43|2019-12-02 19:20:47|64
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 29492.976 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 46667.684 ms
+load.sh|2019-12-02 19:20:47|2019-12-02 19:22:04|77
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 16616.098 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 81987.415 ms
+load.sh|2019-12-02 19:22:04|2019-12-02 19:23:42|98
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 19849.641 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 42038.326 ms
+load.sh|2019-12-02 19:23:42|2019-12-02 19:24:44|62
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 25717.563 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 42019.338 ms
+load.sh|2019-12-02 19:24:44|2019-12-02 19:25:52|68
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 18707.105 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 66423.359 ms
+load.sh|2019-12-02 19:25:52|2019-12-02 19:27:17|85
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 29333.320 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 52995.846 ms
+load.sh|2019-12-02 19:27:18|2019-12-02 19:28:40|82
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11068.563 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 64904.121 ms
+load.sh|2019-12-02 19:28:40|2019-12-02 19:29:56|76
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 17427.860 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 64483.683 ms
+load.sh|2019-12-02 19:29:56|2019-12-02 19:31:18|82
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 47316.152 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 96246.205 ms
+load.sh|2019-12-02 19:31:18|2019-12-02 19:33:42|144
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 28729.705 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 51355.254 ms
+load.sh|2019-12-02 19:33:42|2019-12-02 19:35:02|80
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 22263.897 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 45749.196 ms
+load.sh|2019-12-02 19:35:02|2019-12-02 19:36:10|68
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 22957.549 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 38679.895 ms
+load.sh|2019-12-02 19:36:10|2019-12-02 19:37:12|62
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 6947.248 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 58931.652 ms
+load.sh|2019-12-02 19:37:25|2019-12-02 19:38:31|66
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 67073.478 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 42707.055 ms
+load.sh|2019-12-02 19:38:33|2019-12-02 19:40:22|109
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 12582.188 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 52302.640 ms
+load.sh|2019-12-02 19:40:23|2019-12-02 19:41:28|65
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 43600.021 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 15533.731 ms
+load.sh|2019-12-02 19:41:28|2019-12-02 19:42:27|59
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 9230.791 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 16172.978 ms
+load.sh|2019-12-02 19:42:27|2019-12-02 19:42:52|25
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 13657.673 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 70387.204 ms
+load.sh|2019-12-02 19:42:55|2019-12-02 19:44:19|84
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 7723.357 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 453047.036 ms
+load.sh|2019-12-02 19:44:19|2019-12-02 19:52:00|461
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 155266.635 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 48079.215 ms
+load.sh|2019-12-02 19:52:01|2019-12-02 19:55:24|203
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 11506.708 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 51340.808 ms
+load.sh|2019-12-02 19:55:24|2019-12-02 19:56:27|63
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 10791.794 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 42580.578 ms
+load.sh|2019-12-02 19:56:28|2019-12-02 19:57:21|53
+Timing is on.
+truncate table tb_load2 ;
+TRUNCATE TABLE
+Time: 14110.212 ms
+insert into tb_load2 select * from tb_load;
+INSERT 0 100000
+Time: 18462.055 ms
+load.sh|2019-12-02 19:57:23|2019-12-02 19:57:55|32

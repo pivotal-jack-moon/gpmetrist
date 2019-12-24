@@ -4,7 +4,7 @@ In addition it include feature to record how much time each queries has been spe
 
 # Where is GPMetrist from?
 It's been produced initially by Sang-Hee Lee who is Greenplum Database, Advosory Platform Architect in Pivotal Korea in order to simulate real wrokload and to reproduce the ceratin issue.
-and then project names, file names and a few codes has been changed by Jack Moon.
+and project names, file names and a few codes has been changed by Jack Moon.
 
 # Prerequisite
 - GPDB 4, 5, 6 or later version
@@ -69,3 +69,17 @@ $./init_gpmtr.sh
 ./mk_gpmtr_statistics.sh
 ~~~
 6. Copy the output of mk_gpmtr_statistics.sh script into google sheets or MS-Excel and then make graphs
+
+
+To insert one million rows into Towns
+~~~
+insert into towns (
+    code, article, name, department
+)
+select
+    left(md5(i::text), 10),
+    md5(random()::text),
+    md5(random()::text),
+    left(md5(random()::text), 4)
+from generate_series(1, 1000000) s(i)
+~~~
